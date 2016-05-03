@@ -1,0 +1,781 @@
+BUFFY	I'm really sorry.
+DAWN	It's okay.
+BUFFY	No, we're gonna sit down and have a real dinner. Someday. I hate having to run out in the middle, it's just this thing out there.
+DAWN	I understand.
+BUFFY	Spike says it's pretty scary, some kind of monster thing, definitely non-vampire.
+DAWN	Well, maybe when you get back, we can set up for your party tomorrow.
+BUFFY	Yeah, this might be a while, you shouldn't wait up. Besides, Willow promised she's on birthday patrol. Nothin' left for us to do.
+DAWN	Right.
+BUFFY	Okay, so homework, finish dinner, and don't stay up too late, all right?
+DAWN	Okay.
+BUFFY	Good. We'll spend time later, I promise.
+BUFFY	Hey, I was using that!
+ANYA	Do you think we should set up lots of candles at Buffy's party tomorrow?
+XANDER	Not if they're that horrible slug kind you keep trying to unload.
+ANYA	I don't know why people get so turned off by slug.
+XANDER	Honey? Slugs get turned off by slug. Actually, I wanted to talk to you about that.
+WILLOW	Slugs?
+XANDER	The party. Or, Tara. At the party.
+WILLOW	Oh.
+XANDER	It's just, Buffy really wants her there, seems important to her, and I told her I would ask you.
+WILLOW	Oh, yeah, of course, she should totally be there, it'll be great!
+XANDER	You'll be okay with it?
+WILLOW	What, me? Of course, why wouldn't I be? It'll be fun, I'll be fine.
+ANYA	This isn't some weird definition of "fine" that means hiding in your room and crying?
+WILLOW	No.
+ANYA	Because we're tired of the crying.
+WILLOW	Guys, Tara's Buffy's friend, too, she should be there. I want her there, it'll be good to see her.
+DAWN	Hey.
+WILLOW	Hey, Dawnie. Buffy out patrolling already?
+XANDER	Anything new about Warren and the Nerd Herd?
+DAWN	No. Just a big Monster Hunt.
+XANDER	Man, a nerd goes into hiding, he really goes into hiding. Upside of spending all that time shoved inside a locker. Not that I would know.
+DAWN	So, I was thinking, who wants to go with me to the mall for birthday presents?
+WILLOW	Oh, honey, I would, but I've got group. You know. The whole Spellcasters Anonymous thing. We're looking for a better name.
+DAWN	Oh, well, no, that's good, you should do that. What about you guys?
+ANYA	Stuck in doing-the-books-ville.
+XANDER	I'd go with you, but I've gotta finish this new shift schedule for the crew before tomorrow morning.
+WILLOW	Sorry. I think it's just one of those nights, you know?
+DAWN	Yeah.
+WILLOW	You okay going on your own?
+DAWN	Yeah, somehow I'll manage to pull it off.
+DAWN	Buffy?
+TEACHER	Dawn?
+HALLIE	I'm so sorry, I didn't mean to scare you.
+DAWN	Great.
+HALLIE	I've been looking through your file. Your grades have slipped a little.
+DAWN	I've got really hard classes this quarter.
+HALLIE	Still. Teachers say you've seemed a little distracted lately.
+DAWN	I'm not. I'm fine.
+HALLIE	Okay. It's just, I know it must seem weird, talking to a stranger about stuff. But I want you to know, if something's going on, if something's up --
+DAWN	I'm really okay.
+HALLIE	I know there's been a lot of loss.
+DAWN	Yeah, kind of. I mean, yes, people keep - - people have a tendency to go away. And I miss them. And sometimes I wish I could make them stop. Going away.
+BUFFY	Is there a chemical leak in here?
+XANDER	Anya's making hors d'oeuvres.
+BUFFY	Oh, God.
+ANYA	No, they're yummy. A little cheddar cheese, some scallions, crispy rye...
+BUFFY	Is there, like, demon meat in there somewhere?
+ANYA	No. Whole jar of mayonnaise, but...
+BUFFY	Gagggghhh.
+XANDER	Who's coming, you invite anyone else?
+BUFFY	No. Willow, Tara, you guys.. Oh, I invited Sophie from work.
+ANYA	Really. What's Sophie's last name?
+BUFFY	Okay, shut up.
+XANDER	Don't worry about it. We're all over the new friend thing.
+BUFFY	What new friend thing?
+ANYA	Oh, we invited someone for you. A guy.
+DAWN	For Buffy? Really?
+XANDER	It's not a set-up.
+ANYA	Right, no. It's just an attractive, single man with whom we hope you'll find much in common.
+XANDER	Ahn.
+ANYA	And if you happen to forge a romantic relationship leading to babies and many double dates with us so we have someone else to talk to, yay!
+BUFFY	I'm going to assume this was an act of kindness. That will help me with all the not throttling.
+XANDER	Maybe we should start getting this stuff out there, people will be here soon.
+BUFFY	Yes. Maybe we should.
+DAWN	Oh, when they get here, can we start with opening the presents maybe?
+XANDER	Patience, grasshopper.
+BUFFY	I promise I'll let you know when it's time, hang out, have some punch.
+BUFFY	Hey, you came.
+TARA	Of course, sweetie. How're you doing?
+BUFFY	Oh, you know. Better. Mostly. Sometimes.
+TARA	So... Is Spike coming?
+BUFFY	He may be a chip head but he still doesn't play well with others. And I'm definitely not ready to...
+TARA	Come out?
+BUFFY	Yeah. I'm all stay inny. How about you, are you okay?
+TARA	Yeah, the word "gulp" comes to mind.
+BUFFY	Well, remember, we're all-
+WILLOW	Hey.
+TARA	Hey.
+WILLOW	Hey. How are you?
+TARA	Fine. Thanks, I'm fine. How are you?
+WILLOW	Great. I mean, fine. You know. All Finey McFine Fine.
+TARA	You look --
+WILLOW	Thanks!
+TARA	-- great.
+WILLOW	Thanks. You too Is that a new --
+TARA	Yeah.
+WILLOW	It's nice.
+TARA	Thanks.
+WILLOW	Great! Good! You should, don't wanna get, you know. Thirsty.
+BUFFY	Hey, how did - -
+TARA	Yes, please.
+BUFFY	Spike?
+SPIKE	Yeah, Willow mentioned the shindig, figured we're all part of the team, thought I'd swing by.
+BUFFY	Wait, what kind of team is this?
+CLEM	Hi. We met once before.
+BUFFY	Yes. Yes, we did.
+SPIKE	You know. More. Merrier. That whole thing.
+CLEM	Hi, I'm Clement. Clem.
+TARA	Tara.
+XANDER	Buffy, Richard.
+BUFFY	Hey.
+XANDER	Richard was wondering where's the best place to park his car.
+BUFFY	Oh? well, it's easy, you just --
+XANDER	Buffy'll show you.
+BUFFY	Okay. Be right back.
+RICHARD	Uh, that guy. With the...?
+BUFFY	Skin condition. Doesn't really talk about it.
+SPIKE	Stupid git.
+TARA	I don't know. He seemed cute. Was he cute? I mean, I'm not a great judge, but I think he seemed cute.
+CLEM	I think he seemed cute.
+DAWN	If we go get Buffy now, she can start on the presents. It's been enough time, hasn't it?
+ANYA	Not yet, sweetie.
+XANDER	I think Buff's busy right now anyway.
+ANYA	Buffy's making a new friend right now. A grown-up friend.
+DAWN	What? You mean that guy you invited to set her up with?
+ANYA	Nothing.
+DAWN	It's not like I don't understand why you invited him. I was there, remember? I hear you when I'm in the room, you know. I do understand these things.
+ANYA	Yes you do.
+DAWN	You know I'm in high school, right?
+ANYA	Yes you are.
+SPIKE	Wanna slip away for a minute, love? I'll let you blow out my candles.
+BUFFY	Now? Here? Where? I don't think so.
+SPIKE	Why, worried about Richard? Don't wanna make the new boyfriend jealous, eh?
+BUFFY	Shut up, he's sweet.
+SPIKE	Shut up, he's sweet.
+BUFFY	Maybe he's not the jealous one.
+SPIKE	Right! 'Cause it's the floppy hair I find so intimidating.
+BUFFY	Uh...
+WILLOW	See? It's a battery-operated back massager, only it's portable, so you can take it with you on patrol.
+BUFFY	Uh huh.
+WILLOW	It's like instant gratification for all your little acheys.
+BUFFY	Okay! Great, thanks, what's next?
+DAWN	Here, do mine.
+BUFFY	Dawn...
+DAWN	Do you like it?
+BUFFY	It's gorgeous.
+DAWN	I was so nervous. I was afraid you wouldn't like it.
+BUFFY	It's still got a security tag.
+DAWN	Huh? That's so weird, I can't believe they left that on.
+BUFFY	Oh my God.
+ANYA	Yes. Xander did the building, I offered helpful suggestions while observing from a safe distance.
+XANDER	Holds basic weapons, maybe a few non- basic ones. And there's a CD rack.
+ANYA	He wanted you to have something no one else would have.
+BUFFY	A Xander Harris Original. It's beautiful, thank you.
+TARA	Buffy?
+BUFFY	Sophie, hey, we're somewhere between presents and cake. There... is going to be cake eventually, right?
+SOPHIE	Hey, um, my mom told me to say thank you right away for inviting me, 'cause otherwise I usually forget, so thank you, and also that I can't have any chocolate or peanuts or egg yolks or sometimes dairy.
+BUFFY	No problem.
+ANYA	That's your friend from work?
+BUFFY	Well... yeah. All the good ones got picked off by that lady with the wig, lay off.
+ANYA	Humm. Our friend is better.
+BUFFY	Dawnie, you mind getting the door? We can do official introductions now that everyone's officially here.
+HALFREK	Wish granted.
+RICHARD	Great party. Everyone's having fun.
+BUFFY	I hope so.
+RICHARD	Well, look at the clock. And no one's even thinking about leaving. I know I can't tear myself away.
+BUFFY	Yeah.
+RICHARD	Hey, can I get you a drink?
+BUFFY	No, thanks, I'm -- I'm good. I'm gonna head back in.
+RICHARD	I'll look for you.
+SPIKE	Ohhh, Buffy, might I get you a soda pop? I think I'm in looooove!
+BUFFY	Seriously, stop it, someone will see.
+SPIKE	Mmmm-hmmm.
+TARA	Muscle cramp. In your pants.
+SPIKE	What. It's a thing.
+TARA	Right.
+ANYA	No, you go.
+XANDER	No, you go.
+ANYA	No, you go.
+WILLOW	Okay, it's just a beer run. I'll go.
+SOPHIE	I can't really, like, drink beer, 'cause, you know. Barley. But I'll go with you to get some.
+WILLOW	Perfect. Here we go with the beer- getting.
+BUFFY	This sucks. I'm out.
+RICHARD	No way. I think you're doing fine.
+XANDER	Wanna try poker?
+CLEM	Still say it's weird without kittens.
+BUFFY	No kittens! He's quirky.
+RICHARD	We've been playing for, like, three hours. It's already two something. You can't bail now.
+ANYA	Yes, Buffy, stay. I want to bankrupt someone.
+DAWN	Oh, we should totally have a slumber party!
+BUFFY	Well... I don't know. I guess, as long as we're all staying up anyway.
+SPIKE	Must be some late-night activities to keep us busy till morning.
+SPIKE	What? Oh. Yeah...
+TARA	Maybe you should put some ice on it.
+RICHARD	Xander, we have to be at work in a few minutes
+XANDER	Okay.
+WILLOW	Wait, does everyone know who they are? Just figure it's a good idea to check.
+RICHARD	I can't be late today.
+SPIKE	You should definitely go, let's find your coat, get you on your merry way.
+BUFFY	Spike.
+RICHARD	I don't know why I'm not going.
+SPIKE	Me either. 'Sides, Richie, can't skip breakfast, growing boy like you. Me, I used to love breakfast. (glaring at Richard) In the old days, I probably would have eaten by now.
+BUFFY	'Course, with that new diet of yours, you wanna be careful about what you try to put in your mouth now. Spikey.
+SPIKE	Yeah? Dunno, tummy's makin' all kinds of gurglies, maybe I oughta just feed on whatever's around, even if it doesn't go down well. You work out?
+BUFFY	Okey-dokey.
+BUFFY	Hey! Passive Aggressive Guy! Seriously, wanna take it down a notch or two out there?
+SPIKE	What, poor, dainty Richard can't take a joke?
+BUFFY	We do not joke about eating people in this house!
+SPIKE	What are you gonna do? Beat me up again?
+WILLOW	Oh. Hi.
+TARA	Hey. Breakfast. Didn't plan for a sleep over.
+WILLOW	No, me either. I mean, it's weird. I have class, I know I should go.
+TARA	I know, it's like I wanna leave, but I don't want to.
+WILLOW	Exactly!
+TARA	We should probably get back in there.
+WILLOW	Yeah, see if anyone else...
+TARA	Right. Right.
+BUFFY	I should have thrown you out the second you got here. I was insane to think you could ever just hang out with my friends.
+SPIKE	And I was insane to think - - oh, wait. You were right, you're insane.
+BUFFY	You know what? I think it's time for you to go.
+SPIKE	Yeah, well, can't. Daylight.
+BUFFY	Then I'll go.
+SPIKE	I'll get the door!
+BUFFY	Fine!
+SPIKE	Fine!
+BUFFY	I'm actually trying to move now.
+SPIKE	Me too.
+BUFFY	Well. This can't be good.
+BUFFY	There's something keeping us in this house.
+XANDER	Or someone.
+TARA	Has everyone tried to get out?
+WILLOW	What if we just, like, as a group, get up right now and throw ourselves at the door?
+XANDER	All right, count of three. One. Two. Three.
+BUFFY	And, hence, the dilemma.
+RICHARD	I really need to go. I mean, I have a job to get to.
+ANYA	I need to open the shop.
+SOPHIE	I have a shift at Doublemeat. Actually, I'm okay here.
+CLEM	I'm fine.
+XANDER	Tara and Willow have class, I have to get to the site.
+BUFFY	I know, I know, we all have places we'd rather be.
+SPIKE	Things we'd rather be doing.
+BUFFY	So the first priority has to be finding a way out of here.
+DAWN	Sure. Of course you all wanna leave. 'Cause being stuck in here with me, that would really suck, right?
+DAWN	Yeah, I know. Important. Whatever that means, right?
+BUFFY	Dawn?
+DAWN	What.
+BUFFY	Did you do something?
+DAWN	Me??
+TARA	Do you know something? 'Cause we want you to feel like you can tell us.
+DAWN	What would I know?
+WILLOW	We're not accusing you of anything. Just seems like you were taking it kinda personal down there.
+DAWN	Oh, okay, so you've all just decided that somehow I'm responsible. Great, here's me basking in the love.
+XANDER	It's just, you know, you're upset 'cause we wanna leave, and now we can't leave. Only thing missing is a corn field. There... isn't a corn field, is there?
+BUFFY	Listen, it's okay, Dawny. We're not gonna be mad - -
+DAWN	Yeah, only I didn't do anything.
+WILLOW	You're sure?
+DAWN	You want me to ask my other self?
+BUFFY	We just wanna try to figure out what's going on.
+DAWN	Figure it out yourself, I'm done with being talked to like a kid.
+XANDER	'Cause you know, sometimes you do something that seems like a good idea at the time, like, say, invoke the power of a musical amulet. And then it turns out, you know. Not so much.
+DAWN	God! I didn't do anything, but I wish I had! Things need to change around here. Nobody's ever around. To hell with you guys - I'm glad you're trapped! How else can I get anyone to spend time with me?
+BUFFY	Dawn, if you want us to-
+DAWN	Get out! Get out! Get out! Get out!
+XANDER	She's all confusing. Stay here. Go away...
+ANYA	I think she's possessed.
+BUFFY	That'd be nice.
+XANDER	She's a teenager.
+TARA	Phones are all out, we're totally cut off.
+BUFFY	She was so angry. I've never seen her like that.
+TARA	It happens, we all went through it.
+BUFFY	I know, but I can't figure out why she didn't just come to me.
+XANDER	Well... you've been a little busy lately.
+SPIKE	Hey, I don't wanna keep you from all the touchy-feelies, but maybe the encounter group could meet later? Say when we're not trapped in a house?
+TARA	Even if Dawn does know something, she's obviously not gonna help us right now. We need another way.
+BUFFY	Seems like our best bet is magic, something general, cast a wide net.
+XANDER	But Willow...?
+TARA	No. I'll do it. It's just, obviously I didn't bring any supplies.
+BUFFY	And we don't have any in the house. We got rid of everything.
+WILLOW	Actually... not everything.
+XANDER	That's great! In a very bad way.
+TARA	Just... bring me what you have. But then I'm doing this alone, you need to stay away from it.
+ANYA	So we're supposed to just wait.
+WILLOW	It won't take long.
+RICHARD	What is she doing in there, some kind of voodoo spell or something?
+SPIKE	Or something.
+RICHARD	You want to tell me what's going on here? We're trapped in a house by some, what, unseen force or something, who knows what they're doing in there, the blonde guy here - -
+SPIKE	Spike.
+RICHARD	-- whatever, is, let's face it, creepy, and I have to tell you, I don't think that's a skin condition.
+SPIKE	Um, right, when you're done being a wanker, we are trying to help you.
+TARA	Release.
+SPIKE	Nope. Can't.
+XANDER	It looks pretty bad.
+ANYA	Oh, God.
+TARA	Let's get him upstairs. We're gonna have to get him to a doctor soon.
+ANYA	Oh, God.
+SOPHIE	Oh, no. Oh, no.
+BUFFY	Hey. It's gonna be okay. You have to trust me, I promise you we'll be out of here soon, okay?
+SOPHIE	Oh God, oh God, oh God...
+SPIKE	So, you ever think about, maybe, not celebrating your birthday? Just to try it, I mean?
+BUFFY	I'm gonna go check upstairs. You keep an eye on things down here?
+CLEM	Sorry.
+ANYA	Why is it so warm in here?
+XANDER	You're just a little freaked out is all, it'll pass.
+ANYA	He's gonna die. He's gonna die, and we're gonna watch.
+XANDER	Ahn.
+ANYA	And we're just sitting here. Why are we just sitting here, why aren't we doing something?
+XANDER	We are. We will. We've been through worse.
+ANYA	Not like this. Not trapped like animals. Seriously, did someone turn on the heat or something, I can't, I can't even breathe...
+XANDER	Ahn. Ahn, stop, stop.
+ANYA	What?
+XANDER	I don't know. Lemme get you some water, we'll cool you down, it'll be a start, all right? Some cold water?
+BUFFY	The sword. Grab the sword!
+ANYA	Xander...
+XANDER	Shhh, it's okay, I'm okay. I'm right here, see? Shhh.
+BUFFY	It's getting kind of scary, I know. You okay?
+DAWN	Do you care?
+BUFFY	Fine. Stay with Spike.
+DAWN	It's not like I meant for this to happen.
+BUFFY	I never said you did.
+DAWN	I didn't want this.
+BUFFY	What did you want?
+DAWN	Nothing.
+BUFFY	Dawn, come on
+DAWN	No, you don't know, you have this thing you do, you have all these friends, you have no idea what it's like.
+BUFFY	What are you talking about, I don't know what what's --
+DAWN	Being alone!
+BUFFY	You're not alone.
+DAWN	Then why do I feel like this?
+TARA	We just haven't thought of the right way out yet, that's all.
+SPIKE	Well, we can't just stay put like cattle, waiting for the thing to pop out every time it gets peckish.
+TARA	I'd say we should do another spell, but I think we've tried everything.
+ANYA	Well, that's not completely true, is it?
+WILLOW	I can't.
+ANYA	No, see, that's not exactly true, either. Not can't. Won't.
+WILLOW	You don't know how much I hate this. I don't even know if there's anything I could do.
+ANYA	Yes, and a good way to find out is to sit around not trying. That was sarcasm, by the way.
+SPIKE	Look - -
+WILLOW	It's dangerous.
+ANYA	Well, so is all of us dying.
+XANDER	Will. I don't wanna gang up on you, but... I kind of get Anya's point.
+WILLOW	No, I can't. If I start, I may not be able to stop.
+ANYA	And whose fault is that? If you hadn't gotten so much of it in your system in the first place - -
+TARA	Hey !!
+ANYA	Fine. If you all aren't willing to get us out of this, I'll do it myself.
+BUFFY	I wish you had told me.
+DAWN	You haven't really been...
+BUFFY	What? I haven't been what?
+DAWN	Around.
+BUFFY	Dawn, the most important job I have is looking out for you.
+DAWN	You sound like my guidance counselor. She give you a handbook or something? How to talk to the troubled teen?
+BUFFY	Counselor?
+DAWN	It wasn't my idea, I didn't even know we had guidance counselors. She called me out of class like I was a total J.D.
+BUFFY	And you'd never met her before?
+DAWN	No. Not until yesterday.
+BUFFY	And she got you to just start talking about things that bothered you at home.
+DAWN	Uh, yeah.
+BUFFY	You didn't, by any chance, express any kind of, like, wish or something to her, did you?
+DAWN	Um. Maybe just a little.
+XANDER	Honey, hey, honey, come on, this isn't the way, just calm down.
+ANYA	She knows something! She knows something, we have to find out what.
+DAWN	Hey!
+XANDER	Anh, if you just stop for a second
+ANYA	There has to be a clue in here somewhere.
+DAWN	Stop it!
+BUFFY	Anya, no, it wasn't her fault.
+ANYA	Where is it?
+DAWN	No...
+ANYA	How could you do this?
+ANYA	I work hard at that store, and I helped you, I took care of you, is this how you say thank you?
+BUFFY	Anya. Hold on. Just tell her you didn't do this. Tell her it's a mistake.
+DAWN	No, Buffy, wait.
+BUFFY	Oh.
+DAWN	Buffy.
+ANYA	How are we supposed to trust you, Dawn? You say you didn't put us here, but look at this stuff, how are we supposed to believe you?
+BUFFY	No. She didn't -- it wasn't Dawn. I think it was a guidance counselor. Or someone pretending to be one, She got Dawn to make a wish.
+ANYA	Guidance counselor. You made a wish to someone you'd never seen before?
+DAWN	Yeah.
+ANYA	Did she wear a pendant? With a dark blue stone?
+DAWN	And little red flecks.
+ANYA	Oh, for crying out loud. Halfrek!!
+DAWN	I didn't know.
+ANYA	Only a vengeance demon can break her own vengeance spell, nothing else will work. She's the only one who can get us out. Hallie, get your ass down here!!
+HALFREK	You rang?
+ANYA	I. Hope. You. Die. You. Stupid. Jerkface!
+XANDER	Anya!
+SPIKE	The sword! Get the bloody sword!
+ANYA	Her pendant! Get her pendant!
+HALFREK	There will be no touching of the pendant.
+ANYA	How could you - - why would you do this?
+HALFREK	I told you I was going to take care of some business while I was here in town.
+ANYA	Yeah, but... cursing us? Some of them are in the wedding party.
+HALFREK	Listen, I go where I'm -- (sees Spike) William?
+SPIKE	Hey, wait a minute.
+BUFFY	You guys know each other?
+HALFREK	No. SPIKE Not really.
+TARA	I thought vengeance demons only punished men who wronged women.
+HALFREK	No, that was just Anya's little raison d'etre. Most of us try to be a bit more well-rounded. Oh, and we actually prefer justice demon. FYI.
+ANYA	Hmmm. Well-rounded. Is that how you explain your thing for bad parents?
+HALFREK	It's not a thing, the children need me.
+ANYA	Mmmm-hmmm. Daddy issues.
+HALFREK	Sling all the little barbs you like, Anyanka, it doesn't change the fact that this girl was in pain, and you couldn't hear it.
+ANYA	It's, uh... it's the curse, Hallie.
+HALFREK	Oh, for crying out loud. Fine, the curse is lifted, we can all leave now. Dammit.
+WILLOW	Thanks. For before. And for taking all this stuff with you.
+TARA	No problem.
+WILLOW	Just so you know, I was never gonna use it. I mean, not really. I only kept it like a safety net.
+TARA	Having the stuff made it easier not to use the stuff.
+WILLOW	Yeah, kind of.
+TARA	I get it. I really do. But it's time to work without a net, Will.
+RICHARD	You have weird friends.
+XANDER	News from the file marked "duh." We're gonna get him to the ER.
+ANYA	Then we're gonna talk about payment. And Dawnie? Two words I want you to get used to: punitive damages.
+BUFFY	You think it's worn off?
+SPIKE	Just one thing to do.
+CLEM	Good party!
+TARA	God, look at the stars.
+XANDER	I just wanna run barefoot in the grass so I can feel the dewdrops between my -- God, look at the stars.
+ANYA	Okay, who's shoving?
+BUFFY	I'm really sorry.
+DAWN	It's okay.
+BUFFY	No, we're gonna sit down and have a real dinner. Someday. I hate having to run out in the middle, it's just this thing out there.
+DAWN	I understand.
+BUFFY	Spike says it's pretty scary, some kind of monster thing, definitely non-vampire.
+DAWN	Well, maybe when you get back, we can set up for your party tomorrow.
+BUFFY	Yeah, this might be a while, you shouldn't wait up. Besides, Willow promised she's on birthday patrol. Nothin' left for us to do.
+DAWN	Right.
+BUFFY	Okay, so homework, finish dinner, and don't stay up too late, all right?
+DAWN	Okay.
+BUFFY	Good. We'll spend time later, I promise.
+ANYA	Do you think we should set up lots of candles at Buffy's party tomorrow?
+XANDER	Not if they're that horrible slug kind you keep trying to unload.
+ANYA	I don't know why people get so turned off by slug.
+XANDER	Honey? Slugs get turned off by slug. Actually, I wanted to talk to you about that.
+WILLOW	Slugs?
+XANDER	The party. Or, Tara. At the party.
+WILLOW	Oh.
+XANDER	It's just, Buffy really wants her there, seems important to her, and I told her I would ask you.
+WILLOW	Oh, yeah, of course, she should totally be there, it'll be great!
+XANDER	You'll be okay with it?
+WILLOW	What, me? Of course, why wouldn't I be? It'll be fun, I'll be fine.
+ANYA	This isn't some weird definition of "fine" that means hiding in your room and crying?
+WILLOW	No.
+ANYA	Because we're tired of the crying.
+WILLOW	Guys, Tara's Buffy's friend, too, she should be there. I want her there, it'll be good to see her.
+DAWN	Hey.
+WILLOW	Hey, Dawnie. Buffy out patrolling already?
+XANDER	Anything new about Warren and the Nerd Herd?
+DAWN	No. Just a big Monster Hunt.
+XANDER	Man, a nerd goes into hiding, he really goes into hiding. Upside of spending all that time shoved inside a locker. Not that I would know.
+DAWN	So, I was thinking, who wants to go with me to the mall for birthday presents?
+WILLOW	Oh, honey, I would, but I've got group. You know. The whole Spellcasters Anonymous thing. We're looking for a better name.
+DAWN	Oh, well, no, that's good, you should do that. What about you guys?
+ANYA	Stuck in doing-the-books-ville.
+XANDER	I'd go with you, but I've gotta finish this new shift schedule for the crew before tomorrow morning.
+WILLOW	Sorry. I think it's just one of those nights, you know?
+DAWN	Yeah.
+WILLOW	You okay going on your own?
+DAWN	Yeah, somehow I'll manage to pull it off.
+DAWN	Great.
+HALLIE	I've been looking through your file. Your grades have slipped a little.
+DAWN	I've got really hard classes this quarter.
+HALLIE	Still. Teachers say you've seemed a little distracted lately.
+DAWN	I'm not. I'm fine.
+HALLIE	Okay. It's just, I know it must seem weird, talking to a stranger about stuff. But I want you to know, if something's going on, if something's up --
+DAWN	I'm really okay.
+HALLIE	I know there's been a lot of loss.
+DAWN	Yeah, kind of. I mean, yes, people keep - - people have a tendency to go away. And I miss them. And sometimes I wish I could make them stop. Going away.
+BUFFY	Is there a chemical leak in here?
+XANDER	Anya's making hors d'oeuvres.
+BUFFY	Oh, God.
+ANYA	No, they're yummy. A little cheddar cheese, some scallions, crispy rye...
+BUFFY	Is there, like, demon meat in there somewhere?
+ANYA	No. Whole jar of mayonnaise, but...
+BUFFY	Gagggghhh.
+XANDER	Who's coming, you invite anyone else?
+BUFFY	No. Willow, Tara, you guys.. Oh, I invited Sophie from work.
+ANYA	Really. What's Sophie's last name?
+BUFFY	Okay, shut up.
+XANDER	Don't worry about it. We're all over the new friend thing.
+BUFFY	What new friend thing?
+ANYA	Oh, we invited someone for you. A guy.
+DAWN	For Buffy? Really?
+XANDER	It's not a set-up.
+ANYA	Right, no. It's just an attractive, single man with whom we hope you'll find much in common.
+XANDER	Ahn.
+ANYA	And if you happen to forge a romantic relationship leading to babies and many double dates with us so we have someone else to talk to, yay!
+BUFFY	I'm going to assume this was an act of kindness. That will help me with all the not throttling.
+XANDER	Maybe we should start getting this stuff out there, people will be here soon.
+BUFFY	Yes. Maybe we should.
+DAWN	Oh, when they get here, can we start with opening the presents maybe?
+XANDER	Patience, grasshopper.
+BUFFY	I promise I'll let you know when it's time, hang out, have some punch.
+BUFFY	Hey, you came.
+TARA	Of course, sweetie. How're you doing?
+BUFFY	Oh, you know. Better. Mostly. Sometimes.
+TARA	So... Is Spike coming?
+BUFFY	He may be a chip head but he still doesn't play well with others. And I'm definitely not ready to...
+TARA	Come out?
+BUFFY	Yeah. I'm all stay inny. How about you, are you okay?
+TARA	Yeah, the word "gulp" comes to mind.
+BUFFY	Well, remember, we're all-
+WILLOW	Hey.
+TARA	Hey.
+WILLOW	Hey. How are you?
+TARA	Fine. Thanks, I'm fine. How are you?
+WILLOW	Great. I mean, fine. You know. All Finey McFine Fine.
+TARA	You look --
+WILLOW	Thanks!
+TARA	-- great.
+WILLOW	Thanks. You too Is that a new --
+TARA	Yeah.
+WILLOW	It's nice.
+TARA	Thanks.
+WILLOW	Great! Good! You should, don't wanna get, you know. Thirsty.
+BUFFY	Spike?
+SPIKE	Yeah, Willow mentioned the shindig, figured we're all part of the team, thought I'd swing by.
+BUFFY	Wait, what kind of team is this?
+CLEM	Hi. We met once before.
+BUFFY	Yes. Yes, we did.
+SPIKE	You know. More. Merrier. That whole thing.
+CLEM	Hi, I'm Clement. Clem.
+TARA	Tara.
+XANDER	Buffy, Richard.
+BUFFY	Hey.
+XANDER	Richard was wondering where's the best place to park his car.
+BUFFY	Oh? well, it's easy, you just --
+XANDER	Buffy'll show you.
+RICHARD	Uh, that guy. With the...?
+BUFFY	Skin condition. Doesn't really talk about it.
+DAWN	If we go get Buffy now, she can start on the presents. It's been enough time, hasn't it?
+ANYA	Not yet, sweetie.
+XANDER	I think Buff's busy right now anyway.
+ANYA	Buffy's making a new friend right now. A grown-up friend.
+DAWN	What? You mean that guy you invited to set her up with?
+ANYA	Nothing.
+DAWN	You know I'm in high school, right?
+ANYA	Yes you are.
+SPIKE	Wanna slip away for a minute, love? I'll let you blow out my candles.
+BUFFY	Now? Here? Where? I don't think so.
+SPIKE	Why, worried about Richard? Don't wanna make the new boyfriend jealous, eh?
+BUFFY	Shut up, he's sweet.
+SPIKE	Shut up, he's sweet.
+BUFFY	Maybe he's not the jealous one.
+SPIKE	Right! 'Cause it's the floppy hair I find so intimidating.
+BUFFY	Uh...
+WILLOW	See? It's a battery-operated back massager, only it's portable, so you can take it with you on patrol.
+BUFFY	Uh huh.
+WILLOW	It's like instant gratification for all your little acheys.
+BUFFY	Okay! Great, thanks, what's next?
+DAWN	Here, do mine.
+BUFFY	Dawn...
+DAWN	Do you like it?
+BUFFY	It's gorgeous.
+DAWN	I was so nervous. I was afraid you wouldn't like it.
+BUFFY	It's still got a security tag.
+ANYA	Yes. Xander did the building, I offered helpful suggestions while observing from a safe distance.
+XANDER	Holds basic weapons, maybe a few non- basic ones. And there's a CD rack.
+ANYA	He wanted you to have something no one else would have.
+BUFFY	Sophie, hey, we're somewhere between presents and cake. There... is going to be cake eventually, right?
+SOPHIE	Hey, um, my mom told me to say thank you right away for inviting me, 'cause otherwise I usually forget, so thank you, and also that I can't have any chocolate or peanuts or egg yolks or sometimes dairy.
+BUFFY	No problem.
+ANYA	That's your friend from work?
+BUFFY	Well... yeah. All the good ones got picked off by that lady with the wig, lay off.
+ANYA	Humm. Our friend is better.
+RICHARD	Great party. Everyone's having fun.
+BUFFY	I hope so.
+RICHARD	Well, look at the clock. And no one's even thinking about leaving. I know I can't tear myself away.
+BUFFY	Yeah.
+RICHARD	Hey, can I get you a drink?
+BUFFY	No, thanks, I'm -- I'm good. I'm gonna head back in.
+RICHARD	I'll look for you.
+SPIKE	Ohhh, Buffy, might I get you a soda pop? I think I'm in looooove!
+BUFFY	Seriously, stop it, someone will see.
+TARA	Muscle cramp. In your pants.
+SPIKE	What. It's a thing.
+TARA	Right.
+ANYA	No, you go.
+XANDER	No, you go.
+ANYA	No, you go.
+WILLOW	Okay, it's just a beer run. I'll go.
+SOPHIE	I can't really, like, drink beer, 'cause, you know. Barley. But I'll go with you to get some.
+WILLOW	Perfect. Here we go with the beer- getting.
+BUFFY	This sucks. I'm out.
+RICHARD	No way. I think you're doing fine.
+XANDER	Wanna try poker?
+CLEM	Still say it's weird without kittens.
+BUFFY	No kittens! He's quirky.
+RICHARD	We've been playing for, like, three hours. It's already two something. You can't bail now.
+ANYA	Yes, Buffy, stay. I want to bankrupt someone.
+DAWN	Oh, we should totally have a slumber party!
+BUFFY	Well... I don't know. I guess, as long as we're all staying up anyway.
+SPIKE	Must be some late-night activities to keep us busy till morning.
+SPIKE	What? Oh. Yeah...
+TARA	Maybe you should put some ice on it.
+RICHARD	Xander, we have to be at work in a few minutes
+XANDER	Okay.
+WILLOW	Wait, does everyone know who they are? Just figure it's a good idea to check.
+RICHARD	I can't be late today.
+SPIKE	You should definitely go, let's find your coat, get you on your merry way.
+BUFFY	Spike.
+RICHARD	I don't know why I'm not going.
+SPIKE	Me either. 'Sides, Richie, can't skip breakfast, growing boy like you. Me, I used to love breakfast. (glaring at Richard) In the old days, I probably would have eaten by now.
+BUFFY	'Course, with that new diet of yours, you wanna be careful about what you try to put in your mouth now. Spikey.
+SPIKE	Yeah? Dunno, tummy's makin' all kinds of gurglies, maybe I oughta just feed on whatever's around, even if it doesn't go down well. You work out?
+BUFFY	Okey-dokey.
+BUFFY	Hey! Passive Aggressive Guy! Seriously, wanna take it down a notch or two out there?
+SPIKE	What, poor, dainty Richard can't take a joke?
+BUFFY	We do not joke about eating people in this house!
+SPIKE	What are you gonna do? Beat me up again?
+WILLOW	Oh. Hi.
+TARA	Hey. Breakfast. Didn't plan for a sleep over.
+WILLOW	No, me either. I mean, it's weird. I have class, I know I should go.
+TARA	I know, it's like I wanna leave, but I don't want to.
+WILLOW	Exactly!
+TARA	We should probably get back in there.
+WILLOW	Yeah, see if anyone else...
+TARA	Right. Right.
+BUFFY	I should have thrown you out the second you got here. I was insane to think you could ever just hang out with my friends.
+SPIKE	And I was insane to think - - oh, wait. You were right, you're insane.
+BUFFY	You know what? I think it's time for you to go.
+SPIKE	Yeah, well, can't. Daylight.
+BUFFY	Then I'll go.
+SPIKE	I'll get the door!
+BUFFY	Fine!
+SPIKE	Fine!
+BUFFY	I'm actually trying to move now.
+SPIKE	Me too.
+BUFFY	There's something keeping us in this house.
+XANDER	Or someone.
+TARA	Has everyone tried to get out?
+WILLOW	What if we just, like, as a group, get up right now and throw ourselves at the door?
+XANDER	All right, count of three. One. Two. Three.
+BUFFY	And, hence, the dilemma.
+RICHARD	I really need to go. I mean, I have a job to get to.
+ANYA	I need to open the shop.
+SOPHIE	I have a shift at Doublemeat. Actually, I'm okay here.
+CLEM	I'm fine.
+XANDER	Tara and Willow have class, I have to get to the site.
+BUFFY	I know, I know, we all have places we'd rather be.
+BUFFY	So the first priority has to be finding a way out of here.
+DAWN	Sure. Of course you all wanna leave. 'Cause being stuck in here with me, that would really suck, right?
+DAWN	Yeah, I know. Important. Whatever that means, right?
+BUFFY	Dawn?
+DAWN	What.
+BUFFY	Did you do something?
+DAWN	Me??
+TARA	Do you know something? 'Cause we want you to feel like you can tell us.
+DAWN	What would I know?
+WILLOW	We're not accusing you of anything. Just seems like you were taking it kinda personal down there.
+DAWN	Oh, okay, so you've all just decided that somehow I'm responsible. Great, here's me basking in the love.
+XANDER	It's just, you know, you're upset 'cause we wanna leave, and now we can't leave. Only thing missing is a corn field. There... isn't a corn field, is there?
+BUFFY	Listen, it's okay, Dawny. We're not gonna be mad - -
+DAWN	Yeah, only I didn't do anything.
+WILLOW	You're sure?
+DAWN	You want me to ask my other self?
+BUFFY	We just wanna try to figure out what's going on.
+DAWN	Figure it out yourself, I'm done with being talked to like a kid.
+DAWN	God! I didn't do anything, but I wish I had! Things need to change around here. Nobody's ever around. To hell with you guys - I'm glad you're trapped! How else can I get anyone to spend time with me?
+BUFFY	Dawn, if you want us to-
+DAWN	Get out! Get out! Get out! Get out!
+ANYA	I think she's possessed.
+BUFFY	That'd be nice.
+XANDER	She's a teenager.
+TARA	Phones are all out, we're totally cut off.
+BUFFY	She was so angry. I've never seen her like that.
+TARA	It happens, we all went through it.
+BUFFY	I know, but I can't figure out why she didn't just come to me.
+XANDER	Well... you've been a little busy lately.
+SPIKE	Hey, I don't wanna keep you from all the touchy-feelies, but maybe the encounter group could meet later? Say when we're not trapped in a house?
+TARA	Even if Dawn does know something, she's obviously not gonna help us right now. We need another way.
+BUFFY	Seems like our best bet is magic, something general, cast a wide net.
+XANDER	But Willow...?
+TARA	No. I'll do it. It's just, obviously I didn't bring any supplies.
+BUFFY	And we don't have any in the house. We got rid of everything.
+WILLOW	Actually... not everything.
+XANDER	That's great! In a very bad way.
+TARA	Just... bring me what you have. But then I'm doing this alone, you need to stay away from it.
+ANYA	So we're supposed to just wait.
+WILLOW	It won't take long.
+RICHARD	What is she doing in there, some kind of voodoo spell or something?
+SPIKE	Or something.
+RICHARD	You want to tell me what's going on here? We're trapped in a house by some, what, unseen force or something, who knows what they're doing in there, the blonde guy here - -
+SPIKE	Spike.
+RICHARD	-- whatever, is, let's face it, creepy, and I have to tell you, I don't think that's a skin condition.
+SPIKE	Um, right, when you're done being a wanker, we are trying to help you.
+XANDER	It looks pretty bad.
+ANYA	Oh, God.
+TARA	Let's get him upstairs. We're gonna have to get him to a doctor soon.
+SOPHIE	Oh God, oh God, oh God...
+SPIKE	So, you ever think about, maybe, not celebrating your birthday? Just to try it, I mean?
+BUFFY	I'm gonna go check upstairs. You keep an eye on things down here?
+ANYA	Why is it so warm in here?
+XANDER	You're just a little freaked out is all, it'll pass.
+ANYA	He's gonna die. He's gonna die, and we're gonna watch.
+XANDER	Ahn.
+ANYA	And we're just sitting here. Why are we just sitting here, why aren't we doing something?
+XANDER	We are. We will. We've been through worse.
+ANYA	Not like this. Not trapped like animals. Seriously, did someone turn on the heat or something, I can't, I can't even breathe...
+ANYA	What?
+DAWN	It's not like I meant for this to happen.
+BUFFY	I never said you did.
+DAWN	I didn't want this.
+BUFFY	What did you want?
+DAWN	Nothing.
+BUFFY	Dawn, come on
+DAWN	No, you don't know, you have this thing you do, you have all these friends, you have no idea what it's like.
+BUFFY	What are you talking about, I don't know what what's --
+BUFFY	You're not alone.
+DAWN	Then why do I feel like this?
+TARA	We just haven't thought of the right way out yet, that's all.
+SPIKE	Well, we can't just stay put like cattle, waiting for the thing to pop out every time it gets peckish.
+TARA	I'd say we should do another spell, but I think we've tried everything.
+ANYA	Well, that's not completely true, is it?
+WILLOW	I can't.
+ANYA	No, see, that's not exactly true, either. Not can't. Won't.
+WILLOW	You don't know how much I hate this. I don't even know if there's anything I could do.
+ANYA	Yes, and a good way to find out is to sit around not trying. That was sarcasm, by the way.
+SPIKE	Look - -
+WILLOW	It's dangerous.
+ANYA	Well, so is all of us dying.
+XANDER	Will. I don't wanna gang up on you, but... I kind of get Anya's point.
+WILLOW	No, I can't. If I start, I may not be able to stop.
+DAWN	You haven't really been...
+BUFFY	What? I haven't been what?
+DAWN	Around.
+BUFFY	Dawn, the most important job I have is looking out for you.
+DAWN	You sound like my guidance counselor. She give you a handbook or something? How to talk to the troubled teen?
+BUFFY	Counselor?
+DAWN	It wasn't my idea, I didn't even know we had guidance counselors. She called me out of class like I was a total J.D.
+BUFFY	And you'd never met her before?
+DAWN	No. Not until yesterday.
+BUFFY	And she got you to just start talking about things that bothered you at home.
+DAWN	Uh, yeah.
+BUFFY	You didn't, by any chance, express any kind of, like, wish or something to her, did you?
+DAWN	Um. Maybe just a little.
+XANDER	Honey, hey, honey, come on, this isn't the way, just calm down.
+ANYA	She knows something! She knows something, we have to find out what.
+XANDER	Anh, if you just stop for a second
+ANYA	There has to be a clue in here somewhere.
+DAWN	Stop it!
+BUFFY	Anya, no, it wasn't her fault.
+ANYA	Where is it?
+DAWN	No, Buffy, wait.
+BUFFY	Oh.
+DAWN	Buffy.
+ANYA	How are we supposed to trust you, Dawn? You say you didn't put us here, but look at this stuff, how are we supposed to believe you?
+BUFFY	No. She didn't -- it wasn't Dawn. I think it was a guidance counselor. Or someone pretending to be one, She got Dawn to make a wish.
+ANYA	Guidance counselor. You made a wish to someone you'd never seen before?
+DAWN	Yeah.
+ANYA	Did she wear a pendant? With a dark blue stone?
+DAWN	And little red flecks.
+ANYA	Oh, for crying out loud. Halfrek!!
+DAWN	I didn't know.
+ANYA	Only a vengeance demon can break her own vengeance spell, nothing else will work. She's the only one who can get us out. Hallie, get your ass down here!!
+ANYA	How could you - - why would you do this?
+HALFREK	I told you I was going to take care of some business while I was here in town.
+ANYA	Yeah, but... cursing us? Some of them are in the wedding party.
+HALFREK	Listen, I go where I'm -- (sees Spike) William?
+SPIKE	Hey, wait a minute.
+BUFFY	You guys know each other?
+TARA	I thought vengeance demons only punished men who wronged women.
+HALFREK	No, that was just Anya's little raison d'etre. Most of us try to be a bit more well-rounded. Oh, and we actually prefer justice demon. FYI.
+ANYA	Hmmm. Well-rounded. Is that how you explain your thing for bad parents?
+HALFREK	It's not a thing, the children need me.
+ANYA	Mmmm-hmmm. Daddy issues.
+HALFREK	Sling all the little barbs you like, Anyanka, it doesn't change the fact that this girl was in pain, and you couldn't hear it.
+WILLOW	Thanks. For before. And for taking all this stuff with you.
+TARA	No problem.
+WILLOW	Just so you know, I was never gonna use it. I mean, not really. I only kept it like a safety net.
+TARA	Having the stuff made it easier not to use the stuff.
+WILLOW	Yeah, kind of.
+RICHARD	You have weird friends.
+XANDER	News from the file marked "duh." We're gonna get him to the ER.
+ANYA	Then we're gonna talk about payment. And Dawnie? Two words I want you to get used to: punitive damages.
+BUFFY	You think it's worn off?
+SPIKE	Just one thing to do.
+CLEM	Good party!
+TARA	God, look at the stars.
+XANDER	I just wanna run barefoot in the grass so I can feel the dewdrops between my -- God, look at the stars.
+ANYA	Okay, who's shoving?

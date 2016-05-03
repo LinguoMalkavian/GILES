@@ -1,0 +1,440 @@
+BUFFY	No!
+JOYCE	Yes...
+JOYCE	Time to get up for school.
+BUFFY	Oh, Mom...
+JOYCE	Are you all right?
+BUFFY	No... yeah, I'm... school, great.
+JOYCE	You want to go to school...
+BUFFY	Sure, why not?
+JOYCE	Okay, good day to buy that lottery ticket.
+JOYCE	I spoke with your father...
+BUFFY	He's coming, right?
+JOYCE	You're on for this weekend.
+BUFFY	Good...
+BUFFY	Not a whole lot. He's still in L.A. He only comes down for weekends sometimes.
+WILLOW	When did they get divorced?
+BUFFY	Well, it wasn't finalized till last year. They were separated before that.
+WILLOW	It must have been harsh.
+BUFFY	That's the word you're looking for. I mean, they were really good about it- around me, anyway. But still...
+WILLOW	I can't even imagine it. My parents don't even bicker. Sometimes they glare. Do you know why your folks...
+BUFFY	I didn't ask for all the details. They just stopped getting along. I'm sure I was a big help. With the slaying and everything, I was a mess. Lotta trouble.
+WILLOW	Well, I'm sure that doesn't have anything to do with him leaving.
+BUFFY	No.
+WILLOW	He stills comes down on weekends.
+BUFFY	Sometimes.
+CORDELIA	Hello... Dufus...? You're blocking my light.
+WENDELL	Oh. Should I...?
+CORDELIA	Move on? What a great idea.
+XANDER	Wendell, what's wrong with you? Don't you know she's the center of the universe... the rest of us merely revolve around her.
+CORDELIA	Revolve yourselves out of my light.
+XANDER	Wendell was in Cordelia's light.
+WENDELL	I'm so ashamed.
+WILLOW	Why is she so Evita-like?
+BUFFY	It's the hair.
+WILLOW	Weighs heavy on the cerebral cortex.
+XANDER	Hey guys. Was there any homework?
+WILLOW	We're doing active listening today.
+XANDER	Cool. What's active listening?
+WILLOW	That would be the homework.
+BUFFY	Chapter five. Active listening. Where you put on your "big ears" and really focus on the other person?
+WENDELL	Ms. Tishler demonstrated yesterday.
+WILLOW	With you.
+BUFFY	She was wearing that tight sweater?
+XANDER	(remembers the sweater and what was in it) The midnight blue Angora. (to them) See, I was listening.
+TISHLER	All right, take your seats. In a moment we'll choose partners and practice what we read in chapter five... Xander looks up at her, mimes putting his "big ears" on.
+TISHLER	...good, Xander, that's the spirit.
+TISHLER	Before we do, let's review.
+TISHLER	Isaacson's research lead him to conclude that one of our most fundamental needs, after food and shelter, is to be heard...
+TISHLER	Wendell would you read us the first two paragraphs on page seventy-eight...
+TISHLER	...where Isaacson describes the rapid movement active listening brought to some special needs clients -
+WENDELL	AHHHHHHH! AHHHHHHHH!
+BILLY	Sorry about that.
+MASTER	Fear. It's a wonderful thing. It is the most powerful force in the world. No love, not hate. Fear.
+MASTER	When you were a mortal boy, what did you fear?
+COLLIN	Monsters.
+MASTER	We are defined by the things we fear. This symbol-
+MASTER	these two planks of wood - it confounds me. Suffuses me with mortal dread. But fear is in the mind.
+MASTER	Like pain. It can be controlled.
+MASTER	If I can face my fear, it cannot master me. Something is happening above. Something new - a powerful psychic force. Do you feel it?
+COLLIN	I feel change.
+MASTER	Change. Yes. For the worse.
+JOYCE	You're awfully quiet this morning.
+BUFFY	I didn't sleep so good.
+JOYCE	I'll say. (off her look) I came in to check on you twice. You were yelling in your sleep. You remember what you were dreaming?
+BUFFY	Not really... Oh no, my bag. I packed for the weekend and I forgot it.
+JOYCE	You and your dad can swing by the house and get your bag. It's not an international crisis.
+BUFFY	Okay, I just - I meant to bring it. He is picking me up here,right? At 3:30?
+JOYCE	Honey, are you worried your dad won't show?
+BUFFY	No. I mean, not really. Should I be?
+JOYCE	It's just... I know the situation's hard, You just always want to remember your father adores you - no more than I do by the way.
+BUFFY	Thanks. And Mom, don't worry, I'm over the divorce. I officially release you from all guilt.
+JOYCE	That's not what I was getting at- you feel like putting that in writing?
+JOYCE	Have a good day.
+BUFFY	You, too.
+WILLOW	Buffy. We've been looking for you.
+XANDER	We have?
+WILLOW	About the spiders. Have you talked to Giles about-
+XANDER	Oh. The spiders. Willow's been kinda... what's the word I'm looking for... insane about what happened yesterday.
+WILLOW	I don't like spiders, okay? Their furry bodies, their sticky webs - what do they need all those legs for anyway? I'll tell you: for crawling across your face in the middle of the night. Ew. How do spiders not ruffle you?
+XANDER	I'm sorry, I'm unruffled on spiders. Now if a bunch of Nazis crawled across my face...
+BUFFY	It was pretty intense.
+WILLOW	Thank you.
+XANDER	Hellmouth, center of mystical convergence, supernatural monster. Been there.
+BUFFY	A little blas頴here, aren't you?
+XANDER	I'm not worried. If there's something bad out there, we'll find, you'll slay, we'll party.
+BUFFY	Thanks for having confidence in me.
+XANDER	Well, you da man, Buff.
+WILLOW	Okay, but we're still caring about the spiders here. Let's not forget the spiders.
+BUFFY	Well, Giles said he was going to look up - Giles?
+WILLOW	Maybe he's in the faculty room.
+BUFFY	Hey. Giles. Wakey wakey.
+GILES	I was in the stacks. I got lost.
+XANDER	Well, did you find any theories on spiders coming out of books? Big crawly hairy...
+XANDER	It was funny if you're me.
+GILES	I didn't find anything particularly illuminating. I think perhaps you'd best have a talk with Wendell himself.
+BUFFY	Okay. If he can still talk.
+BUFFY	Hey Wendell, how're you doing?
+WENDELL	Huh?
+BUFFY	You okay?
+XANDER	Good talkin' to ya', man.
+WENDELL	Did you guys want something...?
+BUFFY	We just thought you might want to talk about what happened.
+WILLOW	You know yesterday with the spiders.
+WENDELL	I don't know what to say about that...
+XANDER	There's nothing to say. You saw two hundred insects, you Gonzoed. Anybody would have -
+WENDELL	They're not insects. They're arachnids.
+XANDER	They're from the Middle East?
+WENDELL	Spiders are arachnids, they have eight legs, insects have six. (a little intense) Why does everyone make that mistake?
+BUFFY	I don't know. Has anything like that ever happened before?
+BUFFY	When?
+WENDELL	Lots of times...
+WILLOW	Eeeee. You must hate spiders more than I do.
+WENDELL	I don't hate spiders, I love them. They hate me.
+CORDELIA	Hope you studied for the history test.
+BUFFY	What history test?
+CORDELIA	The one we're having right now in fourth period.
+BUFFY	There's a test? Nobody told me about a... I better, I gotta... we'll catch up during lunch.
+WILLOW	(turning to Wendell) What do you mean you love spiders?
+XANDER	It is platonic, right?
+WENDELL	I had the best collection in the tri-county area. Browns, tarantulas, black widows... then my folks ship me off to Wilderness Camp. All my brother had to do was maintain the habitats. Instead he left the heat lamps on for a week! When I came home they were all dead - that's when the nightmares started.
+WILLOW	The nightmares.
+WENDELL	It's always the same. I'm sitting in class, the teacher asks me to read something, I open the book and.. there they are, coming after me. God... can you blame them, after what I did?
+XANDER	That's how it happens. Every time?
+WENDELL	Yesterday in class I thought I had just nodded off again. But then everyone else started screaming too.
+CORDELIA	You don't know where the class is, do you?
+BUFFY	I, uh -
+CORDELIA	(not mean, just a fact) Hardly a shocker. You've cut history just about every time we've had it.
+BUFFY	I was there the first day... I think.
+CORDELIA	It's in here.
+BUFFY	I haven't been to class, I haven't read any of the assignments... how am I going to pass the test?
+CORDELIA	Blind luck?
+BUFFY	I know my name.
+LAURA	Well, they both got detention. Which is completely unfair since Sean started it. Anyway it means we can't do the movie.
+LAURA	I'm gonna take a break.
+BILLY	(pretty much to himself) You shouldn't go in there...
+MAN	Lucky nineteen...
+BUFFY	I think they said room 316
+GILES	Do you know this girl?
+BUFFY	Laura? To say Hi to. She's nice enough. Nobody saw who attacked her?
+GILES	I'm rather hoping Laura did.
+BUFFY	Hey, Laura.
+LAURA	Hi...
+GILES	Sorry to intrude on you like this.
+LAURA	That's okay - I don't want to be left alone.
+GILES	You understand, we're anxious to make sure this never happens again.
+BUFFY	Can you tell us what happened?
+LAURA	I was in the basement... I went down for a smoke... there was someone... there.
+BUFFY	Someone you knew?
+LAURA	(shaking her head) I never... saw anything like it.
+BUFFY	It.
+GILES	Can you describe it?
+BUFFY	That's okay. Don't worry about it.
+GILES	Yes, you rest. You're safe now.
+BUFFY	But if you remember anything, you can tell us. Even if it seems... weird.
+LAURA	Lucky nineteen.
+GILES	I'm sorry?
+LAURA	It's what he said. Right before... he said lucky nineteen. That's weird, right?
+GILES	Yes. Yes it is.
+GILES	Doctor, is she going to be all right?
+DOCTOR	You family?
+BUFFY	Friends.
+DOCTOR	She'll recover. She's got a couple of shattered bones and a little internal bleeding. She got off pretty easy.
+BUFFY	Easy?
+GILES	Have you looked the word up lately?
+DOCTOR	Well, the first one's still in a coma.
+BUFFY	The first what?
+DOCTOR	The first victim.
+DOCTOR	He was found a week ago. Exact MO as the girl. Only he's in worse shape. If he doesn't wake up soon... Somebody's gotta stop this guy.
+BUFFY	Somebody will.
+GILES	We've got to get you back before your next class.
+BUFFY	Hit the newspapers. See what you can find out about this first attack.
+GILES	Yes. (looking at her) Are you all right? You look a bit peaked.
+BUFFY	Hospital lighting. It does nothing for my fabulous complexion.
+GILES	Are you... sleeping all right?
+BUFFY	I'll sleep better when we find this guy. Nothing like kicking the crap out of a bad guy to perk up my day.
+GUY	(to the other) Hey, if he wants to fight, I'll take him down. I'm not backing off of this. This is about honor. I'll break his neck.
+WILLOW	I'm just saying, Wendell had a dream and then that exact thing happened.
+XANDER	Which is a fair wiggins, I admit. But do you think that ties in with Laura?
+WILLOW	I don't know. Maybe she dreamed about getting beat up. We should ask Buffy when she gets back from the hospital.
+GUY	Mom, what are you doing here?
+MOM	Oh, how's my little pookie?
+GUY	Mom, don't kiss me in front of everybody, it's embarrassing...
+MOM	Oh you cute little rascal, you're Mommy's good boy.
+GUY	MOM!
+XANDER	I don't know. It's kind of a big leap. It could just be coincidence. - Wendell finds a spider's nest, we all wig 'cause he dreamed about spiders.
+XANDER	It doesn't mean they're connected...
+WILLOW	Xander, what happened to your...?
+XANDER	I don't know, I... was dressed a minute ago... this is a dream. It's gotta be a... Ow! Wake up... (pinches himself again) Ow! Gotta wake up...
+XANDER	AHHHHHHHH!
+DAY	Giles, looking more rumpled than usual, has a HUGE ARRAY of NEWSPAPERS arranged on the big table. He's looking from one to the other, muttering:
+GILES	Can't be...
+BUFFY	What's the word?
+GILES	I've got back issues of the newspapers... trying to do some research...
+BUFFY	Uh-huh.... Did you find anything?
+GILES	I don't know.
+BUFFY	You don't know if you didn't find anything?
+GILES	I'm having a problem.
+BUFFY	What is it?
+GILES	I... I can't read.
+BUFFY	What do you mean? You can read, like, three languages.
+GILES	Five, actually, on a normal day - but the words here aren't making sense. (holds up a paper) It's gibberish.
+BUFFY	That's him.
+GILES	Who?
+BUFFY	That's the boy I've been seeing around school.
+BUFFY	"Twelve year old Billy Palmer was found beaten and unconscious after his Kiddie League game Saturday. Doctors describe his condition as critical..." When was this published? Last week (to Giles) He's in a coma, in intensive care... this is the boy from the hospital.
+GILES	The first victim. You've been seeing him around school?
+BUFFY	Yes, when the spiders got Wendell, when I didn't know a thing on the history test... It seemed weird, him being around, but with all the trouble I forgot about it.
+GILES	The boy's been in a coma for a week. How is this possible?
+BUFFY	What am I, knowledge girl now? Explanations are your terrain.
+GILES	Well... there's astral projection, the theory that while one sleeps one has another body, an astral body, that can travel through time and space...
+BUFFY	He's in a coma. That's like sleep, right?
+GILES	In a manner of speaking. Though one doesn't always wake from a coma...
+BUFFY	Could I have been seeing Billy's asteroid body?
+GILES	Astral body. And I don't know. We don't have much information to work with, as usual.
+BUFFY	(looking at the picture) Lucky Nineteen...
+HANK	There you are, I've been looking Everywhere. Why aren't you in class?
+BUFFY	Dad, what are you... you're not supposed to pick me up till after school, is something wrong?
+HANK	Well, I need to talk to you.
+BUFFY	Something is wrong. Is it Mom?
+HANK	No. It's not your mother, she's fine.
+BUFFY	Phew. You really had me -
+HANK	Could I speak to you for a moment, in private?
+BUFFY	Sure. Oh, this is Mr. Giles, the librarian. This is my father, Hank Summers.
+GILES	Pleasure.
+HANK	Likewise.
+BUFFY	I'll be back...
+HANK	I came early because there's something I've needed to tell you. About your mother and me. Why we split up.
+BUFFY	You always said-
+HANK	I know we always said we'd just Grown too far apart...
+BUFFY	Well, yeah. Isn't that true?
+HANK	Come on, honey, let's sit down.
+HANK	You're old enough to know the truth.
+BUFFY	Was there... someone else?
+HANK	No, it was nothing like that.
+BUFFY	Well then what was it?
+HANK	It was you.
+BUFFY	Me?
+HANK	Having you, raising you, seeing you every day, I mean do you have any idea what that was like...?
+BUFFY	What?
+HANK	Gosh, you don't even see what's right in your face, do you. Well, big surprise, all you ever think about is yourself... you get in trouble, you embarrass us with all the crazy stunts you pull, do I have to go on?
+BUFFY	...no. Please don't.
+HANK	You're sullen and rude and not nearly as bright as I thought you were going to be. I mean, Buffy, let's be honest: could you stand to live in the same house with a daughter like that?
+BUFFY	Why are you saying these things?
+HANK	Because they're true. I think that's the least we owe one another.
+HANK	And I don't think it's very mature getting all blubbery when I'm just trying to be honest - oh, speaking of which, I don't really get anything out of these weekends with you, what do you say we just don't do them anymore.
+HANK	I sure thought you were going to turn out differently.
+XANDER	Red alert. Where' s Buffy?
+GILES	She just stepped out, her father came by, he needed to speak with her - what happened, where are your other clothes?
+XANDER	Oh don't I wish I had an answer to that question.
+WILLOW	Xander kinda found himself in front of our class not wearing much of anything.
+XANDER	Except my underwear.
+WILLOW	Yeah, it was really... ...bad. It was a bad thing.
+XANDER	Bad thing? I was nude! Bad thing doesn't cover it.
+WILLOW	Everybody staring... I would hate to have everybody paying attention to me like that.
+XANDER	With nudity! It's a total nightmare.
+WILLOW	Well, yeah, Xander... it's your nightmare!
+XANDER	Except for the part with me waking up going "it was all a dream..." It happened.
+WILLOW	Like it happened to Wendell. The thing with the spiders - Wendell had a recurring dream about that.
+GILES	And I've dreamt of getting lost in the stacks, of not being able to... of course.
+XANDER	Our dreams our coming true?
+GILES	Dreams? That would be the musical Comedy version of this. Our nightmares are coming true.
+XANDER	Okay, despite the rat-like chill that just crawled up my spine, I'm going to say this very calmly: Hellllp....
+WILLOW	So why is this happening?
+GILES	Billy.
+XANDER	Well, that explanation was shorter than usual. It's Billy. Who's Billy?
+GILES	A boy in the hospital. He was beaten - he's in a coma. Somehow I think he's crossed over from the nightmare world he's trapped in.
+XANDER	And he brought the nightmare world with him Thanks a bunch, Billy.
+WILLOW	How could he do that?
+GILES	Things like that are easier when you live on a hellmouth.
+XANDER	Well, we've got to stop it.
+GILES	Soon. Or everyone in Sunnydale will be facing their own worst nightmare.
+CORDELIA	I don't understand... this can't be happening. I was just in the salon.
+BUFFY	Are you Billy Palmer?
+BILLY	Why do you want to know?
+BUFFY	Because I want to help you.
+BILLY	I'm Billy.
+BUFFY	Did something bad happen to you last week, after your Kiddie League Game?
+BILLY	Something bad... I don't remember.
+BUFFY	Do you remember playing baseball?
+BILLY	Uh-huh, I think so, yeah, I play second base.
+BUFFY	Are you "lucky nineteen"?
+BILLY	That's what he calls me...
+BUFFY	Who?
+BILLY	The Ugly Man. He wants to kill me. He hurt that girl.
+BUFFY	Why does he want to kill you?
+BILLY	(trying to break away from her) He's...
+BUFFY	It's okay, you can tell me. He's what?
+BILLY	He's here!
+BUFFY	Run, Billy!
+GILES	Buffy doesn't know this is happening. and given the sort of thing she tends to dream about, it's imperative we find her.
+XANDER	Probably be faster if we spilt up to look for her.
+GILES	Good idea.
+WILLOW	Faster, but not really safer.
+WILLOW	(calls softly) Buffy? Hello, Buffy...? Please show up soon...
+WILLOW	I'm not afraid. You'd think I'd be afraid but I'm not.
+CORDELIA	No! What are you doing?
+CORDELIA	No... you don't understand... I don't' want to go! I'm not even ON the chess team! I'm sure I'm not...
+BUFFY	Billy-
+BILLY	I'm sorry, I can't help it-
+BUFFY	Billy, who is he?
+BILLY	He's The Ugly Man.
+BUFFY	I can't fight him. I can fight anything but I can't fight him. He's too strong. We've got to find my friends. They can help.
+BILLY	We have to hide.
+BUFFY	He'll find us.
+BILLY	Yes, but first we have to hide. That's how it happens. We hide, and then he comes.
+MANAGER	Man, I thought you weren't going to show. Aldo's beside himself.
+VOICE	Ladies and Gentlemen, we are proud to present two of the world's greatest singers...
+MANAGER	I hope you're warmed up. It's an ugly crowd. All the reviewers showed up.
+VOICE	...all the way from Firenze, Italy, the one and only Aldo Gianfranco...
+VOICE	... and all the way from Sunnydale, California, the world's finest soprano, Willow Rosenberg!
+WILLOW	But... I didn't learn the words...
+ALDO	"Bimba dagli occhi pieni di malia. Ora sei tutta mia."
+ALDO	"Sei tutta vestita di giglio. Mi piace la treccia tua bruna fra i candidi veli."
+WILLOW	My turn?
+BUFFY	I was sure this led to the library.
+BUFFY	They're just playing... what is it, what's scaring you?
+BILLY	Baseball... when you lose, it's bad.
+BUFFY	Did you lose your Kiddie League game last week?
+BILLY	It was my fault.
+BUFFY	Why was it your fault?
+BILLY	I should have caught the ball, I missed it.
+BUFFY	You missed a ball and the whole game's your fault? What, you were the only one playing, there weren't eight other kids on your team?
+BILLY	He said it was my fault.
+BUFFY	Who said? (nothing from Billy) Did he... hurt you after the game?
+BILLY	Can't we go another way to see your friends?
+BUFFY	Sure we can. We can go around behind the cafeteria...
+BUFFY	...bad idea. Come on!
+BUFFY	What just happened?
+BILLY	Is this where your friends are?
+BUFFY	(looking about her) No. It's not.
+XANDER	Weird how everyone seems to have disappeared... ... all right!
+XANDER	Someone else's loss is my chocolatey goodness.
+XANDER	My lucky day...
+XANDER	I ruv dese bars...
+XANDER	A Chocolate Hurricane! These are the best! I haven't had one of these since my... sixth... birthday...
+BUFFY	Well, I don't see the Ugly Guy... I also don't see where the sun and the rest of the world went...
+BILLY	Hey, look at this...
+BILLY	Guess they're gonna bury somebody.
+BILLY	I wonder who died...
+MASTER	What's the fun in burying someone who's already dead?
+BUFFY	You...
+MASTER	So this is the Slayer. You're prettier than the last one.
+BUFFY	This isn't real... you can't be Free.
+MASTER	You still don't understand, do you? I am free because you fear it. Because you fear it, the world is crumbling. You nightmares are made flesh. You have Billy to thank for that.
+BUFFY	This is a dream...
+MASTER	A dream is a wish your heart Makes.
+MASTER	This is the real world.
+MASTER	Come on, Slayer... What are you afraid of?
+MASTER	How about being buried alive?
+BUFFY	Nooooo!
+XANDER	Did you find Buffy?
+WILLOW	I had to sing. Very bad. To sing.
+XANDER	(urging her out) Willow, come on. We gotta find the others.
+WILLOW	(shaking off her stupor) What happened to you?
+XANDER	Remember my sixth birthday party?
+WILLOW	Oh yeah! When the clown chased you and you got so scared that you... had... oh.
+GILES	No sign of Buffy?
+XANDER	Come on!
+XANDER	You were a lousy clown! And your balloon animals were crap! Everyone can make the giraffe.
+XANDER	I feel good, I feel liberated.
+GILES	You seem to be the only one.
+GILES	This is getting worse. In a few hours reality will fold completely into nightmares.
+XANDER	What do we do?
+GILES	The only thing I can think is to try and wake Billy.
+WILLOW	But we can't leave without Buffy.
+GILES	Agreed. But who knows where she might have gone?
+WILLOW	Excuse me, when did they put a cemetery in across the street?
+XANDER	And when did they make it night over there?
+XANDER	Okay, whose nightmare is this?
+GILES	It's mine.
+GILES	I failed in my duty to protect you... I should have been more cautious, taken more time with your training... but you were so gifted and the evil was so great.
+GILES	Forgive me.
+GILES	Buffy?
+BUFFY	I thought I was dead...
+WILLOW	Buffy, your face...
+BUFFY	Oh, God, no... no...
+BUFFY	Don't look at me...
+GILES	You never told me you Dreamt of becoming a vampire.
+BUFFY	This isn't a dream.
+GILES	No, it's not. But there is a chance that we can make it go away. This is all coming from Billy. He's crossed over from the nightmare world to the waking one, and he's brought his reality with him.
+BUFFY	He's afraid.
+GILES	If we can wake him, I believe the nightmares will stop. Reality will shift back to the way it was. But we must do it now. Can you hold together long enough to help us?
+BUFFY	Yes. I can.
+GILES	Thank you.
+BUFFY	But we'd better hurry. I'm getting Hungry.
+XANDER	That was a joke, right?
+WILLOW	Are you sure everything will go back once he's awake?
+GILES	Positive.
+WILLOW	Well, how do we wake Billy up? What if we can't?
+GILES	Willow... do shut up.
+GILES	Doctor! Is the boy Billy still -
+XANDER	What now?
+GILES	Um.... (in his ear) Billy?
+BILLY	That won't work.
+GILES	Billy! Billy you've got to wake up.
+BILLY	No. I told her. I have to hide.
+GILES	Why? From what?
+BUFFY	From him.
+GILES	What do we do?
+BUFFY	I think I know.
+WILLOW	Whatever it is, it better be soon.
+BUFFY	I'm glad you showed up. You see, I'm having a really bad day.
+MAN	Lucky nineteen.
+BUFFY	Scary. I'll tell you something though. There's a lot scarier things out there than you. And now, I'm one of them.
+BILLY	Is he dead?
+BUFFY	Come here, Billy.
+BILLY	But I don't -
+BUFFY	No more hiding.
+WILLOW	What's he doing?
+XANDER	I get it...
+BUFFY	You're got to do the rest.
+XANDER	Hey, he's waking up.
+BILLY	I had the strangest dream. and you were in it, and you and you... who are you people?
+GILES	Best get a doctor.
+COACH	Oh, Billy's got company. I'm his Kiddie League coach. I come by every day, just hoping against hope he might wake up... He's my "lucky nineteen." How is he?
+BUFFY	Awake...
+COACH	What?
+BUFFY	You blamed him for losing the game . So you caught up with him afterwards.
+COACH	What are you talkin' about?
+BILLY	He said it was my fault we lost -
+BILLY	-- wasn't my fault, there's eight other players on the team, you know?
+BUFFY	Nice goin'.
+BUFFY	Hard to believe a Kiddie League Coach would do something like that.
+XANDER	Not if you played Kiddie League. I'm surprised it wasn't one of the Parents.
+WILLOW	I'm just glad he's behind bars where he belongs.
+BUFFY	That was kinda heroic, Xander, grabbing him and all.
+XANDER	Hey, I just did what anybody would have... if people want to label it heroic -
+BUFFY	Have a killer weekend, guys.
+HANK	Hi sweetheart. I'm got about a million things planned for us this weekend. - it's going to mean spending a lot of quality time and money together.
+BUFFY	Great.
+HANK	How was your day?
+BUFFY	Oh you know, the usual...
+WILLOW	Personal question?
+XANDER	Shoot.
+WILLOW	When Buffy was a vampire, you weren't still, like, attracted to her, were you?
+XANDER	Willow. Who can you - I mean that's really bent, she was grotesque.
+WILLOW	Still dug her, huh.
+XANDER	I'm sick. I need help.
+WILLOW	Don't I know it.
+COLLIN	Bad dream?
+MASTER	Horrible.

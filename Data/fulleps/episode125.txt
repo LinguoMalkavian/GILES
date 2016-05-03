@@ -1,0 +1,752 @@
+FATHER	You kids stop acting up.
+XANDER	You think she'll get the sign?
+BUFFY	Get the sign? I doubt she'll see the sign. Why's it so, like, pale?
+XANDER	I used yellow crayon. It's a thing. From when I talked to her on the bluff. I hope she gets it.
+DAWN	Oh! Tell us what you said again!
+XANDER	Well, I was talking from my heart, and I knew evil Willow wasn't really-- You were kidding.
+DAWN	A little bit.
+BUFFY	We've heard the crayon speech a lot. I mean, it's great, of course...
+XANDER	I saved the world with talking! From my mouth. My mouth saved the world.
+DAWN	Uh-huh. I'm getting nervous. Are you nervous?
+BUFFY	Yeah, it's gonna be weird seeing her again. I love her and everything, but how do you... what do you say to someone in this situation?
+XANDER	I'm going to say "Hi Willow."
+BUFFY	Oh come on, are you saying it isn't going to be strange? We saw her kill someone. She was about to kill Dawn!
+DAWN	I didn't care for it.
+XANDER	That wasn't really her. And Giles wouldn't let her leave if she didn't finish that, whatever, recovery course.
+DAWN	Right.
+XANDER	What is it? Did Giles say something?
+BUFFY	Just that, she kinda didn't finish.
+DAWN	She didn't finish? She didn't finish being not evil?
+BUFFY	He said it was important for her to come back early, and she's been doing really well and we shouldn't worry.
+XANDER	Guys. I've just noticed something...
+BUFFY	What?
+XANDER	Everyone's off the plane So... where's Willow?
+FATHER	You kids stop acting up.
+WILLOW	Welcome home, me.
+BOY	Hey! Someone there?
+BOY	You better clear out, whoever you are.
+WILLOW	Hello?
+WILLOW	Dawn? Did I hear the door?
+BUFFY	... absolutely said he put her on the plane in London.
+XANDER	So she got out in Chicago when they stopped?
+DAWN	She could have caught a flight anywhere from there.
+BUFFY	Or she doubled back, got off the plane after Giles left, in London.
+DAWN	If she's doing that, ducking Giles, then she's evil, right?
+XANDER	I avoided Giles tons of times and it just meant I was lazy, not evil.
+BUFFY	Well I hope you're right, because defeating Lazy Willow, probably less hard.
+DAWN	We should check the messages, see if she tried to reach us here.
+BUFFY	Good idea.
+DAWN	What was that?
+BUFFY	Upstairs.
+XANDER	Willow? That you?
+DAWN	She didn't leave a message.
+BUFFY	I checked with Giles again too. He hasn't heard from her.
+XANDER	Is he throwing a tasteful British wiggins?
+BUFFY	With extra wig. I think he's blaming himself pretty hard. Like, he should've known she wasn't ready. I kept telling him it wasn't his fault. I mean, maybe it was something about us she couldn't face...
+XANDER	Like she didn't think we were ready to forgive her. I get that.
+DAWN	So Giles is blaming Giles and we're blaming us. Is anyone gonna blame Willow?
+I	mean, what I want to know is, will anyone around here ever ask for help when they need it? Instead everyone just keeps secrets, and suffers alone, and then we're s'posed to be all sympathetic when they start ripping the skins off people or dragging their sisters into the basement! I may have some stuff to work through.
+BUFFY	Undoubtedly. But you do have a point.
+DAWN	I thought I might.
+BUFFY	If Willow's flipped out, it's her bad. We can only be here for her so much if she won't be; you know, here .
+WILLOW	Yes, hello. I'm calling for Giles-- Mister Giles... Right... the Council all day... No, I know he can't be reached there. Thanks. Bye.
+WILLOW	Anya!
+ANYA	What are you doing here? I thought you were with Giles studying how to not kill people.
+WILLOW	I just got back.
+ANYA	And you're back 'cause you're all better or you're back to bring about a fiery apocalypse of death?
+WILLOW	Neither. But I have been studying. Working really hard. I'm going to be fine.
+ANYA	Oh good, because I remember the last time you said that. I've spent a lot of the time since then cleaning the debris out of my ex-livelihood, stuff like that.
+WILLOW	I want to help any way I can with that. I feel really responsible.
+ANYA	You feel really responsible?! You are really responsible! You broke my store! Plus, you killed two people.
+WILLOW	I know I hurt you. And everyone. I'm sorry.
+ANYA	Here's a little something you should know about Vengeance Demons. We don't groove with the "sorry." We prefer the "Oh God, please stop hitting me with my own rib-bones!"
+WILLOW	Go on. Say whatever you want. Rib- bones and so forth. I deserve it.
+ANYA	And you won't mind?
+WILLOW	No.
+ANYA	Well then that's no fun!
+WILLOW	Sorry.
+ANYA	Well, I'm back in my own apartment. And of course vengeance takes me all over the world. I was in Brazil yesterday. They love their soccer.
+WILLOW	And... the others? Dawn and Xander and Buffy? Do you know where they are?
+ANYA	You haven't seen them?
+WILLOW	Not so much.
+ANYA	Huh, guess they're still mad at you. They've been a little temperamental lately, just between you and me. We had a bit of a mix-up a few days ago-
+WILLOW	That sounds great. So where do you think they'd be?
+ANYA	Oh, at the new high school, probably. Everyone's all about the high school right now. Buffy's got some kind of job helping junior deviants. Spike is insane in the basement, and Xander's doing construction there on the gym.
+WILLOW	Spike's what in the whatment?
+ANYA	Insane, base. And Xander does construction. He likes to start early so he's probably there by now.
+WILLOW	Xander?
+BUFFY	No skin.
+XANDER	Tough to look at.
+BUFFY	And yet my eyes refuse to look away. Stupid eyes.
+XANDER	I found it first thing this morning. I gave my crew the day off, called you right away.
+BUFFY	I gotta find a job where I'm not the one called right away for this stuff.
+XANDER	Yeah, I know exactly what you're thinking. Maybe Willow is back.
+XANDER	Can I take it back?
+BUFFY	Take what back?
+XANDER	Saying it's her. Buffy, I can't let it be her. Because that would mean... what would it mean?
+BUFFY	It would mean we lost her again.
+XANDER	I don't want that. I don't want us to lose her. I don't want her to be lost.
+WILLOW	Ahh!
+SPIKE	Out! This is my place! You need permission to be here. You need a special slip with a stamp!
+WILLOW	Spike! My... God, Spike. Anya said-- What happened to you?
+SPIKE	Can't you see? Read it on my face. LOOK!
+WILLOW	I don't--
+SPIKE	You go off and try to wall up the bad spots, put your heart back in where it fell out, and you call yourself finished, but you're not. You're worse than ever, you are.
+WILLOW	I did. I needed to go. But I'm back and I just found... there's a body...
+SPIKE	Tragedy. Is there blood?
+WILLOW	Um, yeah. And I can't find Buffy or Xander or Dawn and now there's something killing people. The victim was skinned. What would do that?
+SPIKE	Didn't see it, never saw it. Didn't say I did. You did it once. I heard about it.
+WILLOW	Anything other than... other than me?
+SPIKE	Lots of things like skin. I mean, who doesn't like skin?
+WILLOW	What kinds of things? I have to know. Is there anything else that could have done this?
+SPIKE	Look at you, glowing. What's a word means glowing? Gotta rhyme.
+WILLOW	Spike?
+SPIKE	I should hide, hide from you. Hide my face. You know what I did.
+WILLOW	What you did? You didn't do this. Did you?
+SPIKE	Not the time. Not the time. Prob'ly better left unsaid anyway. Unsaid things grow healthy in the dark, little tadpoles... Everyone's talking to me, no one's talking to each other.
+WILLOW	Please, try to listen to me...
+SPIKE	Someone isn't here. Button, button, who's got the button? My money's on the witch. Red is a bad girl. They made her go away, you know. She told me. Shh.
+WILLOW	Spike. I'm... I'm sorry about whatever... but I think I should go.
+SPIKE	They think you did it.
+XANDER	You can't use the blueprints to find your way around, down here. Seems like the walls move or something...
+BUFFY	I think I hear him.
+SPIKE	...and you call yourself finished, but you're not. You're worse than ever, you are.
+BUFFY	Spike. Spike .
+SPIKE	You went away.
+BUFFY	Yeah. You scared me a little, in the church. I'm... I had to think. I didn't know what to think.
+XANDER	We're here for a reason, Spike.
+SPIKE	Tragedy. Is there blood?
+XANDER	He knows. He must have seen the body.
+SPIKE	Didn't see it. Never saw it. Din't say I did. (then to the air) You did it once. I heard about it.
+BUFFY	We need to know who did it. Who skinned the boy out there?
+XANDER	Did you hear anything or see anything?
+SPIKE	Lots of things like skin. I mean, who doesn't like skin?
+BUFFY	Spike, please...
+SPIKE	I should hide, hide from you. Hide my face. You know what I did.
+XANDER	Boy, he's extra useful today...
+BUFFY	This isn't the time.
+SPIKE	Not the time. Not the time. Prob'ly better left unsaid anyway. Unsaid things grow healthy in the dark, little tadpoles... Everyone's talking to me, no one's talking to each other.
+BUFFY	We might as well go.
+SPIKE	Someone isn't here. Button, button, who's got the button? My money's on the witch. Red is a bad girl. They made her go away, you know. She told me. Shh.
+BUFFY	Willow. He's talking about Willow.
+XANDER	And that means something because he's chock-full-o-sanity.
+BUFFY	Well, it doesn't exactly make it less likely. Maybe he saw her.
+SPIKE	They think you did it. The Slayer and her boy. They think you took the skin.
+BUFFY	Spike, is there something here? Something that killed?
+XANDER	"Her boy"? I'm "her boy"?
+SPIKE	I have to go. There's things here without permission and I have to check their slips, make sure they have authorization.
+XANDER	It means nothing. Right? He mentioned Willow and it means nothing.
+BUFFY	Right. He also mentioned tadpoles. We're not going to jump to conclusions about those either, one way or the other.
+XANDER	Wait. We are considering tadpoles?
+ANYA	Well, there's six poltergeists set free to terrorize, with no one making a penny of profit.
+WILLOW	I need help.
+ANYA	I don't have any money.
+WILLOW	I don't want money!
+ANYA	Come in! Enjoy my personal space!
+WILLOW	I found a dead body near the high school.
+ANYA	Yes, that can happen.
+WILLOW	Something horrible killed a boy, Anya. Took his skin off.
+ANYA	Was it you? WILLOW Was it you?
+WILLOW	No! ANYA No!
+ANYA	With the skin thing, they're definitely going to think it was you. Buffy is, anyway.
+WILLOW	Yeah. Maybe she already does. I don't know. I just... I need to find whatever really did it. Because I need to do something right.
+ANYA	And so they'll see it wasn't you, right? I mean, that has to be part of it. Maybe you're even thinking, you kill this thing, they never even have to know about it, don't have to suspect you even for a minute?
+WILLOW	I... I don't.. when did you get all insightful?
+ANYA	I'm surprisingly sensitive.
+WILLOW	So... will you help me?
+ANYA	Is it difficult or time-consuming?
+ANYA	This isn't gonna get all sexy, is it?
+WILLOW	I'd be shocked. Okay. You have your powder?
+ANYA	Oh, I ate that. I have it.
+WILLOW	We scatter it over the map, and everywhere there's a demon, it makes a little light.
+ANYA	How pretty! Will it hurt the carpet?
+WILLOW	No.
+WILLOW	Oooo.
+ANYA	Hey look! That's me !
+WILLOW	The high school. It's all Hellmouthy underneath.
+ANYA	Yeah, things are stirred up lately. Is it... is it getting brighter?
+WILLOW	Smoke!
+ANYA	Okay, remember our talk about the carpet?
+WILLOW	That could be it. It's strong. It's near the body, and it's by itself. Hiding in the woods, or a cave - couple good caves 'round there...
+ANYA	I don't know, seems kinda thin to me.
+WILLOW	That's why you teleport over there real quick like a bunn- - real quick, and see if I'm right.
+ANYA	Nope. Sorry. You damaged my carpet.
+WILLOW	Anya! It would take, like, a millisecond.
+ANYA	I won't. Also. I can't.
+WILLOW	You're a Vengeance Demon. Teleport.
+ANYA	Well, see... turns out, teleporting isn't a right, it's a privilege. I withdrew a vengeance spell last week and this is my punishment. I can only teleport for official business. I have to file a flight plan and everything.
+WILLOW	Wow. I'm sorry. That must be hard.
+ANYA	Yeah, it bites a pretty big one. And the vengeance itself, it's not as... not as fulfilling as I remember.
+WILLOW	Really? Because I got the impression you enjoyed, you know, inflicting.
+ANYA	Well, see, causing pain sounds really cool, I know, but it turns out, it's really upsetting. It didn't used to be, but now it is.
+WILLOW	Is it like, you're scared of losing that feeling again, and having it be okay to hurt people and then you're not in charge of the power anymore because it's in charge of you?
+ANYA	Wow, that was really overdramatically stated, but yeah, that's it.
+WILLOW	I get it. Believe me.
+ANYA	I'm sorry, Willow. I wish it was better for you.
+WILLOW	You too.
+ANYA	It did get a little sexy, didn't it?
+WILLOW	I have to go find this monster.
+ANYA	Hey, Willow? Isn't there another spell? I mean, you're trying to find Buffy and Xander. Couldn't we use a spell to do that?
+WILLOW	I did. I tried. But something went gaflooey and it didn't work.
+ANYA	What did it say?
+WILLOW	It said they don't exist.
+DAWN	I looked up demons that "skin" their victims and demons that "flay" their victims. Because, you know, same thing. There's a ton of prospects.
+XANDER	Spike may have gone to the land of the twirly hand gesture next to the temple, but he was right. Everybody likes skin.
+DAWN	Anything else gone? Eyeballs or toenails or viscera? That's guts.
+BUFFY	She knows about viscera. Makes you proud.
+XANDER	Just skin.
+DAWN	Okay, I'll work on that.
+XANDER	What's up?
+BUFFY	I need to do something. And I just, I have this feeling in my gut...
+XANDER	In your viscera .
+BUFFY	...that we already know exactly who did this. And that all this work, it's just us trying to talk ourselves into thinking Willow's all right.
+XANDER	She is all right.
+BUFFY	See ?
+DAWN	Demon called Gnarl, with a 'g' . He's a parasite with these nasty long fingernails. He secretes something through them and he uses that to paralyze his victims. Then he cuts strips of skin off while they're still alive. He starts in the middle, like belly-button-centric, and works out. It takes hours.
+XANDER	We didn't find any strips of skin. Which, by the way, ghhhuh.
+DAWN	You wouldn't. He eats 'em. That's why he's a parasite. That's, like, his natural food.
+XANDER	Bleah gukguk yeee.
+BUFFY	I don't know, Dawn. You're new at this, and I get why you're proud of finding this, but I don't see why this guy is any more likely than all the others.
+DAWN	Cuz you guys never said "pool of blood."
+BUFFY	What?
+DAWN	You get your skin ripped off, normally you'd end up in a pool of blood. You never mentioned one.
+BUFFY	There were lots of spatters, no pool.
+DAWN	Then it's this guy! He laps up the blood. You could say it's like, his natural beverage.
+XANDER	You're terrifying.
+BUFFY	Dawn? How come you're so okay with this? With the blood and the strips of skin...
+DAWN	It just feels different now. Like if I'm doing the research I've got some control over it.
+BUFFY	Well, you are very alarming and also helpful. Thank you.
+DAWN	Now if we just knew how to find this thing.
+XANDER	We could ask around at Willy's Place--
+BUFFY	Or we could be smart. Sorry, Xander.
+XANDER	What?
+BUFFY	Whoever did this, they had to get blood on them. And they'd leave a trail...
+DAWN	Right, minute traces of blood.
+BUFFY	And we have a way to track it.
+DAWN	We have a...? Oh. I get it.
+XANDER	What? How? What's going on?
+SPIKE	William's a good boy. Carries the water, carries the sin. It's supposed to yet easier, in'it? It's s'posed to help to help. 'Cept it doesn't. And it's still so heavy...
+XANDER	We should've put him on a leash.
+BUFFY	Yeah, let's tie ourselves to the crazy vampire!
+XANDER	Really think it's working?
+BUFFY	It's pretty easy. Spike follows the exciting smell of blood. We follow the fairly ripe smell of Spike.
+DAWN	It's smellementary! Also, I bet there's tons of stuff like this, procedures we can use that don't involve magic spells, just good solid detective work. Like, we could develop a database of tooth- impressions and demon skin samples. And I could wear high heels more.
+BUFFY	Wow, that was so close to being empowered.
+DAWN	Well, everyone wants a slender ankle.
+XANDER	Oof.
+SPIKE	This is it. End of the line, everyone off. (to Xander, intensely) Keep your ticket. You'll need that.
+BUFFY	This is a rock cliff.
+XANDER	Hey, Buffy, give him a break. Maybe it's a vicious skin-eating rock cliff.
+SPIKE	'S got a cave in it. Look.
+GNARL	All alone...
+DAWN	Do we just, you know... crawl in?
+XANDER	I guess Buffy goes in first.
+BUFFY	It's hard to protect yourself, going in head-first like that.
+XANDER	That's why I figure, Slayer goes first.
+BUFFY	Yay for being the strong one. It's so much fun.
+XANDER	Dark and dank. I was hoping it would be dark and dank--
+BUFFY	Shh. Listen.
+XANDER	I don't... yeah. Now I do.
+DAWN	Something's moving in here.
+BUFFY	Guess we're in the right place.
+DAWN	You guys hear that, right?
+XANDER	Yep.
+BUFFY	It's echoing around. He sounds close, guys but he's way at the other--
+XANDER	Where'd he go?
+BUFFY	Dawn, you okay?
+DAWN	I... I guess... so.
+BUFFY	Dawn! We gotta get her out of here.
+WILLOW	What's going on? Who's here?
+WILLOW	Protect me, Goddess. In thy name I supplicate myself. Take the powers from my enemy and lay him lower than the lowest field--
+WILLOW	Maybe you're immune to magic, but I got more than that! You wanna fight?
+BUFFY	The computer. The thing Dawn was reading may have an antidote for the paralysis.
+DAWN	Bffy?
+BUFFY	What?
+DAWN	M rily srry.
+BUFFY	That's okay.
+XANDER	You couldn't help it. It had paralyzing fingernails.
+BUFFY	Just like you said it would... so good on you.
+DAWN	Wnted t' be hffl.
+XANDER	Heffel?
+BUFFY	Helpful. You were helpful.
+DAWN	M so emb'rffed.
+XANDER	There's no need to be embarrassed.
+BUFFY	Right. No need for that.
+DAWN	Thoz kds? D'ey see me? Tell'my drnk.
+BUFFY	What?! I'm not going to tell them you're drunk! For God's sake, Dawn.
+WILLOW	Stop it.
+WILLOW	Were they here? Were my friends really here? I heard something--
+BUFFY	Watch her head, watch her head.
+DAWN	Wtch my hd, wtch my hd.
+BUFFY	Sofa.
+DAWN	Fce up! Fce up!
+XANDER	She's right Face up is better.
+BUFFY	I'm looking for the page with the info on this thing... see if there's an antidote.
+XANDER	It's going to be all right. We'll get you fixed up. You'll be doing the limbo in no time.
+DAWN	Azapol.
+XANDER	No, not as the pole. I promise.
+BUFFY	I can't find the right... okay... (fast, run-together) Gnarl blah blah skin blah blah yuck... got it. It says the paralysis is permanent.
+DAWN	Sht.
+BUFFY	No. Wait. Permanent 'til the creature dies. Sorry.
+DAWN	Pfft.
+BUFFY	We have to go back.
+XANDER	We can't leave her alone like this. What if she vomits?
+DAWN	Yk! I wont vomt!
+BUFFY	Do you think she'd vomit?
+DAWN	Stp tkinq abt vomt!
+BUFFY	We'll call Anya. She'll stay with her.
+XANDER	Right! She'll love to be called for vomit watch.
+DAWN	Plees, stp tking abt vomt.
+GNARL	Gnarl makes a pretty picture.
+DAWN	-Nmp!
+BUFFY	She's not dying. She's just paralyzed.
+ANYA	Paralyzed how?
+XANDER	Paralyzed how ? In the not moving way.
+ANYA	Oh, there's lots of different ways. Did you try this?
+BUFFY	Hey!
+DAWN	Hey!
+XANDER	Oh! You're posable!
+BUFFY	She's posable?
+ANYA	It's a common variety. Watch this.
+DAWN	Ys oo do!
+BUFFY	Where'd you get those nuts?
+ANYA	Brazil. No need to thank me for sitting with her, by the way. I'm feeling very benevolent today. Helping Willow, helping you. Might just call it even for that worm thing last week?
+BUFFY	I don't think-- You saw Willow?
+ANYA	She's looking for you guys, by the way. Decided you might be out in some cave.. . sounded pretty tenuous to me.
+DAWN	Cv?
+BUFFY	Listen. This is important. Did she go to the cave ?
+ANYA	Oh yeah. Last time I saw her, that's where she was headed. You want me to make her salute? It'd be damn cute.
+BUFFY	Xander, she could be there. Willow could be trapped with the Gnarl.
+ANYA	It's not "the Gnarl," it's just "Gnarl." Whoa. Wouldn't it be tragic if you were here having this kind of silly time with your comically paralyzed sister while Willow was dying?
+BUFFY	This monster, Gnarl, you know stuff about him?
+ANYA	Sure.
+BUFFY	You're coming with us.
+WILLOW	They... wouldn't leave... they'll return...
+GNARL	They don't want you. Lock you in, nice white skin... and if they come back, where will they find you? Inside me, you'll already be.
+XANDER	Anya! You've got to keep up!
+ANYA	I'm out of shape! I've been teleporting for months!
+BUFFY	Hurry!
+WILLOW	No. No. No.
+BUFFY	Where is Willow? What did you do to her?
+ANYA	She's right there. Don't you see her? She's hurt!
+XANDER	What? Where?
+ANYA	He's tucked way up in the rocks. You may not see him again.
+XANDER	There's nothing here.
+ANYA	Your hand. It's going right through her!
+BUFFY	I don't know. But I'm starting to get why we haven't seen her.
+XANDER	Because we haven't seen her.
+BUFFY	I'm getting the feeling that whatever caused this invisibility thing or whatever, it's a whole separate issue from this skin-eating mon--
+ANYA	Behind you!
+ANYA	Willow, I'm here. Wow, you're really hurt.
+WILLOW	Wht's gng on?
+ANYA	Buffy's fighting him, over there. See? If they get too close I'll have to run.
+WILLOW	I... I dn't see...
+ANYA	But they're here. Buffy and Xander.
+WILLOW	Someone came. Zey din't leav me.
+ANYA	No one left you. They can't see you.
+WILLOW	Zr here, zr here. Nt alone...
+ANYA	Good, you're doing good.
+XANDER	He's too fast!
+ANYA	Buffy killed him. It was gross.
+WILLOW	I can move...
+BUFFY	Willow? Are you here?
+XANDER	Where is she? Is she alive?
+ANYA	She's right there... okay... back off, you're kind of kneeling in her.
+BUFFY	Willow?
+ANYA	She's hurt really bad, you guys. I'll go get help.
+XANDER	I think she's sort of... here-ish.
+BUFFY	Willow? Willow, I can't see you, but... But I'm so glad you're back, and... I don't know how badly you're hurt...
+XANDER	What's happening?
+WILLOW	...couldn't find you and I looked everywhere... And the monster said you left me... Oh! There you are! There you are!
+XANDER	We're not going away. Oh, god.
+BUFFY	Willow, it's okay. You'll be okay.
+WILLOW	I know! You're here!
+WILLOW	Buffy.
+BUFFY	I didn't mean-- Sorry to interrupt.
+WILLOW	That's all I had left in me anyway.
+BUFFY	Didn't realize meditating was such hard work.
+WILLOW	I'm healing. Growing new skin.
+BUFFY	That-- Wow. This is magic, right? When most people meditate they don't get extra skin, do they? Cuz Clem should, like, cut back.
+WILLOW	It's magic. I'm drawing power from the earth to heal myself.
+BUFFY	We're on the second floor.
+WILLOW	Ultimately, everything is part of the earth. The bed, the air, us.
+BUFFY	Huh. Explains why my fingernails get dirty even when I don't do anything.
+WILLOW	Plus you stuck your thumbs in a demon.
+BUFFY	Oh, right.
+WILLOW	No. Please. Stay. I missed you so much when I couldn't find you.
+BUFFY	We missed you too. I missed you. Dawn's been working on what caused the mutual no-see-ums, but I don't--
+WILLOW	I did it.
+BUFFY	You did a spell?
+WILLOW	I think so. No, not a spell. I just remember thinking that I wasn't ready to see you guys, and I was afraid we wouldn't, you know, connect.
+BUFFY	And you made it happen.
+WILLOW	Yeah. I think so.
+BUFFY	Well, I get that. It's okay.
+WILLOW	It's nice to be forgiven. Too bad I need so much of it.
+BUFFY	I have a confession. I thought it might be you. With the flaying.
+WILLOW	I know.
+BUFFY	I want to be the kind of person that wouldn't think that. Xander never thought that.
+WILLOW	He did, a little. Heck, I did, a little. Xander has the luxury of not saying it. But you're the Slayer. You have to say stuff like that. It's okay. It's okay, too, if you still don't think I can recover from this magic thing. Because, honestly, I'm not that sure about that either.
+BUFFY	I thought you were too tired.
+WILLOW	It hurts too much not to try.
+BUFFY	I'm so sorry.
+WILLOW	It just takes so much strength. I don't have that much.
+BUFFY	Me, I got so much strength I'm givin' it away.
+WILLOW	Are you sure...
+BUFFY	Will it help?
+WILLOW	Much.
+BUFFY	Good.
+XANDER	You think she'll get the sign?
+BUFFY	Get the sign? I doubt she'll see the sign. Why's it so, like, pale?
+XANDER	I used yellow crayon. It's a thing. From when I talked to her on the bluff. I hope she gets it.
+DAWN	Oh! Tell us what you said again!
+XANDER	Well, I was talking from my heart, and I knew evil Willow wasn't really-- You were kidding.
+DAWN	A little bit.
+BUFFY	We've heard the crayon speech a lot. I mean, it's great, of course...
+XANDER	I saved the world with talking! From my mouth. My mouth saved the world.
+DAWN	Uh-huh. I'm getting nervous. Are you nervous?
+BUFFY	Yeah, it's gonna be weird seeing her again. I love her and everything, but how do you... what do you say to someone in this situation?
+XANDER	I'm going to say "Hi Willow."
+BUFFY	Oh come on, are you saying it isn't going to be strange? We saw her kill someone. She was about to kill Dawn!
+DAWN	I didn't care for it.
+XANDER	That wasn't really her. And Giles wouldn't let her leave if she didn't finish that, whatever, recovery course.
+DAWN	Right.
+XANDER	What is it? Did Giles say something?
+BUFFY	Just that, she kinda didn't finish.
+DAWN	She didn't finish? She didn't finish being not evil?
+BUFFY	He said it was important for her to come back early, and she's been doing really well and we shouldn't worry.
+XANDER	Guys. I've just noticed something...
+BUFFY	What?
+XANDER	Everyone's off the plane So... where's Willow?
+BOY	Hey! Someone there?
+BOY	You better clear out, whoever you are.
+BUFFY	... absolutely said he put her on the plane in London.
+XANDER	So she got out in Chicago when they stopped?
+DAWN	She could have caught a flight anywhere from there.
+BUFFY	Or she doubled back, got off the plane after Giles left, in London.
+DAWN	If she's doing that, ducking Giles, then she's evil, right?
+XANDER	I avoided Giles tons of times and it just meant I was lazy, not evil.
+BUFFY	Well I hope you're right, because defeating Lazy Willow, probably less hard.
+DAWN	We should check the messages, see if she tried to reach us here.
+BUFFY	Good idea.
+DAWN	What was that?
+BUFFY	Upstairs.
+DAWN	She didn't leave a message.
+BUFFY	I checked with Giles again too. He hasn't heard from her.
+XANDER	Is he throwing a tasteful British wiggins?
+BUFFY	With extra wig. I think he's blaming himself pretty hard. Like, he should've known she wasn't ready. I kept telling him it wasn't his fault. I mean, maybe it was something about us she couldn't face...
+XANDER	Like she didn't think we were ready to forgive her. I get that.
+DAWN	So Giles is blaming Giles and we're blaming us. Is anyone gonna blame Willow?
+I	mean, what I want to know is, will anyone around here ever ask for help when they need it? Instead everyone just keeps secrets, and suffers alone, and then we're s'posed to be all sympathetic when they start ripping the skins off people or dragging their sisters into the basement! I may have some stuff to work through.
+BUFFY	Undoubtedly. But you do have a point.
+DAWN	I thought I might.
+BUFFY	If Willow's flipped out, it's her bad. We can only be here for her so much if she won't be; you know, here .
+ANYA	What are you doing here? I thought you were with Giles studying how to not kill people.
+WILLOW	I just got back.
+ANYA	And you're back 'cause you're all better or you're back to bring about a fiery apocalypse of death?
+WILLOW	Neither. But I have been studying. Working really hard. I'm going to be fine.
+ANYA	Oh good, because I remember the last time you said that. I've spent a lot of the time since then cleaning the debris out of my ex-livelihood, stuff like that.
+WILLOW	I want to help any way I can with that. I feel really responsible.
+ANYA	You feel really responsible?! You are really responsible! You broke my store! Plus, you killed two people.
+WILLOW	I know I hurt you. And everyone. I'm sorry.
+ANYA	Here's a little something you should know about Vengeance Demons. We don't groove with the "sorry." We prefer the "Oh God, please stop hitting me with my own rib-bones!"
+WILLOW	Go on. Say whatever you want. Rib- bones and so forth. I deserve it.
+ANYA	And you won't mind?
+WILLOW	No.
+ANYA	Well then that's no fun!
+WILLOW	Sorry.
+ANYA	Well, I'm back in my own apartment. And of course vengeance takes me all over the world. I was in Brazil yesterday. They love their soccer.
+WILLOW	And... the others? Dawn and Xander and Buffy? Do you know where they are?
+ANYA	You haven't seen them?
+WILLOW	Not so much.
+ANYA	Huh, guess they're still mad at you. They've been a little temperamental lately, just between you and me. We had a bit of a mix-up a few days ago-
+WILLOW	That sounds great. So where do you think they'd be?
+ANYA	Oh, at the new high school, probably. Everyone's all about the high school right now. Buffy's got some kind of job helping junior deviants. Spike is insane in the basement, and Xander's doing construction there on the gym.
+WILLOW	Spike's what in the whatment?
+ANYA	Insane, base. And Xander does construction. He likes to start early so he's probably there by now.
+BUFFY	No skin.
+XANDER	Tough to look at.
+BUFFY	And yet my eyes refuse to look away. Stupid eyes.
+XANDER	I found it first thing this morning. I gave my crew the day off, called you right away.
+BUFFY	I gotta find a job where I'm not the one called right away for this stuff.
+XANDER	Can I take it back?
+BUFFY	Take what back?
+XANDER	Saying it's her. Buffy, I can't let it be her. Because that would mean... what would it mean?
+BUFFY	It would mean we lost her again.
+XANDER	I don't want that. I don't want us to lose her. I don't want her to be lost.
+SPIKE	Out! This is my place! You need permission to be here. You need a special slip with a stamp!
+WILLOW	Spike! My... God, Spike. Anya said-- What happened to you?
+SPIKE	Can't you see? Read it on my face. LOOK!
+WILLOW	I don't--
+WILLOW	I did. I needed to go. But I'm back and I just found... there's a body...
+SPIKE	Tragedy. Is there blood?
+WILLOW	Um, yeah. And I can't find Buffy or Xander or Dawn and now there's something killing people. The victim was skinned. What would do that?
+SPIKE	Didn't see it, never saw it. Didn't say I did. You did it once. I heard about it.
+WILLOW	Anything other than... other than me?
+SPIKE	Lots of things like skin. I mean, who doesn't like skin?
+WILLOW	What kinds of things? I have to know. Is there anything else that could have done this?
+SPIKE	Look at you, glowing. What's a word means glowing? Gotta rhyme.
+WILLOW	Spike?
+SPIKE	I should hide, hide from you. Hide my face. You know what I did.
+WILLOW	What you did? You didn't do this. Did you?
+SPIKE	Not the time. Not the time. Prob'ly better left unsaid anyway. Unsaid things grow healthy in the dark, little tadpoles... Everyone's talking to me, no one's talking to each other.
+WILLOW	Please, try to listen to me...
+SPIKE	Someone isn't here. Button, button, who's got the button? My money's on the witch. Red is a bad girl. They made her go away, you know. She told me. Shh.
+WILLOW	Spike. I'm... I'm sorry about whatever... but I think I should go.
+XANDER	You can't use the blueprints to find your way around, down here. Seems like the walls move or something...
+BUFFY	I think I hear him.
+SPIKE	...and you call yourself finished, but you're not. You're worse than ever, you are.
+BUFFY	Spike. Spike .
+SPIKE	You went away.
+BUFFY	Yeah. You scared me a little, in the church. I'm... I had to think. I didn't know what to think.
+XANDER	We're here for a reason, Spike.
+SPIKE	Tragedy. Is there blood?
+XANDER	He knows. He must have seen the body.
+SPIKE	Didn't see it. Never saw it. Din't say I did. (then to the air) You did it once. I heard about it.
+BUFFY	We need to know who did it. Who skinned the boy out there?
+XANDER	Did you hear anything or see anything?
+SPIKE	Lots of things like skin. I mean, who doesn't like skin?
+BUFFY	Spike, please...
+SPIKE	I should hide, hide from you. Hide my face. You know what I did.
+XANDER	Boy, he's extra useful today...
+BUFFY	This isn't the time.
+SPIKE	Not the time. Not the time. Prob'ly better left unsaid anyway. Unsaid things grow healthy in the dark, little tadpoles... Everyone's talking to me, no one's talking to each other.
+BUFFY	We might as well go.
+SPIKE	Someone isn't here. Button, button, who's got the button? My money's on the witch. Red is a bad girl. They made her go away, you know. She told me. Shh.
+BUFFY	Willow. He's talking about Willow.
+XANDER	And that means something because he's chock-full-o-sanity.
+BUFFY	Well, it doesn't exactly make it less likely. Maybe he saw her.
+SPIKE	They think you did it. The Slayer and her boy. They think you took the skin.
+BUFFY	Spike, is there something here? Something that killed?
+XANDER	"Her boy"? I'm "her boy"?
+SPIKE	I have to go. There's things here without permission and I have to check their slips, make sure they have authorization.
+XANDER	It means nothing. Right? He mentioned Willow and it means nothing.
+BUFFY	Right. He also mentioned tadpoles. We're not going to jump to conclusions about those either, one way or the other.
+WILLOW	I need help.
+ANYA	I don't have any money.
+WILLOW	I don't want money!
+ANYA	Come in! Enjoy my personal space!
+WILLOW	I found a dead body near the high school.
+ANYA	Yes, that can happen.
+WILLOW	Something horrible killed a boy, Anya. Took his skin off.
+ANYA	Was it you? WILLOW Was it you?
+ANYA	With the skin thing, they're definitely going to think it was you. Buffy is, anyway.
+WILLOW	Yeah. Maybe she already does. I don't know. I just... I need to find whatever really did it. Because I need to do something right.
+ANYA	And so they'll see it wasn't you, right? I mean, that has to be part of it. Maybe you're even thinking, you kill this thing, they never even have to know about it, don't have to suspect you even for a minute?
+WILLOW	I... I don't.. when did you get all insightful?
+ANYA	I'm surprisingly sensitive.
+WILLOW	So... will you help me?
+ANYA	Is it difficult or time-consuming?
+ANYA	This isn't gonna get all sexy, is it?
+WILLOW	I'd be shocked. Okay. You have your powder?
+ANYA	Oh, I ate that. I have it.
+WILLOW	We scatter it over the map, and everywhere there's a demon, it makes a little light.
+ANYA	How pretty! Will it hurt the carpet?
+WILLOW	No.
+WILLOW	The high school. It's all Hellmouthy underneath.
+ANYA	Yeah, things are stirred up lately. Is it... is it getting brighter?
+WILLOW	Smoke!
+WILLOW	That could be it. It's strong. It's near the body, and it's by itself. Hiding in the woods, or a cave - couple good caves 'round there...
+ANYA	I don't know, seems kinda thin to me.
+WILLOW	That's why you teleport over there real quick like a bunn- - real quick, and see if I'm right.
+ANYA	Nope. Sorry. You damaged my carpet.
+WILLOW	Anya! It would take, like, a millisecond.
+ANYA	I won't. Also. I can't.
+WILLOW	You're a Vengeance Demon. Teleport.
+ANYA	Well, see... turns out, teleporting isn't a right, it's a privilege. I withdrew a vengeance spell last week and this is my punishment. I can only teleport for official business. I have to file a flight plan and everything.
+WILLOW	Wow. I'm sorry. That must be hard.
+ANYA	Yeah, it bites a pretty big one. And the vengeance itself, it's not as... not as fulfilling as I remember.
+WILLOW	Really? Because I got the impression you enjoyed, you know, inflicting.
+ANYA	Well, see, causing pain sounds really cool, I know, but it turns out, it's really upsetting. It didn't used to be, but now it is.
+WILLOW	Is it like, you're scared of losing that feeling again, and having it be okay to hurt people and then you're not in charge of the power anymore because it's in charge of you?
+ANYA	Wow, that was really overdramatically stated, but yeah, that's it.
+WILLOW	I get it. Believe me.
+ANYA	I'm sorry, Willow. I wish it was better for you.
+WILLOW	You too.
+ANYA	It did get a little sexy, didn't it?
+WILLOW	I have to go find this monster.
+ANYA	Hey, Willow? Isn't there another spell? I mean, you're trying to find Buffy and Xander. Couldn't we use a spell to do that?
+WILLOW	I did. I tried. But something went gaflooey and it didn't work.
+ANYA	What did it say?
+WILLOW	It said they don't exist.
+DAWN	I looked up demons that "skin" their victims and demons that "flay" their victims. Because, you know, same thing. There's a ton of prospects.
+XANDER	Spike may have gone to the land of the twirly hand gesture next to the temple, but he was right. Everybody likes skin.
+DAWN	Anything else gone? Eyeballs or toenails or viscera? That's guts.
+BUFFY	She knows about viscera. Makes you proud.
+XANDER	Just skin.
+DAWN	Okay, I'll work on that.
+XANDER	What's up?
+BUFFY	I need to do something. And I just, I have this feeling in my gut...
+XANDER	In your viscera .
+BUFFY	...that we already know exactly who did this. And that all this work, it's just us trying to talk ourselves into thinking Willow's all right.
+XANDER	She is all right.
+BUFFY	See ?
+DAWN	Demon called Gnarl, with a 'g' . He's a parasite with these nasty long fingernails. He secretes something through them and he uses that to paralyze his victims. Then he cuts strips of skin off while they're still alive. He starts in the middle, like belly-button-centric, and works out. It takes hours.
+XANDER	We didn't find any strips of skin. Which, by the way, ghhhuh.
+DAWN	You wouldn't. He eats 'em. That's why he's a parasite. That's, like, his natural food.
+XANDER	Bleah gukguk yeee.
+BUFFY	I don't know, Dawn. You're new at this, and I get why you're proud of finding this, but I don't see why this guy is any more likely than all the others.
+DAWN	Cuz you guys never said "pool of blood."
+BUFFY	What?
+DAWN	You get your skin ripped off, normally you'd end up in a pool of blood. You never mentioned one.
+BUFFY	There were lots of spatters, no pool.
+DAWN	Then it's this guy! He laps up the blood. You could say it's like, his natural beverage.
+XANDER	You're terrifying.
+BUFFY	Dawn? How come you're so okay with this? With the blood and the strips of skin...
+DAWN	It just feels different now. Like if I'm doing the research I've got some control over it.
+BUFFY	Well, you are very alarming and also helpful. Thank you.
+DAWN	Now if we just knew how to find this thing.
+XANDER	We could ask around at Willy's Place--
+BUFFY	Or we could be smart. Sorry, Xander.
+XANDER	What?
+BUFFY	Whoever did this, they had to get blood on them. And they'd leave a trail...
+DAWN	Right, minute traces of blood.
+BUFFY	And we have a way to track it.
+DAWN	We have a...? Oh. I get it.
+XANDER	What? How? What's going on?
+XANDER	We should've put him on a leash.
+BUFFY	Yeah, let's tie ourselves to the crazy vampire!
+XANDER	Really think it's working?
+BUFFY	It's pretty easy. Spike follows the exciting smell of blood. We follow the fairly ripe smell of Spike.
+DAWN	It's smellementary! Also, I bet there's tons of stuff like this, procedures we can use that don't involve magic spells, just good solid detective work. Like, we could develop a database of tooth- impressions and demon skin samples. And I could wear high heels more.
+BUFFY	Wow, that was so close to being empowered.
+DAWN	Well, everyone wants a slender ankle.
+XANDER	Oof.
+SPIKE	This is it. End of the line, everyone off. (to Xander, intensely) Keep your ticket. You'll need that.
+BUFFY	This is a rock cliff.
+DAWN	Do we just, you know... crawl in?
+XANDER	I guess Buffy goes in first.
+BUFFY	It's hard to protect yourself, going in head-first like that.
+XANDER	That's why I figure, Slayer goes first.
+BUFFY	Yay for being the strong one. It's so much fun.
+XANDER	Dark and dank. I was hoping it would be dark and dank--
+BUFFY	Shh. Listen.
+XANDER	I don't... yeah. Now I do.
+DAWN	Something's moving in here.
+BUFFY	Guess we're in the right place.
+DAWN	You guys hear that, right?
+XANDER	Yep.
+BUFFY	It's echoing around. He sounds close, guys but he's way at the other--
+XANDER	Where'd he go?
+BUFFY	Dawn, you okay?
+WILLOW	Protect me, Goddess. In thy name I supplicate myself. Take the powers from my enemy and lay him lower than the lowest field--
+BUFFY	The computer. The thing Dawn was reading may have an antidote for the paralysis.
+DAWN	Bffy?
+BUFFY	What?
+DAWN	M rily srry.
+BUFFY	That's okay.
+XANDER	You couldn't help it. It had paralyzing fingernails.
+BUFFY	Just like you said it would... so good on you.
+DAWN	Wnted t' be hffl.
+XANDER	Heffel?
+BUFFY	Helpful. You were helpful.
+DAWN	M so emb'rffed.
+XANDER	There's no need to be embarrassed.
+BUFFY	Right. No need for that.
+DAWN	Thoz kds? D'ey see me? Tell'my drnk.
+BUFFY	What?! I'm not going to tell them you're drunk! For God's sake, Dawn.
+WILLOW	Stop it.
+BUFFY	Watch her head, watch her head.
+DAWN	Wtch my hd, wtch my hd.
+BUFFY	Sofa.
+DAWN	Fce up! Fce up!
+XANDER	She's right Face up is better.
+BUFFY	I'm looking for the page with the info on this thing... see if there's an antidote.
+XANDER	It's going to be all right. We'll get you fixed up. You'll be doing the limbo in no time.
+DAWN	Azapol.
+XANDER	No, not as the pole. I promise.
+BUFFY	I can't find the right... okay... (fast, run-together) Gnarl blah blah skin blah blah yuck... got it. It says the paralysis is permanent.
+DAWN	Sht.
+BUFFY	No. Wait. Permanent 'til the creature dies. Sorry.
+DAWN	Pfft.
+BUFFY	We have to go back.
+XANDER	We can't leave her alone like this. What if she vomits?
+DAWN	Yk! I wont vomt!
+BUFFY	Do you think she'd vomit?
+DAWN	Stp tkinq abt vomt!
+BUFFY	We'll call Anya. She'll stay with her.
+XANDER	Right! She'll love to be called for vomit watch.
+DAWN	Plees, stp tking abt vomt.
+DAWN	-Nmp!
+BUFFY	She's not dying. She's just paralyzed.
+ANYA	Paralyzed how?
+XANDER	Paralyzed how ? In the not moving way.
+ANYA	Oh, there's lots of different ways. Did you try this?
+BUFFY	Hey!
+DAWN	Hey!
+XANDER	Oh! You're posable!
+BUFFY	She's posable?
+ANYA	It's a common variety. Watch this.
+DAWN	Ys oo do!
+BUFFY	Where'd you get those nuts?
+ANYA	Brazil. No need to thank me for sitting with her, by the way. I'm feeling very benevolent today. Helping Willow, helping you. Might just call it even for that worm thing last week?
+BUFFY	I don't think-- You saw Willow?
+ANYA	She's looking for you guys, by the way. Decided you might be out in some cave.. . sounded pretty tenuous to me.
+DAWN	Cv?
+BUFFY	Listen. This is important. Did she go to the cave ?
+ANYA	Oh yeah. Last time I saw her, that's where she was headed. You want me to make her salute? It'd be damn cute.
+BUFFY	Xander, she could be there. Willow could be trapped with the Gnarl.
+ANYA	It's not "the Gnarl," it's just "Gnarl." Whoa. Wouldn't it be tragic if you were here having this kind of silly time with your comically paralyzed sister while Willow was dying?
+BUFFY	This monster, Gnarl, you know stuff about him?
+ANYA	Sure.
+BUFFY	You're coming with us.
+XANDER	Anya! You've got to keep up!
+ANYA	I'm out of shape! I've been teleporting for months!
+BUFFY	Hurry!
+BUFFY	Where is Willow? What did you do to her?
+ANYA	She's right there. Don't you see her? She's hurt!
+BUFFY	I don't know. But I'm starting to get why we haven't seen her.
+XANDER	Because we haven't seen her.
+BUFFY	I'm getting the feeling that whatever caused this invisibility thing or whatever, it's a whole separate issue from this skin-eating mon--
+ANYA	Behind you!
+ANYA	Willow, I'm here. Wow, you're really hurt.
+WILLOW	Wht's gng on?
+ANYA	Buffy's fighting him, over there. See? If they get too close I'll have to run.
+WILLOW	I... I dn't see...
+ANYA	But they're here. Buffy and Xander.
+WILLOW	Someone came. Zey din't leav me.
+ANYA	No one left you. They can't see you.
+WILLOW	Zr here, zr here. Nt alone...
+ANYA	Buffy killed him. It was gross.
+WILLOW	I can move...
+BUFFY	Willow? Are you here?
+XANDER	Where is she? Is she alive?
+ANYA	She's right there... okay... back off, you're kind of kneeling in her.
+BUFFY	Willow?
+ANYA	She's hurt really bad, you guys. I'll go get help.
+XANDER	I think she's sort of... here-ish.
+BUFFY	Willow? Willow, I can't see you, but... But I'm so glad you're back, and... I don't know how badly you're hurt...
+XANDER	We're not going away. Oh, god.
+BUFFY	Willow, it's okay. You'll be okay.
+WILLOW	I know! You're here!
+BUFFY	I didn't mean-- Sorry to interrupt.
+WILLOW	That's all I had left in me anyway.
+BUFFY	Didn't realize meditating was such hard work.
+WILLOW	I'm healing. Growing new skin.
+BUFFY	That-- Wow. This is magic, right? When most people meditate they don't get extra skin, do they? Cuz Clem should, like, cut back.
+WILLOW	It's magic. I'm drawing power from the earth to heal myself.
+BUFFY	We're on the second floor.
+WILLOW	Ultimately, everything is part of the earth. The bed, the air, us.
+BUFFY	Huh. Explains why my fingernails get dirty even when I don't do anything.
+WILLOW	Plus you stuck your thumbs in a demon.
+BUFFY	Oh, right.
+WILLOW	No. Please. Stay. I missed you so much when I couldn't find you.
+BUFFY	We missed you too. I missed you. Dawn's been working on what caused the mutual no-see-ums, but I don't--
+WILLOW	I did it.
+BUFFY	You did a spell?
+WILLOW	I think so. No, not a spell. I just remember thinking that I wasn't ready to see you guys, and I was afraid we wouldn't, you know, connect.
+BUFFY	And you made it happen.
+WILLOW	Yeah. I think so.
+BUFFY	Well, I get that. It's okay.
+WILLOW	It's nice to be forgiven. Too bad I need so much of it.
+BUFFY	I have a confession. I thought it might be you. With the flaying.
+WILLOW	I know.
+BUFFY	I want to be the kind of person that wouldn't think that. Xander never thought that.
+WILLOW	He did, a little. Heck, I did, a little. Xander has the luxury of not saying it. But you're the Slayer. You have to say stuff like that. It's okay. It's okay, too, if you still don't think I can recover from this magic thing. Because, honestly, I'm not that sure about that either.
+BUFFY	I thought you were too tired.
+WILLOW	It hurts too much not to try.
+BUFFY	I'm so sorry.
+WILLOW	It just takes so much strength. I don't have that much.
+BUFFY	Me, I got so much strength I'm givin' it away.
+WILLOW	Are you sure...
+BUFFY	Will it help?
+WILLOW	Much.

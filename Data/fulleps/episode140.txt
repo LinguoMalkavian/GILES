@@ -1,0 +1,658 @@
+SHANNON	Help! Stop, please! Please...
+CALEB	What's going on?
+SHANNON	Please get me out of here --
+CALEB	Is someone hurt?
+SHANNON	DRIVE!
+CALEB	Well that was... are you all right?
+SHANON	Thank you. Thank God you were there...
+CALEB	Well, let's not give Him credit for everything... No, I'm funnin' ya. I don't believe in coincidence. I also don't believe young girls should be out in the woods late at night. Should be tucked in bed.
+SHANNON	Wish I was.
+CALEB	I expect you do at that. I don't mean to pry, but those boys looked kinda like... well, you didn't happen to fall in with Devil worshippers, did you?
+SHANNON	Sunnydale.
+CALEB	Going there myself. Never been, but I expect we could find a police station...
+SHANON	I just need to get to Revello Drive. But thanks, Uh, Father...?
+CALEB	Call me Caleb. I never was nobody's daddy.
+SHANNON	I'm... Shannon.
+CALEB	Well, Shannon, you feel like telling me why those freaky joes were after you?
+SHANNON	I'm not sure.
+CALEB	Did you ever give thought that maybe they were chasing you because you're a whore?
+SHANNON	What?
+CALEB	I know what you're thinking: "Crazy Preacher Man, spoutin' off about the Whore of Babylon" or some such. That ain't me. I'm not here to lecture you. What's the point? My words just curdle in your ears, you don't take in a thing. So much filth inside your head, ain't no room for the words of truth. You know what you are, Shannon? Dirty.
+SHANNON	I'm not... I don't want --
+CALEB	There's no blame here. You were born dirty. Born without a soul, born with that gaping maw that wants to open up and suck out a man's marrow. Makes me puke to think too hard on it.
+SHANNON	Your boys...
+CALEB	Well, they ain't exactly my blue-eyed boys, but they're hard workers. And they don't truck with Satan, that was me havin' fun. Satan is a little man.
+SHANNON	Please... don't hurt me...
+CALEB	Is this the part where you offer to do anything? 'Cause I've tried to make it clear you have nothing I want to explore.
+SHANNON	Y-yes.
+CALEB	Well thank you Shannon.
+WILLOW	Goddess... can you hear me... can you talk?
+FAITH	Yep. Guess I'm back in Sunnydale.
+XANDER	I know it's hard...
+KELLY	I haven't been able to sleep the last few nights.
+XANDER	Hey -- listen. It's gonna be okay. Buffy knows what she's doing. She's not gonna send you into battle until she's sure you're ready for action.
+KELLY	That's just it, though. How will I know I'm ready? For action.
+XANDER	You have to trust us.
+KELLY	I'm so scared, Xander... and I'm so young...
+XANDER	Believe it or not, I was younger than you when I started all this.
+KELLY	There's just so much I haven't done. So much I need to do. It's like, I've never had a real boyfriend, you know?
+XANDER	Yeah?
+KELLY	I've never been with a man... I could die tomorrow...
+XANDER	Well... uh...
+COLLEEN	I've never been with a man before either...
+XANDER	Colleen --
+COLLEEN	And I've never been with her in front of a man before.
+KELLY	I've never been with her in front of a man before either.
+XANDER	Um...
+KELLY	Xander...
+XANDER	We can't...
+COLLEEN	We're so scared.
+XANDER	The others will hear us.
+COLLEEN	No they won't. KELLY They're okay.
+RONA	Xander! Goddamn it.
+XANDER	Wha -- What's going -- I'm sleeping.
+RONA	Dominique has the stomach flu and the toilet's backed up.
+XANDER	Be right out. Just have a... leg cramp.
+FAITH	She don't look like much now. Not a potential Slayer, I mean.
+WILLOW	Dunno. Seems to fit, though. We'll know more when she regains consciousness.
+FAITH	If she regains consciousness. Girl's been gutted like a catfish.
+WILLOW	Yeah...
+FAITH	Something's killing girls all over the world, trying to end the Slayer line... Thing like that, figure I might get a heads-up.
+WILLOW	Faith...
+FAITH	Guess it doesn't really matter. Long as you got the true Slayer intact.
+WILLOW	You were in prison. We figured you were safe there.
+FAITH	Yeah, that's prison. Safe as a kitten.
+WILLOW	Sorry. I - I don't know a lot about "the big house." Was it... I mean, did something happen in there.
+FAITH	Someone came at me with this wicked looking knife. Didn't know why... not 'til now.
+WILLOW	Faith... we didn't think --
+FAITH	Forget it. 'S cool. I get by.
+WILLOW	We should find Buffy, tell her what's going on. I tried calling home -- Dawn says she's out patrolling.
+FAITH	Let's go look for her. Cemetery's more fun anyway.
+WILLOW	One of us should stay here. In case she wakes up.
+FAITH	Fine. Sit tight. I'll be back.
+WILLOW	Wait... maybe you meeting Buffy alone isn't the best idea...
+FAITH	You told her the sitch, right? She knows I'm coming. Prob'ly up all night hangin' streamers...
+WILLOW	Yeah. It's not like you guys are study buddies exactly. Maybe it'd be better if I... eased her into the whole thing.
+FAITH	I can't stay here, Willow. Spent too much time in hospitals. We don't click. Don't worry...
+FAITH	What'cha wanna do to her, vamp? Somethin' like this?
+SPIKE	Nice punch you got there.
+FAITH	Oh goody. I'm famous.
+SPIKE	Heard you were coming. Right. Bit of a misunderstanding here. I'm --
+FAITH	Spike. We met before.
+SPIKE	We have? I don't think--
+FAITH	Yeah?
+SPIKE	So am I!
+FAITH	Please. You think I'm stupid?
+SPIKE	Well, yes.
+FAITH	You were attacking that girl!
+BUFFY	Oops. Sorry, Faith. Didn't realize that was you.
+FAITH	'S all right, B. Luckily you still punch like you used to.
+BUFFY	You okay?
+SPIKE	Yeah. T'riffic.
+FAITH	You protecting vampires? Are you the bad Slayer now? Am I the good Slayer now?
+BUFFY	He's with me. He's got a soul.
+FAITH	He's like Angel?
+SPIKE	No.
+BUFFY	Sort of.
+SPIKE	I'm nothing like Angel.
+BUFFY	He fights on my side. Which is more than I can say for some of us.
+FAITH	Yeah? Well, if he's so good, why's he chasing down defenseless --
+BUFFY	That's one of the bad guys.
+FAITH	You should make 'em wear signs...
+SPIKE	Angel's dull as a table lamp. And we have very different coloring.
+FAITH	Okay. Catching up. Anything else I gotta know?
+BUFFY	Nice to have you back.
+FAITH	Whoa! Memory lane. Same old house.
+BUFFY	Every piece of it's been destroyed and replaced since you left, so, actually, new house.
+DAWN	Buffy --
+BUFFY	We've got another new houseguest.
+FAITH	Hey. Got a spare bed for a wanted fugitive?
+GILES	Hello, Faith.
+FAITH	Huh. Guess "wanted" wasn't so accurate.
+DAWN	Does she have to stay here? 'Cause there's some nice hotels that welcome tried-to-kill-your-sister-types.
+FAITH	Check it out, brat's all woman-sized.
+BUFFY	Guys, we need to go to the hospital. A girl was attacked on her way into town. She may be a --
+DAWN	We know. Willow's been calling.
+GILES	She's still there. She'll call if the girl wakes up.
+BUFFY	Fine.
+GILES	Well, Faith. I guess we should try to find a place to squeeze you in tonight.
+SPIKE	Not all that tension was about you. Giles was part of a plan to kill me for Buffy's own good.
+FAITH	Well, that makes me feel better about me. Worse about Giles. Kinda shaky about you.
+CALEB	Drink of this, for it is my blood.
+I	recall as a boy though I couldn't help thinking, what if you're at the last supper and you ordered the white? Nice oakey chardonnay, or a white zin, was he gonna make that out of his lymph or some all? I never did bring it up, but... well I suppose there was reason I never could stay with the same parish for very long. Just looking for answers -- looking for the Lord -- in the wrong damn places. 'Til you showed me the light.
+FIRST	Do you think I'm God?
+CALEB	I, surely do not. I'm beyond concepts like that.
+FIRST	But you still wear the outfit...
+CALEB	Man can't turn his back on what he come from. Besides, black is slimming. Everyone knows that.
+FIRST	How do you like what I'm wearing?
+CALEB	Just another dirty girl. And since you only dress up in dead folk, I'm guessing it's one has been paid her wage.
+FIRST	Look hard.
+CALEB	Strength. And the loneliness that comes with real strength.
+FIRST	Nothing about my pert and bouncy hairdo?
+CALEB	You're her.
+FIRST	The Slayer.
+CALEB	At long last...
+FIRST	Well you've earned it. And you'll be meeting her soon. Am I right?
+CALEB	Oh yeah. She'll get the message.
+FIRST	And what makes you so sure she'll come?
+CALEB	Curiosity. Woman's first sin. I offer her an apple, what can she do but take it?
+AMANDA	I thought Faith killed a vulcanologist .
+ANDREW	Silly, silly Amanda... Why would Faith kill a person who studies Vulcans?
+AMANDA	He studied volcanos. He was a professor.
+ANDREW	Ah. Well, regardless.
+MOLLY	Thought you weren't supposed to be doing this any more. Making up these stories.
+ANDREW	I'm not. This is true, except for that... possible word misunderstanding. And there are some things you need to know.
+AHN	
+AHN	There is a girl in the backyard doing gymnastics.
+BUFFY	You look better.
+WOOD	No, I don't.
+BUFFY	No, you don't.
+WOOD	But I'll be okay. Unless, of course, you start beating on me now.
+BUFFY	I won't. I thought about it some, drew a couple little doodles, but... look... far as I'm concerned, we're on even ground. I meant what I said before -- I don't have time for your vendettas -- but I need you in this fight. I want you on my side.
+WOOD	Thank you. That means a lot.
+BUFFY	So we're good.
+WOOD	Absolutely. You're fired.
+BUFFY	That makes me feel so much -- What?
+WOOD	Effective immediately.
+BUFFY	You're firing me? I just refrained from kicking your ass!
+WOOD	Buffy, there's nothing here for you. People are leaving town, half the kids don't even bother to show up anymore... You've got things to deal with that're worse than anything here. Look at the big picture.
+BUFFY	Right. The big picture of the big war with all the dead little girls.
+WOOD	Not dead. Not if you get them ready.
+BUFFY	I don't want to lead them into a war, Robin. War can't be the right thing.
+WOOD	Most wars aren't. They aren't right and they aren't necessary and humans kill other humans. This isn't that war. The only question about this one is are you going to be ready for it?
+BUFFY	I don't know. These girls... they haven't been tested in battle.
+WOOD	Then I guess... maybe you should test them?
+BUFFY	Couldn't I just come to work part- time? I could make flyers for encounter groups and post them around the school. Kids could bring snacks--
+WOOD	And you're fired again. Remember, Buffy... (beat, tiny bit bitter) "The mission's what matters."
+FAITH	Guess you can smoke all you want. The "big C" not really an issue.
+SPIKE	Teeth get yellow. Over an eternity. You gotta watch that.
+FAITH	Huh.
+SPIKE	Right. Not what it looks like-
+FAITH	Hey, to each his own. This one guy I ran with? He liked me to dress up like a school girl while he put his head in a noose and-
+SPIKE	I got dangerous for a while.
+FAITH	This before the soul or after?
+SPIKE	After. But I'm over it. In case you get feeling dust-happy again after your long incarceration.
+FAITH	Not if you're all repent-y. Takes the fun out of it.
+SPIKE	Yeah. Gets a bit much up there.
+FAITH	They're good girls. Green, is all.
+SPIKE	So how come you're not up there imparting?
+FAITH	That's Buffy's thing. Anyway - I just spent a good stretch of time locked away with a mess of female types. Kinda had my fill.
+SPIKE	But you waited until Angel needed you to break out of jail.
+FAITH	Three squares, nice weight room and a movie every third Sunday. Coulda been worse.
+SPIKE	What movie?
+FAITH	Last one was "Glitter." Guess it couldn't've been worse.
+SPIKE	You had the power to walk away anytime. Nothing to stop you.
+FAITH	I stopped me. I got dangerous for a while.
+SPIKE	You over it?
+FAITH	More or less. I pull for the good guys now.
+SPIKE	What's the "less?"
+FAITH	Usual stuff.
+SPIKE	Such as?
+FAITH	I was thinking about looking up the guy with the noose. Long incarceration.
+SPIKE	You could do better. School girl thing is old hat.
+FAITH	It's all old hat, man. Every guy has some whack fantasy. Scratch the surface of even the most crunchy granola dude? Naughty nurses and horny cheerleaders. I figure - you can't beat 'em...
+SPIKE	Join 'em.
+FAITH	Just don't forget who's on top.
+SPIKE	I suspect that would be you.
+FAITH	Got that right.
+SPIKE	Yeah. You made quite an impression on my chin.
+FAITH	Not in the graveyard. Before that. I was kinda wearing a different body.
+SPIKE	Pity.
+FAITH	You seemed okay with it.
+SPIKE	The body swap. With Buffy.
+FAITH	She fill you in on that whole deal?
+SPIKE	Told me it went down. Failed to mention who was driving her skin around.
+FAITH	I may have said a few things.
+SPIKE	Like you could ride me at a gallop until my legs buckled... Squeeze me 'til I popped like warm champagne? Not the sorta thing a man forgets.
+FAITH	Shoulda known it wasn't blondy behind the wheel. She'd never throw down like that.
+SPIKE	You have been away.
+FAITH	Don't tell me miss tightly wound is gettin' her naughty on.
+SPIKE	Not of late.
+FAITH	Wow, everybody's full of surprises.
+BUFFY	Nice to see you two getting on so well.
+FAITH	Yeah. You know all the cool vampires.
+BUFFY	Yeah...
+SPIKE	Aren't you usually at work about now?
+BUFFY	Right. I kinda... I decided to cut back my hours.
+BUFFY	I'm down here! Figure I'm better off focusing on what's going on around here.
+DAWN	Buffy - Willow just called from the hospital. The girl's awake.
+SHANNON	He was a minister or something... at least he dressed like one. I thought he was trying to save me... at first.
+BUFFY	He picked you up on the side of the road?
+SHANNON	The Bringers were chasing me...
+BUFFY	What was it?
+SHANNON	He said, "I have something of yours."
+BUFFY	We've got a new player in town. Dresses like a preacher. Calls himself Caleb. Looks like he's working for The First.
+DAWN	So he's like... The Second?
+BUFFY	He's taunting us. Calling us out. Says he has something of mine. Could be another girl. Could be something else. Don't know. Don't care. I'm tired of talking. I'm tired of training. He's got something of mine? Fine. I'm getting it back.
+CALEB	You're searching for something, girl. What would that be now?
+BETTY	Oh. You. I was looking for you.
+CALEB	That right?
+BETTY	I heard you speaking tonight. Preaching. I felt your words going straight to me.
+CALEB	The truth is like a sword, isn't it, girl? Cuts deep.
+BETTY	Yeah.
+CALEB	You liked 'em.
+BETTY	They brought me here.
+CALEB	They called you.
+BETTY	Felt like.
+CALEB	And so you followed. Know why?
+BETTY	Tell me, Preacher.
+CALEB	Because you're human. You got your urges. A woman's got hers, a Man's got his. Our whole race can be so damnably weak. It's why we seek the strength. That Power.
+BETTY	It's not wrong to be drawn to the Power? Is it, Preacher?
+CALEB	No, child. Not wrong.
+FIRST	Most people don't like visits from their dead, you know.
+CALEB	It's okay with me. Might unsatisfying's all. I must confess I miss the bite of flesh on a knife. Freeing a soul from its body should have a, a tug to it
+FIRST	You can't complain. You tricked that girl. She followed you.
+CALEB	I only told her the Truth. And as for following ...
+BUFFY	Start arming the girls. I want to be ready to move when we find him.
+WILLOW	We don't even know where we're going.
+BUFFY	That's why I figured we'd do a little recon first, see what we can find out. You up for it?
+FAITH	Point me where you want me.
+GILES	But are you certain this is the best course of action? You don't even know what this man has of yours, if he in fact has anything.
+BUFFY	It could be a girl. A potential trying to get to us.
+GILES	It could be a stapler.
+BUFFY	I'm going in anyway.
+GILES	With the girls? Most of them have yet to be in the field at all, let alone in a life-or-death situation.
+BUFFY	Then it's time we test 'em. We'll just take the ones who've been with us the longest. The rest can stay here.
+SPIKE	Could be that's what he wants you to do. Ol' bait and switch.
+WILLOW	He lures us away, then kills all the girls we leave behind.
+BUFFY	I know. That's why I want you to stay with them.
+XANDER	Unknown man breezes into town, says he has something of yours... Buffy, this thing's got "trap" written all over it.
+BUFFY	He won't be expecting a full attack. Not this soon. That's why we have to move.
+GILES	We know nothing about this man. We cannot go into battle without preparation. We need time.
+BUFFY	Giles. We don't have time. And you're not going into battle. I need you to stay behind with the others. Help the girls who still need a teacher.
+FAITH	No eyes, but lookit him go. He got sonar or something?
+BUFFY	Or something I guess. They're pretty good when they attack.
+FAITH	They say your other senses get better. Maybe all blind people are smokin' in a knife fight. Not sayin' it's likely. They just roam free 'round town?
+BUFFY	Well, normally they show up out of nowhere and either stab or get stabbed and then run off. This guy seems like he wants to be found.
+FAITH	Lends weight to that whole "it's a trap" theory.
+BUFFY	I'm through waiting around for people to attack us.
+FAITH	Hey, I'm with you. Drop me in the hornet's nest. What the hell.
+BUFFY	They're potential Slayers. Just like we were.
+FAITH	Right. Maybe they'll do as good as us.
+BUFFY	They're getting better.
+FAITH	I'll work with 'em. Some of 'em seem real eager. Fashion disasters yeah, but ready to fight.
+BUFFY	Why'd you come back?
+FAITH	Willow said you needed me. Didn't give it a lot of thought. Do you... Am I getting you want me to be not here?
+BUFFY	No. That's not what I meant. I'm... glad you're here. It's good. Thank you.
+FAITH	No prob. You know me, I'm all about the good deeds.
+BUFFY	Willow told me you helped out Angel.
+FAITH	Yeah. He says "hey."
+BUFFY	Really?
+FAITH	Sure.
+BUFFY	How is he?
+FAITH	Better. Had to do this whole magical mindwalk with him.
+BUFFY	You were in Angel's mind.
+FAITH	Yeah. Very weird. We got close. Saw all sorts of heavy stuff from his past. Tripped 'me out.
+BUFFY	Uh-huh.
+FAITH	That whole vampire-with-a-soul tip, interesting isn't it? I mean, the darkness and the light. I can see it in Spike.
+BUFFY	So... how much did you and Spike--
+FAITH	Buffy.
+BUFFY	Look. There's more of them.
+FAITH	Looks like we found our hornet's nest.
+BUFFY	Let's go get the cavalry.
+XANDER	Now remember, we're looking for killing blows only, people, so chest and throat if there's vampires, stomach, chest and face if it's a Bringer.
+RONA	What if it's something else?
+XANDER	Could happen, something otherworldly, and here's a handy rule: Don't waste your time with flashy tentacles just 'cause they're waving about trying to get attention. Go for the center -- brain, heart, eyes. Everything's got eyes.
+DAWN	Except the Bringers.
+XANDER	Except the Bringers.
+MOLLY	I don't want there to be tentacles. I'm not good with squishy.
+KENNEDY	I don't care if it's Godzilla , I wanna get in this thing.
+ANDREW	Godzilla's mostly Tokyo based, so he's probably a no-show.
+DAWN	Besides, Matthew Broderick can kill Godzilla, how tough is he?
+ANDREW	Xander...
+XANDER	Matthew Broderick never killed Godzilla. He killed a big dumb lizard that was NOT the real Godzilla.
+DAWN	Right right, the big slow guy in the suit was cooler.
+ANDREW	I can't hear this...
+XANDER	She's young, bro'. She doesn't understand.
+RONA	You people are even crazier than her .
+XANDER	Than who?
+RONA	Buffy, man. Taking us right into the bad-guy's lair.
+XANDER	Well that's generally speaking where you find the bad-guy. And I don't think you came here to fight plaque .
+RONA	I came here for protection.
+XANDER	Well you signed on to fight with --
+RONA	I know, but this plan is trouble. Buffy doesn't care how many of us she --
+XANDER	Let me tell you something about Buffy. In fact, everybody should listen to this.
+KENNEDY	Uh, we kinda were.
+XANDER	I've been through more battles with Buffy than you all can imagine. She's stopped everything that's ever come against her.
+FAITH	Damn! I had no idea you were that cool.
+BUFFY	Well, you were always a little slow.
+FAITH	I get that now.
+BUFFY	All right, people. Let's saddle up.
+BUFFY	Set up a perimeter, guard the door -- I don't want anything getting in behind us. My group'll go in first, check the place out. You guys are our safety net. This thing's a trap, we give the signal and you come in guns blazing after us.
+XANDER	What's the signal?
+BUFFY	I'm thinking lots and lots of yelling.
+XANDER	Got it.
+BUFFY	Shall we?
+MOLLY	What is this place?
+BUFFY	'S like an old vineyard or something.
+KENNEDY	An evil vineyard, huh?
+SPIKE	Like Falcon Crest...
+BUFFY	Stay alert. Bringers are here somewhere. We just need to find where they went...
+SPIKE	Shouldn't be too hard...
+BUFFY	Cover each other's backs... let them come to us...
+CALEB	You girls are just burning with righteousness, aren't you? Problem is, you think they're blazing like suns, when really you're matchsticks in the face of the darkness.
+BUFFY	Save the sermon, padre. Heard you had something of mine.
+CALEB	Well I do now. You like my little message, did you? You know, I ruined a perfectly good knife on that girl. Got her soiled blood all over the place. I may need to get a new truck. So you're the Slayer.
+CALEB	Well c'mon boys, what are you waiting for? Let's show these ladies a proper time.
+RONA	Kennedy!
+CALEB	Miss, I do believe you have your own problems you should be worried about.
+XANDER	Something tells me that's our guy.
+FAITH	Two steps ahead of you.
+XANDER	Buffy --
+CALEB	You're the other one, aren't you? The Cain to her Abel. No offense meant to Cain, of course.
+FAITH	Never was much for the good book.
+CALEB	Oh, it has its moments. Paul has some good bits to say, for instance.
+MOLLY	NOOOO!
+CALEB	Yes.
+BUFFY	Xander --
+XANDER	Buffy --
+BUFFY	Get them outta here. We have to retreat.
+CALEB	I wish there were an easier way to do this. To cleanse you. I do. But I don't make the rules.
+XANDER	Faith -- we gotta go!
+SPIKE	We're leaving.
+XANDER	You okay?
+CALEB	You're the one who sees everything, right?
+BUFFY	XANDER!
+CALEB	She didn't know the good news. The Glory that was coming. That'd be you.
+CALEB	What's going on?
+SHANNON	Please get me out of here --
+CALEB	Is someone hurt?
+CALEB	Well that was... are you all right?
+SHANON	Thank you. Thank God you were there...
+CALEB	Well, let's not give Him credit for everything... No, I'm funnin' ya. I don't believe in coincidence. I also don't believe young girls should be out in the woods late at night. Should be tucked in bed.
+SHANNON	Wish I was.
+CALEB	I expect you do at that. I don't mean to pry, but those boys looked kinda like... well, you didn't happen to fall in with Devil worshippers, did you?
+SHANNON	Sunnydale.
+CALEB	Going there myself. Never been, but I expect we could find a police station...
+SHANON	I just need to get to Revello Drive. But thanks, Uh, Father...?
+CALEB	Call me Caleb. I never was nobody's daddy.
+SHANNON	I'm... Shannon.
+CALEB	Well, Shannon, you feel like telling me why those freaky joes were after you?
+SHANNON	I'm not sure.
+CALEB	Did you ever give thought that maybe they were chasing you because you're a whore?
+SHANNON	What?
+CALEB	I know what you're thinking: "Crazy Preacher Man, spoutin' off about the Whore of Babylon" or some such. That ain't me. I'm not here to lecture you. What's the point? My words just curdle in your ears, you don't take in a thing. So much filth inside your head, ain't no room for the words of truth. You know what you are, Shannon? Dirty.
+SHANNON	I'm not... I don't want --
+CALEB	There's no blame here. You were born dirty. Born without a soul, born with that gaping maw that wants to open up and suck out a man's marrow. Makes me puke to think too hard on it.
+SHANNON	Your boys...
+CALEB	Well, they ain't exactly my blue-eyed boys, but they're hard workers. And they don't truck with Satan, that was me havin' fun. Satan is a little man.
+SHANNON	Please... don't hurt me...
+CALEB	Is this the part where you offer to do anything? 'Cause I've tried to make it clear you have nothing I want to explore.
+SHANNON	Y-yes.
+CALEB	Well thank you Shannon.
+XANDER	I know it's hard...
+KELLY	I haven't been able to sleep the last few nights.
+XANDER	Hey -- listen. It's gonna be okay. Buffy knows what she's doing. She's not gonna send you into battle until she's sure you're ready for action.
+KELLY	That's just it, though. How will I know I'm ready? For action.
+XANDER	You have to trust us.
+KELLY	I'm so scared, Xander... and I'm so young...
+XANDER	Believe it or not, I was younger than you when I started all this.
+KELLY	There's just so much I haven't done. So much I need to do. It's like, I've never had a real boyfriend, you know?
+XANDER	Yeah?
+COLLEEN	I've never been with a man before either...
+XANDER	Colleen --
+COLLEEN	And I've never been with her in front of a man before.
+KELLY	I've never been with her in front of a man before either.
+XANDER	Um...
+KELLY	Xander...
+XANDER	We can't...
+COLLEEN	We're so scared.
+XANDER	The others will hear us.
+RONA	Xander! Goddamn it.
+XANDER	Wha -- What's going -- I'm sleeping.
+RONA	Dominique has the stomach flu and the toilet's backed up.
+XANDER	Be right out. Just have a... leg cramp.
+FAITH	She don't look like much now. Not a potential Slayer, I mean.
+WILLOW	Dunno. Seems to fit, though. We'll know more when she regains consciousness.
+FAITH	If she regains consciousness. Girl's been gutted like a catfish.
+WILLOW	Yeah...
+FAITH	Something's killing girls all over the world, trying to end the Slayer line... Thing like that, figure I might get a heads-up.
+WILLOW	Faith...
+FAITH	Guess it doesn't really matter. Long as you got the true Slayer intact.
+WILLOW	You were in prison. We figured you were safe there.
+FAITH	Yeah, that's prison. Safe as a kitten.
+WILLOW	Sorry. I - I don't know a lot about "the big house." Was it... I mean, did something happen in there.
+FAITH	Someone came at me with this wicked looking knife. Didn't know why... not 'til now.
+WILLOW	Faith... we didn't think --
+FAITH	Forget it. 'S cool. I get by.
+WILLOW	We should find Buffy, tell her what's going on. I tried calling home -- Dawn says she's out patrolling.
+FAITH	Let's go look for her. Cemetery's more fun anyway.
+WILLOW	One of us should stay here. In case she wakes up.
+FAITH	Fine. Sit tight. I'll be back.
+WILLOW	Wait... maybe you meeting Buffy alone isn't the best idea...
+FAITH	You told her the sitch, right? She knows I'm coming. Prob'ly up all night hangin' streamers...
+WILLOW	Yeah. It's not like you guys are study buddies exactly. Maybe it'd be better if I... eased her into the whole thing.
+FAITH	I can't stay here, Willow. Spent too much time in hospitals. We don't click. Don't worry...
+FAITH	Oh goody. I'm famous.
+SPIKE	Heard you were coming. Right. Bit of a misunderstanding here. I'm --
+FAITH	Spike. We met before.
+FAITH	Yeah?
+SPIKE	So am I!
+FAITH	Please. You think I'm stupid?
+SPIKE	Well, yes.
+FAITH	You were attacking that girl!
+BUFFY	You okay?
+SPIKE	Yeah. T'riffic.
+FAITH	You protecting vampires? Are you the bad Slayer now? Am I the good Slayer now?
+BUFFY	He's with me. He's got a soul.
+FAITH	He's like Angel?
+SPIKE	No.
+BUFFY	Sort of.
+SPIKE	I'm nothing like Angel.
+BUFFY	He fights on my side. Which is more than I can say for some of us.
+FAITH	Yeah? Well, if he's so good, why's he chasing down defenseless --
+FAITH	Whoa! Memory lane. Same old house.
+BUFFY	Every piece of it's been destroyed and replaced since you left, so, actually, new house.
+DAWN	Buffy --
+BUFFY	We've got another new houseguest.
+FAITH	Hey. Got a spare bed for a wanted fugitive?
+GILES	Hello, Faith.
+FAITH	Huh. Guess "wanted" wasn't so accurate.
+DAWN	Does she have to stay here? 'Cause there's some nice hotels that welcome tried-to-kill-your-sister-types.
+FAITH	Check it out, brat's all woman-sized.
+BUFFY	Guys, we need to go to the hospital. A girl was attacked on her way into town. She may be a --
+DAWN	We know. Willow's been calling.
+GILES	She's still there. She'll call if the girl wakes up.
+SPIKE	Not all that tension was about you. Giles was part of a plan to kill me for Buffy's own good.
+FAITH	Well, that makes me feel better about me. Worse about Giles. Kinda shaky about you.
+FIRST	Do you think I'm God?
+CALEB	I, surely do not. I'm beyond concepts like that.
+FIRST	But you still wear the outfit...
+CALEB	Man can't turn his back on what he come from. Besides, black is slimming. Everyone knows that.
+FIRST	How do you like what I'm wearing?
+CALEB	Just another dirty girl. And since you only dress up in dead folk, I'm guessing it's one has been paid her wage.
+FIRST	Look hard.
+CALEB	Strength. And the loneliness that comes with real strength.
+FIRST	Nothing about my pert and bouncy hairdo?
+CALEB	You're her.
+FIRST	The Slayer.
+CALEB	At long last...
+FIRST	Well you've earned it. And you'll be meeting her soon. Am I right?
+CALEB	Oh yeah. She'll get the message.
+FIRST	And what makes you so sure she'll come?
+CALEB	Curiosity. Woman's first sin. I offer her an apple, what can she do but take it?
+AMANDA	He studied volcanos. He was a professor.
+ANDREW	Ah. Well, regardless.
+MOLLY	Thought you weren't supposed to be doing this any more. Making up these stories.
+ANDREW	I'm not. This is true, except for that... possible word misunderstanding. And there are some things you need to know.
+AHN	
+BUFFY	You look better.
+WOOD	No, I don't.
+BUFFY	No, you don't.
+WOOD	But I'll be okay. Unless, of course, you start beating on me now.
+BUFFY	I won't. I thought about it some, drew a couple little doodles, but... look... far as I'm concerned, we're on even ground. I meant what I said before -- I don't have time for your vendettas -- but I need you in this fight. I want you on my side.
+WOOD	Thank you. That means a lot.
+BUFFY	So we're good.
+WOOD	Absolutely. You're fired.
+BUFFY	That makes me feel so much -- What?
+WOOD	Effective immediately.
+BUFFY	You're firing me? I just refrained from kicking your ass!
+WOOD	Buffy, there's nothing here for you. People are leaving town, half the kids don't even bother to show up anymore... You've got things to deal with that're worse than anything here. Look at the big picture.
+BUFFY	Right. The big picture of the big war with all the dead little girls.
+WOOD	Not dead. Not if you get them ready.
+BUFFY	I don't want to lead them into a war, Robin. War can't be the right thing.
+WOOD	Most wars aren't. They aren't right and they aren't necessary and humans kill other humans. This isn't that war. The only question about this one is are you going to be ready for it?
+BUFFY	I don't know. These girls... they haven't been tested in battle.
+WOOD	Then I guess... maybe you should test them?
+BUFFY	Couldn't I just come to work part- time? I could make flyers for encounter groups and post them around the school. Kids could bring snacks--
+WOOD	And you're fired again. Remember, Buffy... (beat, tiny bit bitter) "The mission's what matters."
+FAITH	Guess you can smoke all you want. The "big C" not really an issue.
+SPIKE	Teeth get yellow. Over an eternity. You gotta watch that.
+FAITH	Huh.
+SPIKE	Right. Not what it looks like-
+FAITH	Hey, to each his own. This one guy I ran with? He liked me to dress up like a school girl while he put his head in a noose and-
+SPIKE	I got dangerous for a while.
+FAITH	This before the soul or after?
+SPIKE	After. But I'm over it. In case you get feeling dust-happy again after your long incarceration.
+FAITH	Not if you're all repent-y. Takes the fun out of it.
+SPIKE	Yeah. Gets a bit much up there.
+FAITH	They're good girls. Green, is all.
+SPIKE	So how come you're not up there imparting?
+FAITH	That's Buffy's thing. Anyway - I just spent a good stretch of time locked away with a mess of female types. Kinda had my fill.
+SPIKE	But you waited until Angel needed you to break out of jail.
+FAITH	Three squares, nice weight room and a movie every third Sunday. Coulda been worse.
+SPIKE	What movie?
+FAITH	Last one was "Glitter." Guess it couldn't've been worse.
+SPIKE	You had the power to walk away anytime. Nothing to stop you.
+FAITH	I stopped me. I got dangerous for a while.
+SPIKE	You over it?
+FAITH	More or less. I pull for the good guys now.
+SPIKE	What's the "less?"
+FAITH	Usual stuff.
+SPIKE	Such as?
+FAITH	I was thinking about looking up the guy with the noose. Long incarceration.
+SPIKE	You could do better. School girl thing is old hat.
+FAITH	It's all old hat, man. Every guy has some whack fantasy. Scratch the surface of even the most crunchy granola dude? Naughty nurses and horny cheerleaders. I figure - you can't beat 'em...
+SPIKE	Join 'em.
+FAITH	Just don't forget who's on top.
+SPIKE	I suspect that would be you.
+FAITH	Got that right.
+SPIKE	Yeah. You made quite an impression on my chin.
+FAITH	Not in the graveyard. Before that. I was kinda wearing a different body.
+SPIKE	Pity.
+FAITH	You seemed okay with it.
+SPIKE	The body swap. With Buffy.
+FAITH	She fill you in on that whole deal?
+SPIKE	Told me it went down. Failed to mention who was driving her skin around.
+FAITH	I may have said a few things.
+SPIKE	Like you could ride me at a gallop until my legs buckled... Squeeze me 'til I popped like warm champagne? Not the sorta thing a man forgets.
+FAITH	Shoulda known it wasn't blondy behind the wheel. She'd never throw down like that.
+SPIKE	You have been away.
+FAITH	Don't tell me miss tightly wound is gettin' her naughty on.
+SPIKE	Not of late.
+FAITH	Wow, everybody's full of surprises.
+BUFFY	Nice to see you two getting on so well.
+FAITH	Yeah. You know all the cool vampires.
+BUFFY	Yeah...
+SPIKE	Aren't you usually at work about now?
+BUFFY	Right. I kinda... I decided to cut back my hours.
+BUFFY	I'm down here! Figure I'm better off focusing on what's going on around here.
+BUFFY	We've got a new player in town. Dresses like a preacher. Calls himself Caleb. Looks like he's working for The First.
+DAWN	So he's like... The Second?
+CALEB	You're searching for something, girl. What would that be now?
+BETTY	Oh. You. I was looking for you.
+CALEB	That right?
+BETTY	I heard you speaking tonight. Preaching. I felt your words going straight to me.
+CALEB	The truth is like a sword, isn't it, girl? Cuts deep.
+BETTY	Yeah.
+CALEB	You liked 'em.
+BETTY	They brought me here.
+CALEB	They called you.
+BETTY	Felt like.
+CALEB	And so you followed. Know why?
+BETTY	Tell me, Preacher.
+CALEB	Because you're human. You got your urges. A woman's got hers, a Man's got his. Our whole race can be so damnably weak. It's why we seek the strength. That Power.
+BETTY	It's not wrong to be drawn to the Power? Is it, Preacher?
+CALEB	No, child. Not wrong.
+FIRST	Most people don't like visits from their dead, you know.
+CALEB	It's okay with me. Might unsatisfying's all. I must confess I miss the bite of flesh on a knife. Freeing a soul from its body should have a, a tug to it
+FIRST	You can't complain. You tricked that girl. She followed you.
+CALEB	I only told her the Truth. And as for following ...
+BUFFY	Start arming the girls. I want to be ready to move when we find him.
+WILLOW	We don't even know where we're going.
+BUFFY	That's why I figured we'd do a little recon first, see what we can find out. You up for it?
+FAITH	Point me where you want me.
+GILES	But are you certain this is the best course of action? You don't even know what this man has of yours, if he in fact has anything.
+BUFFY	It could be a girl. A potential trying to get to us.
+GILES	It could be a stapler.
+BUFFY	I'm going in anyway.
+GILES	With the girls? Most of them have yet to be in the field at all, let alone in a life-or-death situation.
+BUFFY	Then it's time we test 'em. We'll just take the ones who've been with us the longest. The rest can stay here.
+SPIKE	Could be that's what he wants you to do. Ol' bait and switch.
+WILLOW	He lures us away, then kills all the girls we leave behind.
+BUFFY	I know. That's why I want you to stay with them.
+XANDER	Unknown man breezes into town, says he has something of yours... Buffy, this thing's got "trap" written all over it.
+BUFFY	He won't be expecting a full attack. Not this soon. That's why we have to move.
+GILES	We know nothing about this man. We cannot go into battle without preparation. We need time.
+BUFFY	Giles. We don't have time. And you're not going into battle. I need you to stay behind with the others. Help the girls who still need a teacher.
+FAITH	No eyes, but lookit him go. He got sonar or something?
+BUFFY	Or something I guess. They're pretty good when they attack.
+FAITH	They say your other senses get better. Maybe all blind people are smokin' in a knife fight. Not sayin' it's likely. They just roam free 'round town?
+BUFFY	Well, normally they show up out of nowhere and either stab or get stabbed and then run off. This guy seems like he wants to be found.
+FAITH	Lends weight to that whole "it's a trap" theory.
+BUFFY	I'm through waiting around for people to attack us.
+FAITH	Hey, I'm with you. Drop me in the hornet's nest. What the hell.
+BUFFY	They're potential Slayers. Just like we were.
+FAITH	Right. Maybe they'll do as good as us.
+BUFFY	They're getting better.
+FAITH	I'll work with 'em. Some of 'em seem real eager. Fashion disasters yeah, but ready to fight.
+BUFFY	Why'd you come back?
+FAITH	Willow said you needed me. Didn't give it a lot of thought. Do you... Am I getting you want me to be not here?
+BUFFY	No. That's not what I meant. I'm... glad you're here. It's good. Thank you.
+FAITH	No prob. You know me, I'm all about the good deeds.
+BUFFY	Willow told me you helped out Angel.
+FAITH	Yeah. He says "hey."
+BUFFY	Really?
+FAITH	Sure.
+BUFFY	How is he?
+FAITH	Better. Had to do this whole magical mindwalk with him.
+BUFFY	You were in Angel's mind.
+FAITH	Yeah. Very weird. We got close. Saw all sorts of heavy stuff from his past. Tripped 'me out.
+BUFFY	Uh-huh.
+FAITH	That whole vampire-with-a-soul tip, interesting isn't it? I mean, the darkness and the light. I can see it in Spike.
+BUFFY	So... how much did you and Spike--
+BUFFY	Look. There's more of them.
+FAITH	Looks like we found our hornet's nest.
+BUFFY	Let's go get the cavalry.
+XANDER	Now remember, we're looking for killing blows only, people, so chest and throat if there's vampires, stomach, chest and face if it's a Bringer.
+RONA	What if it's something else?
+XANDER	Could happen, something otherworldly, and here's a handy rule: Don't waste your time with flashy tentacles just 'cause they're waving about trying to get attention. Go for the center -- brain, heart, eyes. Everything's got eyes.
+DAWN	Except the Bringers.
+XANDER	Except the Bringers.
+MOLLY	I don't want there to be tentacles. I'm not good with squishy.
+KENNEDY	I don't care if it's Godzilla , I wanna get in this thing.
+ANDREW	Godzilla's mostly Tokyo based, so he's probably a no-show.
+DAWN	Besides, Matthew Broderick can kill Godzilla, how tough is he?
+ANDREW	Xander...
+XANDER	Matthew Broderick never killed Godzilla. He killed a big dumb lizard that was NOT the real Godzilla.
+DAWN	Right right, the big slow guy in the suit was cooler.
+ANDREW	I can't hear this...
+XANDER	She's young, bro'. She doesn't understand.
+RONA	You people are even crazier than her .
+XANDER	Than who?
+RONA	Buffy, man. Taking us right into the bad-guy's lair.
+XANDER	Well that's generally speaking where you find the bad-guy. And I don't think you came here to fight plaque .
+RONA	I came here for protection.
+XANDER	Well you signed on to fight with --
+RONA	I know, but this plan is trouble. Buffy doesn't care how many of us she --
+XANDER	Let me tell you something about Buffy. In fact, everybody should listen to this.
+KENNEDY	Uh, we kinda were.
+XANDER	I've been through more battles with Buffy than you all can imagine. She's stopped everything that's ever come against her.
+BUFFY	Well, you were always a little slow.
+FAITH	I get that now.
+BUFFY	Set up a perimeter, guard the door -- I don't want anything getting in behind us. My group'll go in first, check the place out. You guys are our safety net. This thing's a trap, we give the signal and you come in guns blazing after us.
+XANDER	What's the signal?
+BUFFY	I'm thinking lots and lots of yelling.
+MOLLY	What is this place?
+BUFFY	'S like an old vineyard or something.
+KENNEDY	An evil vineyard, huh?
+SPIKE	Like Falcon Crest...
+BUFFY	Stay alert. Bringers are here somewhere. We just need to find where they went...
+SPIKE	Shouldn't be too hard...
+BUFFY	Save the sermon, padre. Heard you had something of mine.
+XANDER	Something tells me that's our guy.
+FAITH	Two steps ahead of you.
+FAITH	Never was much for the good book.
+CALEB	Oh, it has its moments. Paul has some good bits to say, for instance.
+XANDER	Buffy --
+BUFFY	Get them outta here. We have to retreat.

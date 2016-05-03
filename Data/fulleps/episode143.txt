@@ -1,0 +1,677 @@
+FAITH	Get DOWN!
+CALEB	So? You found it. Not impressed. Because the question now, girly girl is: can you pry that out of solid rock before...
+CALEB	Now, before you go hurting yourself, why don't you do yourself a courtesy...
+BUFFY	Yeah? You want it?
+CALEB	You don't even know what you've got there.
+BUFFY	I know you're backing away.
+CALEB	You think wielding some two-sided doo- dad's gonna make a difference?
+BUFFY	Let her go, Caleb.
+CALEB	I let her go, she slices me open with that thing.
+BUFFY	No, she doesn't. She hasn't got time. She's got friends - and her friends are in trouble.
+CALEB	I'm not letting her out of here with that thing.
+BUFFY	Sure you are. And then you're coming back for it later. When she's got her back turned.
+CALEB	After all the work we did to free it?
+BUFFY	It's hers for now . Let her go.
+AMANDA	Hey! Hey! Faith? Anybody? Is anybody here?
+CARIDAD	Me.
+AMANDA	Is anybody else alive?
+CARIDAD	Hello? Anyone?
+VI	I'm.. I'm here!
+CARIDAD	Who else we got?
+AMANDA	Dunno. You okay?
+VI	I think my arm is broken.
+KENNEDY	Where's Faith?
+VI	Don't know...
+KENNEDY	Find her.
+CARIDAD	Maybe we should get the hell out of this place, they could be...
+KENNEDY	Find her!
+VI	Oh, God.
+KENNEDY	She alive?
+AMANDA	Breathing. Pulse.
+CARIDAD	We gotta get her out of here.
+VI	Which way's out?
+AMANDA	There's other girls. There's more than Faith, we don't even know how many of us are still...
+CARIDAD	Oh, what was that?
+VI	It could have been grinding metal, it could have been...
+KENNEDY	No. It's one of them .
+CARIDAD	That's not possible.
+AMANDA	How'd it get in here?
+VI	Plans?
+KENNEDY	Run.
+VI	This isn't the way!
+KENNEDY	Yes, it is!
+CARIDAD	We're heading in the wrong direction!
+KENNEDY	No! This is it - It's just... It looks different...
+VI	Aaah!
+KENNEDY	Group together, form a circle. Nobody panic! It's all of us - one of him. And he's gotta get over that.
+ANDREW	It was pretty exciting. A whole grocery store, just abandoned. Food lying around everywhere. The produce was on its way to funky town, but the other stuff was just --
+ANDREW	Hi Mr. Giles. Okay, I did a little looting, which is technically unethical, but these girls need to eat--
+GILES	Andrew, things are getting very dire around here, and we've got more important things to worry about than -- Ooh! Jaffa Cakes!
+ANDREW	The apples still looked pretty good, so everyone make sure they check those out --
+GILES	Did you find Buffy?
+XANDER	No.
+ANDREW	But you did that spell with the little lights. The locator.
+ANYA	It crapped out on us.
+DAWN	No, it didn't... exactly.
+WILLOW	It just took us to an empty house. She must've moved on already.
+GILES	Well, I'm afraid there's rather worse news here...
+ANDREW	I've been keeping morale up, because that's important.
+WILLOW	We have to go to her.
+XANDER	Guess so.
+ANDREW	Yes. I'll stay here, keep working on that morale thing.
+KENNEDY	Remember the training - everybody get ready!
+AMANDA	There's another one!
+KENNEDY	Move, move, move! Up and over!
+AMANDA	Not that one -
+CARIDAD	Weapons! Over there.
+BUFFY	Get the wounded. We're leaving.
+KENNEDY	Are there more?
+BUFFY	There's always more. Let's move.
+BUFFY	Willow! C'mere. This girl's losing blood.
+WILLOW	Got it.
+BUFFY	The room upstairs is ready for her.
+GILES	Good.
+XANDER	Hope we're in time.
+AMANDA	Is she okay? Is she gonna be okay?
+KENNEDY	I'm sure she'll be fine. Right?
+BUFFY	I'll be up in a second.
+XANDER	Careful...
+GILES	Watch her head.
+KENNEDY	You guys heal fast, right? You Slayers?
+BUFFY	Yeah.
+KENNEDY	So... she'll be okay?
+BUFFY	I don't know.
+CARIDAD	What's with the axe-thing?
+BUFFY	I took it from Caleb. Might be important.
+VI	Let's hope.
+AMANDA	I think we got punished.
+BUFFY	What?
+KENNEDY	We... we followed her. And it was...
+VI	It didn't work out.
+BUFFY	That wasn't her fault. It was a trap. I could've fallen for it as easy as her.
+CARIDAD	So... are you... are you, like, back?
+BUFFY	I don't know. I guess I'm not leaving.
+KENNEDY	So... we got a plan now or anything?
+BUFFY	Yeah, there's a plan. Get ready. Time's up.
+AMANDA	I still think we got punished.
+XANDER	Is she breathing okay?
+GILES	Still not conscious, though.
+BUFFY	We've still got work to do.
+BUFFY	I think it's... maybe some kind of scythe? Only thing I know for sure is, it made Caleb back off in a hurry.
+WILLOW	So it's true. Scythe matters.
+GILES	And, ignoring that, I'd like to point out: (re: scythe) It's really quite ingenious.
+BUFFY	Kills strong bodies three ways.
+WILLOW	And you say you sense something when you hold it?
+BUFFY	Not much, just... it's strong. And I knew it belonged to me. I mean, I just knew it.
+GILES	So in addition to being ancient, it's clearly mystical.
+BUFFY	Yeah, I figured that when I King- Arthur'd it out of that stone.
+WILLOW	Sounds like maybe some kind of traditional slayer weapon?
+GILES	It's hard to imagine something like that could exist without my having heard of it.
+BUFFY	Yeah, well, the good guys aren't traditionally known for their communication skills.
+GILES	Right. Is there any chance it's something besides a tool to kill things?
+BUFFY	The First's guys were clearly trying to get it out of that stone. It's not just some tool; it's important. Find out whatever you can: Who made it, why. And when. Does it have a name? And, I dunno, a credit report? Find out fast .
+GILES	We'll start work immediately.
+WILLOW	Don't worry, Buff. We'll find out everything there is to know.
+BUFFY	Thanks, because right now, this thing's all we've got going for us.
+ANDREW	I liked the real bandages better. This bed sheet is awfully festive.
+ANYA	I know. They're all gonna look like mortally wounded Easter baskets.
+GIRL	What?
+ANDREW	Hey! We're supposed to use that to sterilize wounds! Mr. Giles said!
+ANYA	Oh, what does it matter?
+ANDREW	Hmm. Good point.
+ANYA	Giles knows his single-malt antiseptics.
+ANDREW	Bleahh. Everything is horrible.
+ANYA	Yup. Many of these girls will die. Slaughter-house, is what it is.
+GIRL	What?
+ANYA	Trying to talk will just kill you sooner.
+ANDREW	We need supplies. And not just bandages and junk. These girls need stitches and pain killers...
+ANYA	And I could use a cookie. But I'm not making reckless wishes.
+ANDREW	No, we can do it. The hospital. It's gotta be all abandoned like the grocery store was. Stuff just lying there for the taking. I'm going in.
+ANYA	You are?
+ANDREW	And you're coming with me.
+ANYA	I am?
+ANDREW	Well, I think you should drive 'cuz that scotch made me a little dizzy.
+ANYA	I'll get Kennedy to watch these girls. She's tough. Imminent death won't bother her.
+GIRL	(weak, alarmed, looking around) What?
+BUFFY	You got it?
+XANDER	Wait. I'm not to the "got it" place yet. I'm still in the neighborhood of "you've got to be kidding."
+BUFFY	You know it's for the good.
+XANDER	I don't... Buffy, do you get that, if I do this, that's it for me for this fight? I feel like you're putting me out to pasture.
+BUFFY	Of course I'm not putting you out to pasture... What does that even mean?
+XANDER	Oh, you know, it's like... when a cow gets old and loses an eye or its ability to be milked, the farmer takes it and puts it in a different pasture where it won't have to... Fight... with priests... You don't have to protect me.
+BUFFY	I'm not.
+XANDER	I got hurt. But I'm not done. I can still fight.
+BUFFY	I know. That's why you're doing this. I need someone I can count on. No matter what happens.
+XANDER	I just... always thought I'd be here for the end with you.
+BUFFY	Hey --
+XANDER	Not that this is the end.
+BUFFY	Thanks a lot.
+XANDER	No no no no. I meant "end" in a heroic, uplifting, way. I'm still optimistic! You're just thrown off by this gritty looking eyepatch.
+BUFFY	I know what you meant.
+XANDER	I should be at your side. That's all I'm saying.
+BUFFY	You will be. You're my strength, Xander. I never would have made it this far without you.
+XANDER	Okay.
+BUFFY	Also, you can't shoot a bow and arrow anymore and every time you swing a sword I worry you're gonna break one of our good lamps.
+XANDER	Hey --
+BUFFY	Don't look at me. You're the one who said I'm gonna die.
+XANDER	I didn't say you're gonna die. I I... implied you're gonna die. Totally different.
+BUFFY	Yeah, okay. Sure.
+XANDER	Besides... If you die I'll just bring you back to life. That's what I do.
+WILLOW	Okay, before the vineyard was just, you know, a vineyard? It was a monastery. It coulda been put there then. Creepy monks, messing with powers they don't understand...?
+GILES	No. It's far older. Pre-Christian.
+WILLOW	Well, I found a reference to stories the monks used to tell about something older... like, maybe some kind of pagan temple.
+GILES	Native American?
+WILLOW	No... I don't know... maybe we're coming at this the wrong way. Maybe we need to research the weapon itself. I mean... look... maybe it's the Axe of Dekeron, said to have been forged in Hell itself. Lost since the Children's Crusade, where it killed a lot of... oh... children. I hope that's not it.
+GILES	I've found reference to the Sword of Moskva, and the Reaper of the Tigris. I don't see how we're going to narrow this down. There's never a clear enough illustration.
+WILLOW	It doesn't have any markings. Would it be so hard to include a little sticker? "Hello, my name is the Blank of Blankthuselah, consult operating instructions before wielding."
+GILES	Willow? Do you feel the power Buffy talked about?
+WILLOW	Gotta say no. Must be a Slayer thing.
+GILES	Tapping into some Magicks might help with that.
+WILLOW	It might. But this... thing... I mean, if Caleb is scared of it, it's something pretty dangerous, and tapping into that...
+GILES	Willow... you know there's a way to do it without endangering yourself. Drawing positive power from the earth, the power that connects everything...
+WILLOW	I know. And when I was in England I got it. But here... I can't do it. If I tried something big... I just know I'd change and then it's all black hair and veins and lightning bolts. I mean, I can barely do the locator spells without getting dark roots.
+GILES	But if it's necessary...?
+WILLOW	Giles, honestly... I don't know.
+GILES	Do what you can, Willow. That's all any of us can do.
+WILLOW	I guess so.
+GILES	I can't imagine -- Wait. Let me see.
+WILLOW	A who-y?
+GILES	It's a sort of... gulpy noise. I'm remembering something here... hieroglyphs... hieroglyphs stand for sets of consonants, as you know.
+WILLOW	Yes, absolutely.
+GILES	The consonants "m" plus glottal stop, are represented by a little picture commonly thought to represent a sickle or scythe. It appears in thousands of carvings, in Egypt and throughout the ancient world.
+WILLOW	Carvings? Like you'd have on a pagan temple?
+GILES	Let's go back... see what else we can find about that temple.
+DAWN	Xander, my crossbow is not out here. I told you, I don't leave crossbows around all willy-nilly. Not since that time with Miss Kitty Fantastico.
+XANDER	Did you know I have to take a driver's test every year now?
+DAWN	Because you're old?
+XANDER	No. Because of my eye. It's a whole state law. They don't trust my depth perception anymore.
+DAWN	That sucks.
+XANDER	You know what's even worse? All the stupid "It's all fun and games until someone loses an eye" jokes. "I guess the fun and games are over, eh Xander?"
+DAWN	Giles was just having fun with you.
+XANDER	That's not the point! It's an obvious joke. It'd be like if someone called me a cyclops.
+DAWN	Oh right! I didn't even -- (off his look) That's not funny at all.
+XANDER	I mean, give me an "eye of the beholder" joke or an "eye for an eye" joke or maybe even a weird postmodern "I, Claudius" joke. It's about standards, Dawn.
+DAWN	I know.
+XANDER	Just be creative.
+DAWN	You know, everyone's still a little on guard around you. Give 'em time.
+BUFFY	Not that I care personally, but you're wasting a lot of robust, full- bodied merlot.
+CALEB	Why did you let her go? You know I could take that girl in a fight.
+BUFFY	We'll get her. Calm down.
+CALEB	I'm calm. You should see me when I get angry.
+BUFFY	She's powerful now. And you're weak.
+CALEB	All of a sudden I'm getting less calm.
+BUFFY	Face it. Your strength is waning. It's been a while since we've... merged.
+CALEB	Suppose you're right... Okay. Let's do it.
+BUFFY	Boy, you really know how to romance a girl. No flowers, no dinner, no tour of the rectory... just "let's do it." Help me. My knees are weak.
+CALEB	Watch what you say now. You're starting to sound like her . This is a sacred experience for me.
+BUFFY	Oh, for me as well... When this is over -- when our armies spring forth and our will sweeps the world -- I'll be able to enter every man, woman and child on the face of this Earth.
+CALEB	Are you trying to make me jealous?
+BUFFY	I'm trying to make you a god.
+CALEB	I am thy humble servant.
+BUFFY	You feel it too, don't you.
+FAITH	Damn. And DAMN. That's something.
+BUFFY	I know.
+FAITH	It's old. Strong. And it feels like... like it's mine.
+BUFFY	It belongs to the Slayer.
+FAITH	Slayer In Charge, which I'm guessing is you.
+BUFFY	I honestly don't know. Does it matter?
+FAITH	Never mattered to me. But somebody has to lead. Let's vote for Chao- Ahn. Harder to lead people into a death-trap if you don't speak English.
+BUFFY	It's not your fault.
+FAITH	Really not looking for forgiveness.
+BUFFY	You're not?
+FAITH	What do you want me to say? I blew it.
+BUFFY	You didn't blow it.
+FAITH	Tell that to the --
+BUFFY	People die. You lead them into battle, they die. No matter how smart you are, or how ready, war is about death. Needless, stupid death.
+FAITH	So here's the laugh-riot. My whole life, I've been a loner.
+BUFFY	Was that the funny part? Did I miss --
+FAITH	I'm trying to --
+BUFFY	No no. Sorry. Go.
+FAITH	No ties, no buddies, no relationships that lasted longer than... well I guess Robin lasted pretty long; boy's got stamina.
+BUFFY	Principal Wood? And you? And on my...
+FAITH	Don't tell me you two got wriggly --
+BUFFY	No! No! We're just good friends. Or mortal enemies, depending on which day of the... is this the funny part?
+FAITH	Okay. The point? Me , by myself all the time, and looking at you, everything you have, and I don't know... Jealous. And then there I am, everybody looking to me, trusting me to lead 'em... and I never felt more alone in my life.
+BUFFY	Yeah.
+FAITH	And that's you every day, isn't it?
+BUFFY	I love my friends, and I'm grateful for them, but yeah, that's the price. Being the Slayer.
+FAITH	There's only supposed to be one. Maybe that's why you and I can never get along. We're not supposed to exist together.
+BUFFY	Also, you went evil and were killing people.
+FAITH	Good point. Also a factor.
+BUFFY	But you're right. I mean, I guess everyone's alone, but... Being a Slayer. There's a burden we can't share.
+FAITH	And no one else can feel it.
+BUFFY	Takes the edge off.
+FAITH	Just comforting.
+BUFFY	Uh huh.
+SPIKE	Honey, you're home.
+BUFFY	Yeah.
+SPIKE	And you did it. Fulfilled your mission, found the holy grail, or the holy hand grenade, or whatever the hell that is.
+BUFFY	Right now we're going with scythe. You like?
+SPIKE	Pointy and wooden is not exactly the look I want to know better, but it does have flair. I can see how a girl would ditch a guy for one of these.
+BUFFY	I'm sorry about that.
+SPIKE	Doesn't matter. You're back in the bosom, all's forgiven, and last night was just a glitch. A little cold comfort from the cellar dweller, let's don't make a thing out of it.
+BUFFY	Great. I got work to do.
+SPIKE	Another solo mission, of course.
+BUFFY	Yeah. It is.
+SPIKE	It's fine. Don't have to get shirty about it.
+BUFFY	I'm not shirty. What is even shirty, that's not a word!
+SPIKE	All right, all right. Big secret mission. It's fine.
+BUFFY	It's not a secret. I mean it is, but that's the point of the mission, find the secret. This was forged by... we don't know, something about a tomb on unconsecrated ground... I gotta find out what this is, why I have it.
+SPIKE	And this is the thing Preacher Man was so anxious to keep out of your mitts.
+BUFFY	That it is.
+SPIKE	Well, maybe I'll swing by his place while you go, make sure he's sitting tight.
+BUFFY	Great.
+SPIKE	Okay.
+BUFFY	You're a dope!
+SPIKE	I'm what?
+BUFFY	You're a dope, and a bonehead, and, and you're shirty.
+SPIKE	Have you gone completely Carrot-top?
+BUFFY	You see this? This may actually help me fight my war. It may be the key to everything and the reason I'm holding it is 'cause of you. Because of last night, the strength you gave me. I'm tired of defensiveness and weird mixed signals -- I've got Faith for that. Let's just get to the truth. I don't know how you feel about last night, but I'm not gonna --
+SPIKE	Terrified.
+BUFFY	Of what?
+SPIKE	Last night was... God, I'm such a jerk. I can't do this.
+BUFFY	Spike...
+SPIKE	It was the best night of my life.
+BUFFY	I just told you it did.
+SPIKE	I know, I hear you say it, but... I've lived for sodding ever, Buffy, I've done everything -- I've done things with you I can't spell , but I've never... been close. To anyone, least of all you... Until last night. All I did was hold you, and watch you sleep, and it was the best night of my life. So I'm, yeah. Terrified.
+BUFFY	You don't have to be.
+SPIKE	Were you there with me?
+BUFFY	I was.
+SPIKE	What does that mean?
+BUFFY	I don't know. Does it have to mean something?
+SPIKE	No. Not right now.
+BUFFY	Maybe, when --
+SPIKE	No. Let's just leave it.
+BUFFY	'kay.
+SPIKE	We'll go be heroes.
+ANDREW	Okay, so if the supply closet on this floor is exactly above the last one, it should... be... Here!
+ANYA	Yes, that is consistent with the six floors we already did.
+ANDREW	Oooh! This one has oxygen tanks.
+ANYA	They'd only be useful if something big was attacking and then we could throw one down their throat and blow 'em up like Roy Scheider did with the shark in Jaws.
+ANDREW	You are the perfect woman.
+ANYA	I've often thought so. Wanna rob?
+ANDREW	Let's rob!
+ANYA	Show me.
+ANDREW	Well, it's healed up, but it was sort of red and crusty with little itchy places --
+ANYA	Show me the box full of ointments, you little freak.
+ANDREW	This is gonna be bad, isn't it?
+ANYA	Yeah.
+ANDREW	So, how come you're here? I mean, you could just go, right?
+ANYA	Yeah. I did before.
+ANDREW	Before what?
+ANYA	There was this other apocalypse this one time. And I took off. But this time...
+ANDREW	What's different?
+ANYA	Well, I was kinda new to being around humans before. And now I've seen a lot more, gotten to know people, seen what they're capable of and I realize now that they're just so... amazingly... screwed up! I mean, so really, really screwed up in a monumental fashion!
+ANDREW	Oh.
+ANYA	They have no purpose that unites them so they drift around, blundering through life until they die. Which they know is coming and yet every single one of them is surprised when it happens to them. They're incapable of thinking beyond what they want at that moment. They kill each other , which is clearly insane, but here's the thing. When it's something real, they fight. I mean, they're lame morons to keep fighting. But they do. They... They never quit. And so I guess I'll fight too.
+ANDREW	That was kinda beautiful. You love humans.
+ANYA	No I don't.
+ANDREW	Yes, you do. You luuuuve them.
+ANYA	Stop it. I don't love them and I'll kill you if you tell anybody.
+ANDREW	I won't tell anybody. Won't get a chance to, anyway.
+ANYA	I don't know. You might survive.
+ANDREW	No. You might survive. You can handle a weapon, you've been in this world for, like, a thousand years. I'm not so... I don't think I'll be okay. I'm cool with it. I think I'd like to finish out as one of those lame humans trying to do what's right.
+ANYA	Yeah.
+ANDREW	So. Wheelchair fight?
+SHE	I'd forgotten how young you would be. It comes from the waiting. Mind plays tricks.
+BUFFY	Who are you?
+SHE	One of many. Well, time was. Now I'm alone in the world. I'd gamble you know what that's like.
+BUFFY	So, what are you? Some kind of ghost?
+SHE	Nope. I'm as real as you are, just ... well put it this way: I look good for my age. I've been waiting.
+BUFFY	What is it?
+SHE	Weapon. A scythe. We forged it in secrecy for one like you, who...
+BUFFY	Buffy.
+SHE	No, really.
+BUFFY	Yeah. Met them. Didn't care for 'em.
+SHE	Yes. Then you know. And they became the Watchers. And the Watchers watched the Slayers. But we were watching them.
+BUFFY	Oh! So you're like... What are you?
+SHE	Guardians. Women who want to help and protect you. This... ...was forged, centuries ago, by us. Halfway around the world.
+BUFFY	Hence, the Luxor Casino theme.
+SHE	Forged there, it was put to use right here. Only once, to kill the last pure demon that walked upon the earth. The rest were already driven under. And then there were men here, and then there were monks, and the first men died and were sent away, and then there was a town, and now there is you. And the scythe remained hidden.
+BUFFY	Does this mean I can win?
+SHE	That's really up to you. This...
+BUFFY	Yes.
+SHE	But you already have weapons.
+BUFFY	Oh.
+SHE	Use it wisely... and perhaps you can beat back the rising dark. One way or the other, it can only mean an end is truly near.
+CALEB	I'm sorry, I didn't catch that last part on account of her neck snapping and all. Did she say the end is "near? Or "here?"
+DAWN	Mmm. Grrph.
+XANDER	Dawn. You awake?
+DAWN	What happened?
+XANDER	Um... thought you might say that.
+DAWN	Actually, I meant to say "what the hell happened."
+XANDER	It was chloroform.
+DAWN	Color forms? What ?
+XANDER	Chloroform . Are you still loopy?
+DAWN	Sorry about that. Someone knocked me out with chloroform . Xander! Talk to me! Where are we going?
+XANDER	Away.
+DAWN	What's this?
+XANDER	Open it.
+CALEB	You're not slipping out of this fight, girl. Don't you see? You can't stop me... I can just keep going back for more. Like being re-born.
+ANGEL	I never was much for Preachers.
+BUFFY	Angel.
+ANGEL	You look good.
+BUFFY	You look timely. And also good.
+ANGEL	Heard you maybe needed a hand.
+BUFFY	Really kinda is.
+ANGEL	You're so gonna lose. She does this thing where --
+BUFFY	See?
+ANGEL	Well at least tell me you're glad to see me.
+BUFFY	That bitch.
+BUFFY	Yeah? You want it?
+CALEB	You don't even know what you've got there.
+BUFFY	I know you're backing away.
+CALEB	I let her go, she slices me open with that thing.
+BUFFY	No, she doesn't. She hasn't got time. She's got friends - and her friends are in trouble.
+CALEB	I'm not letting her out of here with that thing.
+BUFFY	Sure you are. And then you're coming back for it later. When she's got her back turned.
+CALEB	After all the work we did to free it?
+BUFFY	It's hers for now . Let her go.
+CARIDAD	Me.
+AMANDA	Is anybody else alive?
+CARIDAD	Who else we got?
+AMANDA	Dunno. You okay?
+VI	I think my arm is broken.
+KENNEDY	Where's Faith?
+VI	Don't know...
+KENNEDY	Find her.
+CARIDAD	Maybe we should get the hell out of this place, they could be...
+KENNEDY	Find her!
+AMANDA	Breathing. Pulse.
+CARIDAD	We gotta get her out of here.
+VI	Which way's out?
+AMANDA	There's other girls. There's more than Faith, we don't even know how many of us are still...
+CARIDAD	Oh, what was that?
+VI	It could have been grinding metal, it could have been...
+KENNEDY	No. It's one of them .
+CARIDAD	That's not possible.
+AMANDA	How'd it get in here?
+VI	Plans?
+KENNEDY	Run.
+VI	This isn't the way!
+KENNEDY	Yes, it is!
+CARIDAD	We're heading in the wrong direction!
+KENNEDY	No! This is it - It's just... It looks different...
+ANDREW	It was pretty exciting. A whole grocery store, just abandoned. Food lying around everywhere. The produce was on its way to funky town, but the other stuff was just --
+ANDREW	Hi Mr. Giles. Okay, I did a little looting, which is technically unethical, but these girls need to eat--
+GILES	Andrew, things are getting very dire around here, and we've got more important things to worry about than -- Ooh! Jaffa Cakes!
+GILES	Did you find Buffy?
+XANDER	No.
+ANDREW	But you did that spell with the little lights. The locator.
+ANYA	It crapped out on us.
+DAWN	No, it didn't... exactly.
+WILLOW	It just took us to an empty house. She must've moved on already.
+GILES	Well, I'm afraid there's rather worse news here...
+ANDREW	I've been keeping morale up, because that's important.
+WILLOW	We have to go to her.
+XANDER	Guess so.
+ANDREW	Yes. I'll stay here, keep working on that morale thing.
+AMANDA	There's another one!
+KENNEDY	Move, move, move! Up and over!
+BUFFY	Get the wounded. We're leaving.
+KENNEDY	Are there more?
+BUFFY	There's always more. Let's move.
+BUFFY	The room upstairs is ready for her.
+GILES	Good.
+XANDER	Hope we're in time.
+AMANDA	Is she okay? Is she gonna be okay?
+KENNEDY	I'm sure she'll be fine. Right?
+BUFFY	I'll be up in a second.
+XANDER	Careful...
+GILES	Watch her head.
+KENNEDY	You guys heal fast, right? You Slayers?
+BUFFY	Yeah.
+KENNEDY	So... she'll be okay?
+BUFFY	I don't know.
+CARIDAD	What's with the axe-thing?
+BUFFY	I took it from Caleb. Might be important.
+VI	Let's hope.
+AMANDA	I think we got punished.
+BUFFY	What?
+KENNEDY	We... we followed her. And it was...
+VI	It didn't work out.
+BUFFY	That wasn't her fault. It was a trap. I could've fallen for it as easy as her.
+CARIDAD	So... are you... are you, like, back?
+BUFFY	I don't know. I guess I'm not leaving.
+XANDER	Is she breathing okay?
+GILES	Still not conscious, though.
+BUFFY	I think it's... maybe some kind of scythe? Only thing I know for sure is, it made Caleb back off in a hurry.
+WILLOW	So it's true. Scythe matters.
+GILES	And, ignoring that, I'd like to point out: (re: scythe) It's really quite ingenious.
+BUFFY	Kills strong bodies three ways.
+WILLOW	And you say you sense something when you hold it?
+BUFFY	Not much, just... it's strong. And I knew it belonged to me. I mean, I just knew it.
+GILES	So in addition to being ancient, it's clearly mystical.
+BUFFY	Yeah, I figured that when I King- Arthur'd it out of that stone.
+WILLOW	Sounds like maybe some kind of traditional slayer weapon?
+GILES	It's hard to imagine something like that could exist without my having heard of it.
+BUFFY	Yeah, well, the good guys aren't traditionally known for their communication skills.
+BUFFY	The First's guys were clearly trying to get it out of that stone. It's not just some tool; it's important. Find out whatever you can: Who made it, why. And when. Does it have a name? And, I dunno, a credit report? Find out fast .
+GILES	We'll start work immediately.
+WILLOW	Don't worry, Buff. We'll find out everything there is to know.
+BUFFY	Thanks, because right now, this thing's all we've got going for us.
+ANDREW	I liked the real bandages better. This bed sheet is awfully festive.
+ANYA	I know. They're all gonna look like mortally wounded Easter baskets.
+GIRL	What?
+ANDREW	Hey! We're supposed to use that to sterilize wounds! Mr. Giles said!
+ANYA	Oh, what does it matter?
+ANDREW	Hmm. Good point.
+ANYA	Giles knows his single-malt antiseptics.
+ANDREW	Bleahh. Everything is horrible.
+ANYA	Yup. Many of these girls will die. Slaughter-house, is what it is.
+GIRL	What?
+ANYA	Trying to talk will just kill you sooner.
+ANDREW	We need supplies. And not just bandages and junk. These girls need stitches and pain killers...
+ANYA	And I could use a cookie. But I'm not making reckless wishes.
+ANDREW	No, we can do it. The hospital. It's gotta be all abandoned like the grocery store was. Stuff just lying there for the taking. I'm going in.
+ANYA	You are?
+ANDREW	And you're coming with me.
+ANYA	I am?
+ANDREW	Well, I think you should drive 'cuz that scotch made me a little dizzy.
+ANYA	I'll get Kennedy to watch these girls. She's tough. Imminent death won't bother her.
+BUFFY	You got it?
+XANDER	Wait. I'm not to the "got it" place yet. I'm still in the neighborhood of "you've got to be kidding."
+BUFFY	You know it's for the good.
+XANDER	I don't... Buffy, do you get that, if I do this, that's it for me for this fight? I feel like you're putting me out to pasture.
+BUFFY	Of course I'm not putting you out to pasture... What does that even mean?
+XANDER	Oh, you know, it's like... when a cow gets old and loses an eye or its ability to be milked, the farmer takes it and puts it in a different pasture where it won't have to... Fight... with priests... You don't have to protect me.
+BUFFY	I'm not.
+XANDER	I got hurt. But I'm not done. I can still fight.
+BUFFY	I know. That's why you're doing this. I need someone I can count on. No matter what happens.
+XANDER	I just... always thought I'd be here for the end with you.
+BUFFY	Hey --
+XANDER	Not that this is the end.
+BUFFY	Thanks a lot.
+XANDER	No no no no. I meant "end" in a heroic, uplifting, way. I'm still optimistic! You're just thrown off by this gritty looking eyepatch.
+BUFFY	I know what you meant.
+XANDER	I should be at your side. That's all I'm saying.
+BUFFY	You will be. You're my strength, Xander. I never would have made it this far without you.
+XANDER	Okay.
+BUFFY	Also, you can't shoot a bow and arrow anymore and every time you swing a sword I worry you're gonna break one of our good lamps.
+XANDER	Hey --
+BUFFY	Don't look at me. You're the one who said I'm gonna die.
+XANDER	I didn't say you're gonna die. I I... implied you're gonna die. Totally different.
+BUFFY	Yeah, okay. Sure.
+WILLOW	Okay, before the vineyard was just, you know, a vineyard? It was a monastery. It coulda been put there then. Creepy monks, messing with powers they don't understand...?
+GILES	No. It's far older. Pre-Christian.
+WILLOW	Well, I found a reference to stories the monks used to tell about something older... like, maybe some kind of pagan temple.
+GILES	Native American?
+WILLOW	No... I don't know... maybe we're coming at this the wrong way. Maybe we need to research the weapon itself. I mean... look... maybe it's the Axe of Dekeron, said to have been forged in Hell itself. Lost since the Children's Crusade, where it killed a lot of... oh... children. I hope that's not it.
+GILES	I've found reference to the Sword of Moskva, and the Reaper of the Tigris. I don't see how we're going to narrow this down. There's never a clear enough illustration.
+WILLOW	Gotta say no. Must be a Slayer thing.
+GILES	Tapping into some Magicks might help with that.
+WILLOW	It might. But this... thing... I mean, if Caleb is scared of it, it's something pretty dangerous, and tapping into that...
+GILES	Willow... you know there's a way to do it without endangering yourself. Drawing positive power from the earth, the power that connects everything...
+WILLOW	I know. And when I was in England I got it. But here... I can't do it. If I tried something big... I just know I'd change and then it's all black hair and veins and lightning bolts. I mean, I can barely do the locator spells without getting dark roots.
+GILES	But if it's necessary...?
+WILLOW	Giles, honestly... I don't know.
+GILES	Do what you can, Willow. That's all any of us can do.
+WILLOW	I guess so.
+GILES	I can't imagine -- Wait. Let me see.
+WILLOW	A who-y?
+GILES	It's a sort of... gulpy noise. I'm remembering something here... hieroglyphs... hieroglyphs stand for sets of consonants, as you know.
+WILLOW	Yes, absolutely.
+GILES	The consonants "m" plus glottal stop, are represented by a little picture commonly thought to represent a sickle or scythe. It appears in thousands of carvings, in Egypt and throughout the ancient world.
+WILLOW	Carvings? Like you'd have on a pagan temple?
+GILES	Let's go back... see what else we can find about that temple.
+DAWN	Xander, my crossbow is not out here. I told you, I don't leave crossbows around all willy-nilly. Not since that time with Miss Kitty Fantastico.
+XANDER	Did you know I have to take a driver's test every year now?
+DAWN	Because you're old?
+XANDER	No. Because of my eye. It's a whole state law. They don't trust my depth perception anymore.
+DAWN	That sucks.
+DAWN	Giles was just having fun with you.
+XANDER	That's not the point! It's an obvious joke. It'd be like if someone called me a cyclops.
+DAWN	Oh right! I didn't even -- (off his look) That's not funny at all.
+XANDER	I mean, give me an "eye of the beholder" joke or an "eye for an eye" joke or maybe even a weird postmodern "I, Claudius" joke. It's about standards, Dawn.
+DAWN	I know.
+XANDER	Just be creative.
+DAWN	You know, everyone's still a little on guard around you. Give 'em time.
+CALEB	Why did you let her go? You know I could take that girl in a fight.
+BUFFY	We'll get her. Calm down.
+CALEB	I'm calm. You should see me when I get angry.
+BUFFY	She's powerful now. And you're weak.
+CALEB	All of a sudden I'm getting less calm.
+BUFFY	Face it. Your strength is waning. It's been a while since we've... merged.
+CALEB	Suppose you're right... Okay. Let's do it.
+BUFFY	Boy, you really know how to romance a girl. No flowers, no dinner, no tour of the rectory... just "let's do it." Help me. My knees are weak.
+CALEB	Watch what you say now. You're starting to sound like her . This is a sacred experience for me.
+BUFFY	Oh, for me as well... When this is over -- when our armies spring forth and our will sweeps the world -- I'll be able to enter every man, woman and child on the face of this Earth.
+CALEB	Are you trying to make me jealous?
+BUFFY	I'm trying to make you a god.
+FAITH	Damn. And DAMN. That's something.
+BUFFY	I know.
+FAITH	It's old. Strong. And it feels like... like it's mine.
+BUFFY	It belongs to the Slayer.
+FAITH	Slayer In Charge, which I'm guessing is you.
+BUFFY	I honestly don't know. Does it matter?
+FAITH	Never mattered to me. But somebody has to lead. Let's vote for Chao- Ahn. Harder to lead people into a death-trap if you don't speak English.
+BUFFY	It's not your fault.
+FAITH	Really not looking for forgiveness.
+BUFFY	You're not?
+FAITH	What do you want me to say? I blew it.
+BUFFY	You didn't blow it.
+FAITH	Tell that to the --
+BUFFY	People die. You lead them into battle, they die. No matter how smart you are, or how ready, war is about death. Needless, stupid death.
+BUFFY	Was that the funny part? Did I miss --
+FAITH	I'm trying to --
+BUFFY	No no. Sorry. Go.
+FAITH	No ties, no buddies, no relationships that lasted longer than... well I guess Robin lasted pretty long; boy's got stamina.
+BUFFY	Principal Wood? And you? And on my...
+FAITH	Don't tell me you two got wriggly --
+BUFFY	No! No! We're just good friends. Or mortal enemies, depending on which day of the... is this the funny part?
+FAITH	Okay. The point? Me , by myself all the time, and looking at you, everything you have, and I don't know... Jealous. And then there I am, everybody looking to me, trusting me to lead 'em... and I never felt more alone in my life.
+BUFFY	Yeah.
+FAITH	And that's you every day, isn't it?
+BUFFY	I love my friends, and I'm grateful for them, but yeah, that's the price. Being the Slayer.
+FAITH	There's only supposed to be one. Maybe that's why you and I can never get along. We're not supposed to exist together.
+BUFFY	Also, you went evil and were killing people.
+FAITH	Good point. Also a factor.
+BUFFY	But you're right. I mean, I guess everyone's alone, but... Being a Slayer. There's a burden we can't share.
+FAITH	And no one else can feel it.
+BUFFY	Takes the edge off.
+FAITH	Just comforting.
+BUFFY	Uh huh.
+SPIKE	Honey, you're home.
+BUFFY	Yeah.
+SPIKE	And you did it. Fulfilled your mission, found the holy grail, or the holy hand grenade, or whatever the hell that is.
+BUFFY	Right now we're going with scythe. You like?
+SPIKE	Pointy and wooden is not exactly the look I want to know better, but it does have flair. I can see how a girl would ditch a guy for one of these.
+BUFFY	I'm sorry about that.
+SPIKE	Doesn't matter. You're back in the bosom, all's forgiven, and last night was just a glitch. A little cold comfort from the cellar dweller, let's don't make a thing out of it.
+BUFFY	Great. I got work to do.
+SPIKE	Another solo mission, of course.
+BUFFY	Yeah. It is.
+SPIKE	It's fine. Don't have to get shirty about it.
+BUFFY	I'm not shirty. What is even shirty, that's not a word!
+SPIKE	All right, all right. Big secret mission. It's fine.
+BUFFY	It's not a secret. I mean it is, but that's the point of the mission, find the secret. This was forged by... we don't know, something about a tomb on unconsecrated ground... I gotta find out what this is, why I have it.
+SPIKE	And this is the thing Preacher Man was so anxious to keep out of your mitts.
+BUFFY	That it is.
+SPIKE	Well, maybe I'll swing by his place while you go, make sure he's sitting tight.
+BUFFY	Great.
+SPIKE	Okay.
+SPIKE	I'm what?
+BUFFY	You're a dope, and a bonehead, and, and you're shirty.
+SPIKE	Have you gone completely Carrot-top?
+BUFFY	You see this? This may actually help me fight my war. It may be the key to everything and the reason I'm holding it is 'cause of you. Because of last night, the strength you gave me. I'm tired of defensiveness and weird mixed signals -- I've got Faith for that. Let's just get to the truth. I don't know how you feel about last night, but I'm not gonna --
+SPIKE	Terrified.
+BUFFY	Of what?
+SPIKE	Last night was... God, I'm such a jerk. I can't do this.
+BUFFY	Spike...
+SPIKE	It was the best night of my life.
+BUFFY	I just told you it did.
+SPIKE	I know, I hear you say it, but... I've lived for sodding ever, Buffy, I've done everything -- I've done things with you I can't spell , but I've never... been close. To anyone, least of all you... Until last night. All I did was hold you, and watch you sleep, and it was the best night of my life. So I'm, yeah. Terrified.
+BUFFY	You don't have to be.
+SPIKE	Were you there with me?
+BUFFY	I was.
+SPIKE	What does that mean?
+BUFFY	I don't know. Does it have to mean something?
+SPIKE	No. Not right now.
+BUFFY	Maybe, when --
+SPIKE	No. Let's just leave it.
+BUFFY	'kay.
+SPIKE	We'll go be heroes.
+ANDREW	Oooh! This one has oxygen tanks.
+ANYA	They'd only be useful if something big was attacking and then we could throw one down their throat and blow 'em up like Roy Scheider did with the shark in Jaws.
+ANDREW	You are the perfect woman.
+ANYA	I've often thought so. Wanna rob?
+ANDREW	Let's rob!
+ANYA	Show me.
+ANDREW	Well, it's healed up, but it was sort of red and crusty with little itchy places --
+ANYA	Show me the box full of ointments, you little freak.
+ANDREW	This is gonna be bad, isn't it?
+ANYA	Yeah.
+ANDREW	So, how come you're here? I mean, you could just go, right?
+ANYA	Yeah. I did before.
+ANDREW	Before what?
+ANYA	There was this other apocalypse this one time. And I took off. But this time...
+ANDREW	What's different?
+ANYA	Well, I was kinda new to being around humans before. And now I've seen a lot more, gotten to know people, seen what they're capable of and I realize now that they're just so... amazingly... screwed up! I mean, so really, really screwed up in a monumental fashion!
+ANDREW	Oh.
+ANYA	They have no purpose that unites them so they drift around, blundering through life until they die. Which they know is coming and yet every single one of them is surprised when it happens to them. They're incapable of thinking beyond what they want at that moment. They kill each other , which is clearly insane, but here's the thing. When it's something real, they fight. I mean, they're lame morons to keep fighting. But they do. They... They never quit. And so I guess I'll fight too.
+ANDREW	That was kinda beautiful. You love humans.
+ANYA	No I don't.
+ANDREW	Yes, you do. You luuuuve them.
+ANYA	Stop it. I don't love them and I'll kill you if you tell anybody.
+ANDREW	I won't tell anybody. Won't get a chance to, anyway.
+ANYA	I don't know. You might survive.
+ANDREW	No. You might survive. You can handle a weapon, you've been in this world for, like, a thousand years. I'm not so... I don't think I'll be okay. I'm cool with it. I think I'd like to finish out as one of those lame humans trying to do what's right.
+ANYA	Yeah.
+BUFFY	Who are you?
+SHE	One of many. Well, time was. Now I'm alone in the world. I'd gamble you know what that's like.
+BUFFY	So, what are you? Some kind of ghost?
+SHE	Nope. I'm as real as you are, just ... well put it this way: I look good for my age. I've been waiting.
+BUFFY	What is it?
+SHE	Weapon. A scythe. We forged it in secrecy for one like you, who...
+BUFFY	Buffy.
+SHE	No, really.
+BUFFY	Yeah. Met them. Didn't care for 'em.
+SHE	Yes. Then you know. And they became the Watchers. And the Watchers watched the Slayers. But we were watching them.
+BUFFY	Oh! So you're like... What are you?
+SHE	Guardians. Women who want to help and protect you. This... ...was forged, centuries ago, by us. Halfway around the world.
+BUFFY	Hence, the Luxor Casino theme.
+SHE	Forged there, it was put to use right here. Only once, to kill the last pure demon that walked upon the earth. The rest were already driven under. And then there were men here, and then there were monks, and the first men died and were sent away, and then there was a town, and now there is you. And the scythe remained hidden.
+BUFFY	Does this mean I can win?
+SHE	That's really up to you. This...
+BUFFY	Yes.
+SHE	But you already have weapons.
+BUFFY	Oh.
+SHE	Use it wisely... and perhaps you can beat back the rising dark. One way or the other, it can only mean an end is truly near.
+DAWN	Mmm. Grrph.
+XANDER	Dawn. You awake?
+DAWN	What happened?
+XANDER	Um... thought you might say that.
+DAWN	Actually, I meant to say "what the hell happened."
+XANDER	It was chloroform.
+DAWN	Color forms? What ?
+XANDER	Chloroform . Are you still loopy?
+DAWN	Sorry about that. Someone knocked me out with chloroform . Xander! Talk to me! Where are we going?
+XANDER	Away.
+DAWN	What's this?
+XANDER	Open it.
+ANGEL	I never was much for Preachers.
+BUFFY	Angel.
+ANGEL	You look good.
+BUFFY	You look timely. And also good.
+ANGEL	Heard you maybe needed a hand.
+BUFFY	Really kinda is.

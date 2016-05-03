@@ -1,0 +1,613 @@
+DAWN	My advice to you is do exactly what everyone else does, all the time.
+WILLOW	Got it.
+DAWN	Do what everyone else does, wear what everyone else wears, say what everyone else says.
+WILLOW	Okay.
+DAWN	People may say something you don't understand. Don't be afraid to keep your month shut and pretend like you know what they're talking about.
+WILLOW	You know, I've been to college before, Dawn.
+DAWN	They may say something like, "My protein window closes in an hour." Just smile and nod. Turns out it has something to do with fitness.
+BUFFY	So have you talked to her?
+XANDER	Not since that night with the Gnarl demon. And that wasn't exactly the "how have you been?" kind of talking. More the "pierce its eyes with something sharp" kind of talking. I'm thinking I should call her.
+BUFFY	I just don't want you to get your hopes up, that's all.
+XANDER	Hopes? Oh no no -- there are no hopes. Anya and I are done, I love being single. I'm a strong successful male who's giddy at the thought of all the women I will no doubt be dating in the near future --
+BUFFY	Strong successful males say "giddy?"
+XANDER	I just worry about her, that's all.
+WILLOW	Anya?
+XANDER	She seems so sad.
+DAWN	She should try acting like everyone else more.
+WILLOW	That's what the kids are doing now a days.
+BUFFY	I'm not sure I get the sad vibe, but there's definitely a vengeance vibe worth worrying about.
+XANDER	Oh that -- no. I don't worry about that. She was hurt and she just turned to what she knew when I... you know... but that's not her anymore.
+BUFFY	I hope you're right.
+XANDER	She turned that worm guy back before any real harm was done right? It just takes a little time. Her heart's not in it...
+ANYA	What have I done?
+OLAF	Aud! Rara, vackra Aud! Jag är så hungrig så jag skulle kunna ata upp ett litet barn! OLAF Aud! Sweet, beautiful Aud! I am so hungry I could eat a small child!
+ANYA	Olaf! Är du skadad? Du luktar blod och musk. ANYA Olaf! Are you injured? You smell of blood and musk.
+OLAF	Frukta inte! Det krävz mer än en skara mindre troll för att få ner stora Olaf!
+OLAF	Fear not! It takes more than a band of minor trolls to bring down the mighty Olaf!
+ANYA	Troll!
+ANYA	Trolls!
+OLAF	Åh! De är verkligen vrickade kreatur. Blotta tanken får mej att gå på knäna.
+OLAF	Oh! They are wretched creatures indeed. The mere thought of them makes me bend at the knee and flex.
+ANYA	Sitt ner kära du. Låt mej passa upp dej lite. ANYA Sweetheart, please, sit down. Allow me to tend to you.
+OLAF	Jag år ok. Verkligen. Fast jag tar gårna lite mjöd.
+OLAF	I am fine. Really. I could go for some mead, though.
+ANYA	Ska bli. ANYA Certainly.
+OLAF	Fantiserar jag, eller är det riktigt att vi har otroligt många fler kaniner här inne idag?
+OLAF	Is it my imagination, or do we have substantially more rabbits in the house today?
+ANYA	Åh, de förökar sig så snabbt att det är -- ANYA Oh, they breed so quickly that it's --
+OLAF	Allt detta snack om förökning får mej att vilja själv! OLAF All this talk of breeding makes me want to breed!
+ANYA	Älskling, självklart. Men här -- drick din mjod först.
+ANYA	Honey, of course. But here -- drink your mead first.
+OLAF	Åh, ja. Mjod. OLAF Ah, yes. Mead.
+ANYA	
+ANYA	Did the trolls hurt you? Their mossy skin does not reflect their churlish heart.
+OLAF	(Swedish; laughing) Jag mår toppen -- Snälla, sluta gräma dej över mej. Beråtta om din dag.
+OLAF	(English; laughing) I am fine -- Please, stop fretting over me. Tell me of your day.
+ANYA	(Swedish; bright) Å! Jag tvättade alla dina tunikor från slaget vid Asgoth, Jag smidde två hammare och ett litet svärd till dej och så lärde jag mej ett nytt recept på ox- goblin som jag tror du kommer att gilla. ANYA (English; bright) Okay! Well, I was able to get all your tunics from the battle of Asgoth cleaned, I smelted you two hammers and a small sword and I learned a new recipe for ox-goblin that I think you'll enjoy.
+OLAF	Mmmmmm...
+OLAF	Mmmmmm...
+ANYA	Och den snabba tillväxten av dina kaniner -- ålskling, sitt ner -- har gett mej en idé. Jag skulle kunna ge Överskottet till folket I stan, inte I utbyte mot gods eller service, men för gott rykte och känslan av utförande som kommer från osjälviskheten att ge till andra. ANYA And the rapid reproductive rate of our rabbits -- honey, sit down -- has given me an idea. I can give the excess out to the townspeople, exchanging them not for goods or services but for goodwill and the sense of accomplishment that stems from selflessly giving of yourself to others.
+OLAF	Kära Aud! Din logik år vansinnig och impulsiv, som ett trolls. Inte så konstigt att barägarna pratar om dej. OLAF Sweet Aud! Your logic is insane and happenstance, like that of a troll. It is no wonder the bar matrons talk of you.
+ANYA	Du har varit på krogen...
+ANYA	You've been to the bar...
+OLAF	
+OLAF	Oh, Aud. Forget it and please me now.
+ANYA	Jag tycker inte om att du går dit.
+ANYA	I do not like you going there.
+OLAF	Det är inte mitt fel att de inte år vänliga mot dej. Du har alltid varit aggressiv för att du inte går ihop med folk. Du säger vad du tycker och är mest besvärande. Det är en av egenskaperna jag älskar mest hos dej.
+OLAF	It is not my fault they don't take kindly to you. You've always been most aggressive in your not- fitting-in with people. You speak your mind, and are annoying. (he smiles) It's one of the things I love most about you.
+ANYA	Var Rannveig there?
+ANYA	Was Rennveig there?
+OLAF	Ahh! Jag har sagt tusentals gånger att jag inte har något intresse av denna Rannveig. Hennes höfter är stora och kraftiga, som en Baltisk kvinna. OLAF Bah! I've told you a thousand times: I have no interest in this Rannveig. Her hips are large and load- bearing, like a Baltic woman.
+OLAF	Du är mycket mer min smak. Dina höfter är små, som en Baltisk kvinna från en något mer ofruktbar region. OLAF You are much more to my liking. Your hips are small, like a Baltic woman from a slightly more arid region.
+OLAF	Du är min perfekthet Aud. Jag skulle aldrig kunna ha lustar för någon annan. OLAF You are my perfect Aud. I could never want for another.
+ANYA	Förlåt. Det är bara att jag älskar dej så mycket... Ibland känna det som om jag skulle kunna brista. Jag skulle inte kunna leva utan dej. ANYA I am sorry. I simply love you so much... I feel as though I could burst at times. I could not live without you.
+OLAF	Frukta inte, kära Aud, du kommer alltid att vara min vackra flicka. OLAF Fear not, sweet Aud, you'll always be my beautiful girl.
+SPIKE	Dunno how to explain it, exactly. It's like I been seeing things...
+BUFFY	What sort of things?
+SPIKE	Things. People, I guess.
+BUFFY	Spike --
+SPIKE	I'm in trouble, Buffy.
+SPIKE	I could never ask. Not after...
+BUFFY	It's different, You're different.
+SPIKE	I could never ask...
+BUFFY	Spike, it's me. It's you and it it's me. And we'll get through this.
+SPIKE	Never...
+BUFFY	We'll get through this.
+SPIKE	Can't hear you... Can't hear you...
+BUFFY	You have a soul? Fine. Show me,
+SPIKE	Scream "Montresor" all you like, pet.
+BUFFY	Get up and get out of this basement.
+SPIKE	I don't have anywhere else to go.
+BUFFY	You have everywhere else to go. Because there's no place worse than where you are right now.
+WILLOW	... and it's not like I've been gone that long. I've already done all the reading I've missed and I can come to office hours and I can sign up --
+HAWKINS	Willow, Willow -- it's okay. We'll get you caught up in no time.
+WILLOW	Really?
+HAWKINS	What am I gonna say -- "No, I don't want my best student back in my class?"
+WILLOW	That was --
+HAWKINS	-- but then, voila!, you turned around and aced all your finals. Like magic.
+WILLOW	Yeah... similar to... but only...
+HAWKINS	Look, cone see me during office hours tomorrow --
+WILLOW	Oh -- okay. Thanks professor.
+WILLOW	Anya! Anya!
+ANYA	Willow. What are you doing here?
+WILLOW	Oh! I'm starting back up at school.
+I	missed and...
+ANYA	Oh. I, uh, have a new boyfriend now. He lives there.
+WILLOW	That's great!
+ANYA	Yes. We just had lots and lots of sex.
+WILLOW	Okay. This is so great. I'm so happy to hear that you've --
+ANYA	Yes, we're tremendously happy together. Now, if you'll excuse me, I'm late for something... very important.
+WILLOW	Uh, okay, yeah. See you later.
+WILLOW	Hello? Is anyb --
+VOICE	... I take it back I take it back I take it back...
+VOICE	...I take it back I take back I...
+RACHEL	...take it back I take it back...
+WILLOW	It's okay. It's okay...
+RACHEL	...I take it .....
+WILLOW	What do you take back? What happened?
+RACHEL	It's gonna be a mixer, a party... Everyone's gonna be there, everyone's bringing a date... I'll have a great time...
+WILLOW	It's okay. You're okay now.
+RACHEL	They laughed and they laughed... and I cried... they laughed... And I yelled...
+WILLOW	Okay, c'mon... what came? What did this?
+RACHEL	A spider...
+WILLOW	Where did it go?
+RACHEL	What do you mean?
+WILLOW	The spider. Where is it now ?
+OLAF	ARRRRGGGH! ARRRRRRR! STANNA! DET ÄR OLAF! JAR ÄR OLAF! OLAF ARRRRGGGH! ARRRRRRR! STOP! IT IS OLAF! I AM OLAF!
+OLAF	AHHHHHRRRRHHHH! OLAF AHHHHHRRRRHHHH!
+VOICE	Impressive.
+ANYA	Thank you.
+HOFFRYN	What is that, a Woodlow Transmogrific Spell?
+ANYA	Thornton's Hope.
+HOFFRYN	Thornton's Hope... But how did you get the troll element?
+ANYA	Eelsbane.
+HOFFRYN	Eelsbane . (looks at sky) Brilliant. What'd he do?
+ANYA	Bar matron. A load-bearing bar matron.
+HOFFRYN	Is there any other kind? I'm sorry -- how rude of me. Allow me to introduce myself. My name is D'Hoffryn.
+ANYA	I am Aud.
+HOFFRYN	Are you? Hm. I'm afraid you don't see your true self. You are Anyanka.
+OLAF	ARRRRRRRRRRRGGGGHHHH! OLAF ARRRRRRRRRRRGGGGHHHH!
+HOFFRYN	I'm the patron of a... family of sorts. We're Vengeance Demons. I'm sure you've heard of us.
+ANYA	No. I'm sorry.
+HOFFRYN	Oh, well, that's quite --
+ANYA	Don't feel bad. I don't talk to people much. I mean, I talk to them, but they don't talk to me. Except to say, "Your questions are irksome" and "Perhaps you should take your furs and your literal interpretations to the other side of the river." I'm sure your group is quite well known.
+OLAF	KOM HÄR, LILLE MAN! DU ÄR DELIKAT OCH SER UT SOM EN LEKSAK! OLAF COME HERE, TINY MAN! YOU ARE DELICATE AND TOYLIKE!
+HOFFRYN	Allow me to explain. We travel the world, balancing the scales of justice. We... help people who can't help themselves.
+ANYA	Why do you keep calling me that? My name is "Aud."
+HOYFRYN	Perhaps. But Anyanka is who you are.
+ANYA	What would I have to do?
+OLAF	OLAF THE OXEN ARE SO SMALL THEY RESEMBLE DOGS!
+HOFFRYN	What you do best. Help wronged women. Punish evil men.
+ANYA	Vengeance...
+HOFFRYN	But only to those that deserve it.
+ANYA	They all deserve it.
+HOFFRYN	That's where I was going with that, yeah.
+WILLOW	Protege! WILLOW Shield!
+WILLOW	For God's sake, shut your whimpering mouth.
+BUFFY	Hello? Willow! Is everythi -- Wait. Okay. Wait. Spider Demon? Are you all right? Like how -- Uh-huh...
+BUFFY	No no no no no -- don't even worry about it. I'll get Xander. No. You just --
+HALLIE	It's truly wonderful, Anyanka.
+ANYA	Oh, it's nothing. I don't... There was just so much screaming. So much blood.
+HALLIE	Oh, tell me about it. They can be feisty little guys. And impossible to housetrain. Once they start nesting, forg --
+ANYA	I guess I'm just a little rusty. I didn't think it would hit me like this.
+HALLIE	Ohhh, sweetie. This is perfectly normal. We all go through this from time to time. I remember, years ago, I covered this little chimney sweep's parents in tuberculosis bacteria... (she shudders) I couldn't sleep for two weeks.
+ANYA	Really?
+HALLIE	Oh, I threw up for an hour and a half straight. It's normal. It's a reflex. You'll get over it in no time. Trust me.
+ANYA	Oh Hallie, I can't tell you how good it is... thank goodness you're here.
+HALLIE	Sweetie. Of course.
+ANYA	It's just, lately, with everything that's been going on, I've been having trouble even rememb --
+WILLOW	Get out.
+HALLIE	Lemon drop, if you think I'm --
+WILLOW	Get. Out.
+ANYA	It's okay.
+HALLIE	Anyanka.
+ANYA	It's fine.
+HALLIE	Okay... but if you need me, you holler.
+ANYA	Hi Willow.
+WILLOW	Anya, you have to stop this.
+ANYA	I don't have any idea what you're --
+WILLOW	Anya listen to me. You're in trouble. You know it. I'm here to help you.
+ANYA	You're here to -- That's great, Willow. Flayed anybody lately, have you? How quickly they forget.
+WILLOW	I haven't forgotten a second of it.
+ANYA	What do you want?
+WILLOW	I want to help y --
+ANYA	They got what they deserved!
+WILLOW	No. They...
+ANYA	I'm a Vengeance Demon . Do you understand that?
+WILLOW	No...
+ANYA	Try . They got what they deserved.
+BUFFY	Thanks for the sidekicking. I didn't want to trouble Willow. Figure she's got enough to do, first day back and all.
+XANDER	Are you kidding me? We're doing vent work at the site. Anything's better than breathing freon for eight hours. (looking around) She say what this thing is?
+BUFFY	Some sort of spider demony thing. She got off the phone pretty quick. Had to sign up for classes or something.
+XANDER	Ah yes, there is little that can distract the Willow when she is on the hunt for the mighty Syllabi.
+BUFFY	I think she's been a little more nervous than she lets --
+XANDER	Yuuhhhllll ...
+BUFFY	She didn't say. But I can't imagine she'd send us off like this if it was -- Ripped out his heart. This is our guy.
+XANDER	Or a copycat Spider Demon.
+BUFFY	I don't know. It's on the trees.
+XANDER	Ugghh... it's sticky.
+BUFFY	Willow said it was a spider -- maybe it's his webbing.
+XANDER	This isn't springy, high-flying fun...
+BUFFY	Xander...
+XANDER	Is that it?
+BUFFY	I can't tell. There seems to be something moving...
+XANDER	Maybe there's some way we can lure it --
+BUFFY	Xander!
+XANDER	Ughh -- It smells like cabbage.
+BUFFY	Uh-huh...
+XANDER	We could go home, get more swords, perhaps some sort of... Spider Demon protection amulet... then come back and --
+BUFFY	I'm more concerned where that thing came from. If there are more of these spider demons running around, we need to know about it. We should hit the research, find out if --
+WILLOW	I know where it came from.
+BUFFY	How many?
+WILLOW	Ten, twelve.
+XANDER	When were you planning on telling us this?
+WILLOW	I'm telling you now.
+XANDER	Great. Thank you. Willow... This is Anya . How could you let us -- How could you not have told us?
+BUFFY	Xander...
+XANDER	How could you not have told me?
+BUFFY	Xander, it's okay. She didn't tell us for a reason.
+HALLIE	I swear, I'm in awe of you.
+ANYA	Oh stop.
+HALLIE	Oh I will not.
+ANYA	I grant wishes. It's all inside the girl. I just bring it out.
+HALLIE	Yes, I'm sure this is what she had in mind.
+ANYA	Well, I don't know about her mind ...
+HALLIE	What should we do with the rest of our evening? I hear they're going to raze the Winter Mansion...
+ANYA	I thought we'd go down to Madame Dubasov's. Hard to find a better spot for vengeance than a brothel.
+HALLIE	Oh, it's always work, work, work with you.
+ANYA	Of course. What else is there?
+HALLIE	What else is there? Well, the world, for one. I mean, sweetie, look around you. There's so much to see --
+ANYA	What's there to be interested in? The worker will overthrow absolutism and lead the proletariat to a victorious communist revolution, resulting in socio-economic paradise on Earth. It's common sense, really. I have better things to worry about.
+HALLIE	But Anyanka, there's a whole world out there...
+ANYA	Yes, filled with wronged women who need my help.
+HALLIE	You're talking about work --
+ANYA	I'm talking about life. Vengeance is what I do, Halfrek. I don't need anything else.
+BUFFY	She's not the Anya you knew, Xander. She's a demon.
+XANDER	That doesn't mean you have to kill her.
+BUFFY	Don't act like this is easy for me. You know it's not.
+XANDER	There are other options.
+BUFFY	I've considered them.
+XANDER	When? Just now? Took you all of ten seconds to decide to kill one of your best friends.
+BUFFY	The thought that it might come to this has occurred to me before. It's occurred to you too.
+XANDER	We can change what she did. Fix it. (to Willow) These are mystical deaths, right? There has to be something --
+WILLOW	I don't have anywhere near that kind of power. I didn't even have that kind of power when...
+BUFFY	It's okay. I know this is hard for you to hear, but it's what I have to do.
+XANDER	Hard for me to hear? Buffy, you want to kill Anya.
+BUFFY	I don't want to --
+XANDER	Then don't. This isn't new ground for us. When our friends go all crazy and start killing people, we help them.
+WILLOW	Sitting right here...
+XANDER	I'm sorry... But it's true.
+BUFFY	It's different.
+XANDER	Only because you don't care about her the way I do. Only because you don't...
+BUFFY	I know. And that's why you can't see this for what it is. Willow was different. She's human. Anya's a demon.
+XANDER	And you're the slayer. I see now how it's all very simple.
+BUFFY	It's never simple, Xander.
+XANDER	No, of course not, you know, if there's a mass-murdering demon that you're, oh, say, boning, then it's all a grey area...
+BUFFY	Spike was harmless. He was HELPING.
+XANDER	He had no choice!
+BUFFY	And Anya did! She chose to become a demon. TWICE!
+XANDER	You don't understand what she's going through.
+BUFFY	I don't care what she's going through.
+XANDER	Of course not. You think we haven't all seen this before? The part where you just cut us all out, just step away from everything human and act like you're the Law. If you felt what --
+BUFFY	I KILLED ANGEL. Do you even remember that? I would have given up everything to be with... I loved him more than anything I will ever love in this life and I put a sword through his heart because I had to .
+WILLOW	And that all worked out okay...
+BUFFY	You remember cheering me on? Both of you? You remember giving me Willow's message: "Kick his ass?"
+WILLOW	I never said --
+XANDER	This is different.
+BUFFY	It's always different. It's always complicated and at some point someone has to draw a line and that is always going to be me. You get down on me for cutting myself off, but in the end the Slayer's always cut off. There's no mystical guidebook, no all- knowing council -- human rules don't apply and Father doesn't know best. There's only me. I am the Law.
+XANDER	There has to be another way.
+BUFFY	Then please find it.
+WILLOW	I can't, I'm sorry.
+WILLOW	Blessed be in the name of D'Hoffryn. Let this space be now a gateway to the world of Arashmaharr.
+HOFFRYN	BEHOLD D'HOFFRYN! LORD OF ARASHMAHARR, HE THAT TURNS THE AIR TO BLOOD AND RAINS DEATH UPON -- (looking around) Ms. Rosenberg! How lovely to see you again. Have you done something with your hair?
+WILLOW	Hello, D'Hoffryn.
+HOFFRYN	I figured I'd be hearing from you soon. The flaying of Warren Meers... Truly inspired. That was water cooler vengeance. Lloyd has a sketch of it on his wall.
+WILLOW	That's not me anymore.
+HOFFRYN	Is that right? So I didn't feel your presence earlier today? I didn't feel... a bit of the old you?
+WILLOW	We need to talk about Anya.
+HOFFRYN	Hmm. Very well. Let's talk about Anyanka.
+XANDER	Have you forced yourself to look at the bodies yet?
+ANYA	What do you want?
+XANDER	I want to help you.
+ANYA	Everyone is so considerate today. I should have slaughtered people weeks ago.
+XANDER	I'm sorry. I'm sorry for everything I did to you, everything I put you through.
+ANYA	Thank you. All better. Thank goodness you got here in time.
+XANDER	You don't understand. This isn't an intervention. Buffy's coming to kill you.
+ANYA	She's coming to try.
+XANDER	Did everybody eat their "crazy flakes" today? You guys are friends -- how can you talk like this?
+ANYA	I have a job to do, Buffy has hers. You've always seen what you wanted to, Xander... But she knew sooner or later it would come to this.
+XANDER	Buffy, get out of here.
+BUFFY	Get out of my way, Xander.
+XANDER	No.
+ANYA	Get out of her way, Xander.
+BUFFY	Anya, I'm sorry.
+ANYA	You're apologizing to me? What fight are you watching?
+XANDER	...just want... happy... ending...
+ANYA	Honey... honey...
+XANDER	Wha -- I'm awake... I'm okay...
+ANYA	Honey, was that weird? The thing earlier with the singing... and the coconuts?
+XANDER	What? No... It's fine...
+MAN	OH NO MUSTARD ON MY SHIRT
+MY	FAVORITE SHIRT HOW COULD YOU SERVE MUSTARD
+WOMAN	OH NO
+MUSTARD	WE'LL NEVER GET IT OUT- DRY CLEAN IT
+ANYA	Are you still hungry? Because I'd be happy to --
+HARRIS	THAT'S WHAT HE IS TO THE WORLD OUTSIDE THAT'S THE NAME HE CARRIES WITH PRIDE I'M JUST LATELY ANYA NOT VERY MUCH TO THE WORLD I KNOW ALL THESE YEARS WITH NOTHING TO SHOW
+TROLL	I'VE WREAKED SOME WRATH BUT ON THE WHOLE I'VE HAD NO PATH I LIKE TO BOWL I'M GOOD WITH MATH BUT WHO AM I NOW I REPLY
+MRS	I WILL BE HIS MRS MRS ANYA CHRISTINA EMMANUELLA JENKENS HARRIS
+ANYA	WHAT'S THE POINT OF LOVING I MEAN EXCEPT FOR THE SWEATY PART WHAT'S THE POINT OF LOSING YOUR HEART
+LUCKY	BEING A PAIR MAKES YOU TWICE AS TALL MAYBE YOU'RE NOT LOSING AT ALL
+ANYA	NO NEED TO COVER UP MY HEART PLUS SEE ABOVE RE: SWEATY PART SO MAYBE LOVE IS PRETTY SMART
+I	I FOUND MY GUY
+MRS	I WILL BE HIS MRS MRS ANYA LAME-ASS MADE-UP MAIDEN NAME HARRIS
+ANYA	WE'LL NEVER PART NOT IF WE CAN AND IF WE START THEN HERE'S MY PLAN I'LL SHOW HIM WHAT BLISS IS WELCOME HIM WITH KISSES 'CAUSE THIS IS A MRS WHO MISSES HER MAN
+ANYA	HE'S MY XANDER AND HE'S AWFULLY SWELL IT MAKES FINANCIAL SENSE AS WELL ALTHOUGH HE CAN B -- I'LL NEVER TELL JUST STAND ASIDE HERE COMES THE BRIDE
+ANYA	I'LL BE MRS I WILL BE HIS MRS
+XANDER	Anya...
+ANYA	I'd forgotten how much swords through the chest hurt.
+BUFFY	I'm just getting started.
+ANYA	Stop trying to save me, Xander!
+HOFFRYN	Please, don't mind me. Continue with whatever it was you were doing.
+I	have high hopes for her.
+XANDER	Stay away from Willow.
+HOFFRYN	Oh, he's gallant, isn't he? I understand what you saw in him.
+XANDER	Her name is Anya.
+HOFFRYN	Actually, funny historical sidebar, her orig --
+ANYA	I want to take it back.
+HOFFRYN	I'm sorry. What was that?
+ANYA	I want to take it back. I want to undo what I did.
+HOFFRYN	Hm. You want to take it back. Must be twelve bodies in there. Such a thing -- not easily done... But not impossible.
+ANYA	Do it.
+XANDER	Wait --
+ANYA	Stay out of this, Xander.
+XANDER	Okay. Yes. That seems smart. He just said you have to die! Perhaps there's some sort of alternate price. Something that involves grueling, hard labor. At fair market value taking into account your project's special needs.
+ANYA	Xander -- You can't help me. I'm not even sure... there's a "me" for you to help.
+HOFFRYN	You're sure. This is your wish?
+ANYA	This is my wish. Undo what I did.
+HOFFRYN	Very well.
+XANDER	No --
+HALLIE	Anya!
+ANYA	Hallie --
+HOFFRYN	Who did you think you were dealing with?! Did you think it would be that easy to get away?!
+ANYA	Why...
+HOFFRYN	Why? Because you wished it.
+ANYA	But she was yours...
+HOFFRYN	The way you were mine? Haven't I taught you anything, Anya ? Never go for the kill when you can go for the pain.
+ANYA	You should have killed me...
+HOFFRYN	Oh, I wouldn't worry about that, "From beneath you it devours." Be patient... all good things in time.
+BUFFY	Go. I'll go check on the... boys.
+XANDER	Anya -- wait.
+ANYA	Xander, please. Just go away.
+XANDER	Whatever's between us, it doesn't matter. You shouldn't be alone in this.
+ANYA	Yes I should.
+XANDER	Well, speaking as a cling-ee, kinda didn't mind.
+ANYA	Thanks. For everything.
+XANDER	Don't be a dope.
+ANYA	I'm a dope?
+XANDER	Sometimes...
+ANYA	Well, that's a start.
+DAWN	My advice to you is do exactly what everyone else does, all the time.
+WILLOW	Got it.
+DAWN	Do what everyone else does, wear what everyone else wears, say what everyone else says.
+WILLOW	Okay.
+DAWN	People may say something you don't understand. Don't be afraid to keep your month shut and pretend like you know what they're talking about.
+WILLOW	You know, I've been to college before, Dawn.
+DAWN	They may say something like, "My protein window closes in an hour." Just smile and nod. Turns out it has something to do with fitness.
+BUFFY	So have you talked to her?
+XANDER	Not since that night with the Gnarl demon. And that wasn't exactly the "how have you been?" kind of talking. More the "pierce its eyes with something sharp" kind of talking. I'm thinking I should call her.
+BUFFY	I just don't want you to get your hopes up, that's all.
+XANDER	Hopes? Oh no no -- there are no hopes. Anya and I are done, I love being single. I'm a strong successful male who's giddy at the thought of all the women I will no doubt be dating in the near future --
+BUFFY	Strong successful males say "giddy?"
+XANDER	I just worry about her, that's all.
+WILLOW	Anya?
+XANDER	She seems so sad.
+DAWN	She should try acting like everyone else more.
+WILLOW	That's what the kids are doing now a days.
+BUFFY	I'm not sure I get the sad vibe, but there's definitely a vengeance vibe worth worrying about.
+XANDER	Oh that -- no. I don't worry about that. She was hurt and she just turned to what she knew when I... you know... but that's not her anymore.
+BUFFY	I hope you're right.
+XANDER	She turned that worm guy back before any real harm was done right? It just takes a little time. Her heart's not in it...
+OLAF	Frukta inte! Det krävz mer än en skara mindre troll för att få ner stora Olaf!
+OLAF	Fear not! It takes more than a band of minor trolls to bring down the mighty Olaf!
+ANYA	Troll!
+ANYA	Trolls!
+OLAF	Åh! De är verkligen vrickade kreatur. Blotta tanken får mej att gå på knäna.
+OLAF	Oh! They are wretched creatures indeed. The mere thought of them makes me bend at the knee and flex.
+OLAF	Jag år ok. Verkligen. Fast jag tar gårna lite mjöd.
+OLAF	I am fine. Really. I could go for some mead, though.
+OLAF	Fantiserar jag, eller är det riktigt att vi har otroligt många fler kaniner här inne idag?
+OLAF	Is it my imagination, or do we have substantially more rabbits in the house today?
+ANYA	Älskling, självklart. Men här -- drick din mjod först.
+ANYA	Honey, of course. But here -- drink your mead first.
+ANYA	
+ANYA	Did the trolls hurt you? Their mossy skin does not reflect their churlish heart.
+OLAF	(Swedish; laughing) Jag mår toppen -- Snälla, sluta gräma dej över mej. Beråtta om din dag.
+OLAF	(English; laughing) I am fine -- Please, stop fretting over me. Tell me of your day.
+OLAF	Mmmmmm...
+OLAF	Mmmmmm...
+ANYA	Du har varit på krogen...
+ANYA	You've been to the bar...
+OLAF	
+OLAF	Oh, Aud. Forget it and please me now.
+ANYA	Jag tycker inte om att du går dit.
+ANYA	I do not like you going there.
+OLAF	Det är inte mitt fel att de inte år vänliga mot dej. Du har alltid varit aggressiv för att du inte går ihop med folk. Du säger vad du tycker och är mest besvärande. Det är en av egenskaperna jag älskar mest hos dej.
+OLAF	It is not my fault they don't take kindly to you. You've always been most aggressive in your not- fitting-in with people. You speak your mind, and are annoying. (he smiles) It's one of the things I love most about you.
+ANYA	Var Rannveig there?
+ANYA	Was Rennveig there?
+SPIKE	Dunno how to explain it, exactly. It's like I been seeing things...
+BUFFY	What sort of things?
+SPIKE	Things. People, I guess.
+BUFFY	Spike --
+SPIKE	I'm in trouble, Buffy.
+SPIKE	I could never ask. Not after...
+BUFFY	It's different, You're different.
+SPIKE	I could never ask...
+BUFFY	Spike, it's me. It's you and it it's me. And we'll get through this.
+SPIKE	Never...
+BUFFY	We'll get through this.
+SPIKE	Can't hear you... Can't hear you...
+BUFFY	You have a soul? Fine. Show me,
+SPIKE	Scream "Montresor" all you like, pet.
+BUFFY	Get up and get out of this basement.
+SPIKE	I don't have anywhere else to go.
+BUFFY	You have everywhere else to go. Because there's no place worse than where you are right now.
+HAWKINS	Willow, Willow -- it's okay. We'll get you caught up in no time.
+WILLOW	Really?
+HAWKINS	What am I gonna say -- "No, I don't want my best student back in my class?"
+WILLOW	That was --
+HAWKINS	-- but then, voila!, you turned around and aced all your finals. Like magic.
+WILLOW	Yeah... similar to... but only...
+HAWKINS	Look, cone see me during office hours tomorrow --
+WILLOW	Oh -- okay. Thanks professor.
+ANYA	Willow. What are you doing here?
+WILLOW	Oh! I'm starting back up at school.
+ANYA	Oh. I, uh, have a new boyfriend now. He lives there.
+WILLOW	That's great!
+ANYA	Yes. We just had lots and lots of sex.
+WILLOW	Okay. This is so great. I'm so happy to hear that you've --
+ANYA	Yes, we're tremendously happy together. Now, if you'll excuse me, I'm late for something... very important.
+WILLOW	Uh, okay, yeah. See you later.
+RACHEL	...I take it .....
+WILLOW	What do you take back? What happened?
+WILLOW	It's okay. You're okay now.
+RACHEL	They laughed and they laughed... and I cried... they laughed... And I yelled...
+WILLOW	Okay, c'mon... what came? What did this?
+RACHEL	A spider...
+ANYA	Thank you.
+HOFFRYN	What is that, a Woodlow Transmogrific Spell?
+ANYA	Thornton's Hope.
+HOFFRYN	Thornton's Hope... But how did you get the troll element?
+ANYA	Eelsbane.
+HOFFRYN	Eelsbane . (looks at sky) Brilliant. What'd he do?
+ANYA	Bar matron. A load-bearing bar matron.
+HOFFRYN	Is there any other kind? I'm sorry -- how rude of me. Allow me to introduce myself. My name is D'Hoffryn.
+ANYA	I am Aud.
+HOFFRYN	Are you? Hm. I'm afraid you don't see your true self. You are Anyanka.
+HOFFRYN	I'm the patron of a... family of sorts. We're Vengeance Demons. I'm sure you've heard of us.
+ANYA	No. I'm sorry.
+HOFFRYN	Oh, well, that's quite --
+ANYA	Don't feel bad. I don't talk to people much. I mean, I talk to them, but they don't talk to me. Except to say, "Your questions are irksome" and "Perhaps you should take your furs and your literal interpretations to the other side of the river." I'm sure your group is quite well known.
+ANYA	Why do you keep calling me that? My name is "Aud."
+HOYFRYN	Perhaps. But Anyanka is who you are.
+ANYA	What would I have to do?
+ANYA	Vengeance...
+HOFFRYN	But only to those that deserve it.
+ANYA	They all deserve it.
+HOFFRYN	That's where I was going with that, yeah.
+ANYA	Oh, it's nothing. I don't... There was just so much screaming. So much blood.
+HALLIE	Oh, tell me about it. They can be feisty little guys. And impossible to housetrain. Once they start nesting, forg --
+ANYA	I guess I'm just a little rusty. I didn't think it would hit me like this.
+HALLIE	Ohhh, sweetie. This is perfectly normal. We all go through this from time to time. I remember, years ago, I covered this little chimney sweep's parents in tuberculosis bacteria... (she shudders) I couldn't sleep for two weeks.
+ANYA	Really?
+HALLIE	Oh, I threw up for an hour and a half straight. It's normal. It's a reflex. You'll get over it in no time. Trust me.
+HALLIE	Sweetie. Of course.
+ANYA	It's just, lately, with everything that's been going on, I've been having trouble even rememb --
+HALLIE	Lemon drop, if you think I'm --
+WILLOW	Get. Out.
+ANYA	It's okay.
+HALLIE	Anyanka.
+ANYA	It's fine.
+HALLIE	Okay... but if you need me, you holler.
+ANYA	Hi Willow.
+WILLOW	Anya, you have to stop this.
+ANYA	I don't have any idea what you're --
+WILLOW	Anya listen to me. You're in trouble. You know it. I'm here to help you.
+ANYA	You're here to -- That's great, Willow. Flayed anybody lately, have you? How quickly they forget.
+WILLOW	I haven't forgotten a second of it.
+ANYA	What do you want?
+WILLOW	I want to help y --
+ANYA	They got what they deserved!
+WILLOW	No. They...
+ANYA	I'm a Vengeance Demon . Do you understand that?
+WILLOW	No...
+ANYA	Try . They got what they deserved.
+BUFFY	Thanks for the sidekicking. I didn't want to trouble Willow. Figure she's got enough to do, first day back and all.
+XANDER	Are you kidding me? We're doing vent work at the site. Anything's better than breathing freon for eight hours. (looking around) She say what this thing is?
+BUFFY	Some sort of spider demony thing. She got off the phone pretty quick. Had to sign up for classes or something.
+XANDER	Ah yes, there is little that can distract the Willow when she is on the hunt for the mighty Syllabi.
+BUFFY	She didn't say. But I can't imagine she'd send us off like this if it was -- Ripped out his heart. This is our guy.
+XANDER	Or a copycat Spider Demon.
+BUFFY	I don't know. It's on the trees.
+XANDER	Ugghh... it's sticky.
+BUFFY	Willow said it was a spider -- maybe it's his webbing.
+XANDER	Is that it?
+BUFFY	I can't tell. There seems to be something moving...
+BUFFY	Uh-huh...
+XANDER	We could go home, get more swords, perhaps some sort of... Spider Demon protection amulet... then come back and --
+BUFFY	How many?
+WILLOW	Ten, twelve.
+XANDER	When were you planning on telling us this?
+WILLOW	I'm telling you now.
+XANDER	Great. Thank you. Willow... This is Anya . How could you let us -- How could you not have told us?
+BUFFY	Xander...
+XANDER	How could you not have told me?
+HALLIE	I swear, I'm in awe of you.
+ANYA	Oh stop.
+HALLIE	Oh I will not.
+ANYA	I grant wishes. It's all inside the girl. I just bring it out.
+HALLIE	Yes, I'm sure this is what she had in mind.
+ANYA	Well, I don't know about her mind ...
+HALLIE	What should we do with the rest of our evening? I hear they're going to raze the Winter Mansion...
+ANYA	I thought we'd go down to Madame Dubasov's. Hard to find a better spot for vengeance than a brothel.
+HALLIE	Oh, it's always work, work, work with you.
+ANYA	Of course. What else is there?
+HALLIE	What else is there? Well, the world, for one. I mean, sweetie, look around you. There's so much to see --
+ANYA	What's there to be interested in? The worker will overthrow absolutism and lead the proletariat to a victorious communist revolution, resulting in socio-economic paradise on Earth. It's common sense, really. I have better things to worry about.
+HALLIE	But Anyanka, there's a whole world out there...
+ANYA	Yes, filled with wronged women who need my help.
+HALLIE	You're talking about work --
+ANYA	I'm talking about life. Vengeance is what I do, Halfrek. I don't need anything else.
+BUFFY	She's not the Anya you knew, Xander. She's a demon.
+XANDER	That doesn't mean you have to kill her.
+BUFFY	Don't act like this is easy for me. You know it's not.
+XANDER	There are other options.
+BUFFY	I've considered them.
+XANDER	When? Just now? Took you all of ten seconds to decide to kill one of your best friends.
+BUFFY	The thought that it might come to this has occurred to me before. It's occurred to you too.
+XANDER	We can change what she did. Fix it. (to Willow) These are mystical deaths, right? There has to be something --
+WILLOW	I don't have anywhere near that kind of power. I didn't even have that kind of power when...
+BUFFY	It's okay. I know this is hard for you to hear, but it's what I have to do.
+XANDER	Hard for me to hear? Buffy, you want to kill Anya.
+BUFFY	I don't want to --
+XANDER	Then don't. This isn't new ground for us. When our friends go all crazy and start killing people, we help them.
+WILLOW	Sitting right here...
+XANDER	I'm sorry... But it's true.
+BUFFY	It's different.
+XANDER	Only because you don't care about her the way I do. Only because you don't...
+BUFFY	I know. And that's why you can't see this for what it is. Willow was different. She's human. Anya's a demon.
+XANDER	And you're the slayer. I see now how it's all very simple.
+BUFFY	It's never simple, Xander.
+XANDER	No, of course not, you know, if there's a mass-murdering demon that you're, oh, say, boning, then it's all a grey area...
+BUFFY	Spike was harmless. He was HELPING.
+XANDER	He had no choice!
+BUFFY	And Anya did! She chose to become a demon. TWICE!
+XANDER	You don't understand what she's going through.
+BUFFY	I don't care what she's going through.
+XANDER	Of course not. You think we haven't all seen this before? The part where you just cut us all out, just step away from everything human and act like you're the Law. If you felt what --
+BUFFY	I KILLED ANGEL. Do you even remember that? I would have given up everything to be with... I loved him more than anything I will ever love in this life and I put a sword through his heart because I had to .
+WILLOW	And that all worked out okay...
+BUFFY	You remember cheering me on? Both of you? You remember giving me Willow's message: "Kick his ass?"
+WILLOW	I never said --
+XANDER	This is different.
+BUFFY	It's always different. It's always complicated and at some point someone has to draw a line and that is always going to be me. You get down on me for cutting myself off, but in the end the Slayer's always cut off. There's no mystical guidebook, no all- knowing council -- human rules don't apply and Father doesn't know best. There's only me. I am the Law.
+XANDER	There has to be another way.
+BUFFY	Then please find it.
+WILLOW	Hello, D'Hoffryn.
+HOFFRYN	I figured I'd be hearing from you soon. The flaying of Warren Meers... Truly inspired. That was water cooler vengeance. Lloyd has a sketch of it on his wall.
+WILLOW	That's not me anymore.
+HOFFRYN	Is that right? So I didn't feel your presence earlier today? I didn't feel... a bit of the old you?
+WILLOW	We need to talk about Anya.
+XANDER	Have you forced yourself to look at the bodies yet?
+ANYA	What do you want?
+XANDER	I want to help you.
+ANYA	Everyone is so considerate today. I should have slaughtered people weeks ago.
+XANDER	I'm sorry. I'm sorry for everything I did to you, everything I put you through.
+ANYA	Thank you. All better. Thank goodness you got here in time.
+XANDER	You don't understand. This isn't an intervention. Buffy's coming to kill you.
+ANYA	She's coming to try.
+XANDER	Did everybody eat their "crazy flakes" today? You guys are friends -- how can you talk like this?
+ANYA	I have a job to do, Buffy has hers. You've always seen what you wanted to, Xander... But she knew sooner or later it would come to this.
+BUFFY	Get out of my way, Xander.
+XANDER	No.
+ANYA	Get out of her way, Xander.
+BUFFY	Anya, I'm sorry.
+ANYA	You're apologizing to me? What fight are you watching?
+ANYA	Honey... honey...
+XANDER	Wha -- I'm awake... I'm okay...
+ANYA	Honey, was that weird? The thing earlier with the singing... and the coconuts?
+XANDER	What? No... It's fine...
+MAN	OH NO MUSTARD ON MY SHIRT
+MY	FAVORITE SHIRT HOW COULD YOU SERVE MUSTARD
+WOMAN	OH NO
+MUSTARD	WE'LL NEVER GET IT OUT- DRY CLEAN IT
+BUFFY	I'm just getting started.
+XANDER	Stay away from Willow.
+HOFFRYN	Oh, he's gallant, isn't he? I understand what you saw in him.
+XANDER	Her name is Anya.
+HOFFRYN	Actually, funny historical sidebar, her orig --
+ANYA	I want to take it back.
+HOFFRYN	I'm sorry. What was that?
+ANYA	Do it.
+XANDER	Wait --
+ANYA	Stay out of this, Xander.
+XANDER	Okay. Yes. That seems smart. He just said you have to die! Perhaps there's some sort of alternate price. Something that involves grueling, hard labor. At fair market value taking into account your project's special needs.
+ANYA	Xander -- You can't help me. I'm not even sure... there's a "me" for you to help.
+HOFFRYN	You're sure. This is your wish?
+ANYA	This is my wish. Undo what I did.
+HOFFRYN	Very well.
+ANYA	Why...
+HOFFRYN	Why? Because you wished it.
+ANYA	But she was yours...
+HOFFRYN	The way you were mine? Haven't I taught you anything, Anya ? Never go for the kill when you can go for the pain.
+ANYA	You should have killed me...
+HOFFRYN	Oh, I wouldn't worry about that, "From beneath you it devours." Be patient... all good things in time.
+ANYA	Xander, please. Just go away.
+XANDER	Whatever's between us, it doesn't matter. You shouldn't be alone in this.
+XANDER	Well, speaking as a cling-ee, kinda didn't mind.
+ANYA	Thanks. For everything.
+XANDER	Don't be a dope.
+ANYA	I'm a dope?
+XANDER	Sometimes...
+ANYA	Well, that's a start.

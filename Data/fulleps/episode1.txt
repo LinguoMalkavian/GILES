@@ -1,0 +1,813 @@
+GIRL	Are you sure this is a good idea?
+BOY	It’s a great idea! Come on.
+GIRL	You go to school here?
+BOY	Used to. On top of the gym, it’s so cool – you can see the whole town.
+GIRL	I don’t want to go up there.
+BOY	Oh, you can’t wait, huh?
+GIRL	We’re just gonna get in trouble
+BOY	Count on it.
+GIRL	What was that?
+BOY	What was what?
+GIRL	I heard a noise.
+BOY	It’s nothing.
+GIRL	Maybe it’s something…
+BOY	Maybe it’s some Thing ...
+GIRL	That’s not funny.
+BOY	Hello…?
+BOY	There’s nobody here.
+GIRL	Are you sure?
+BOY	I’m sure.
+GIRL	Okay…
+BUFFY	I’m up, mom.
+BUFFY	No… wouldn’t want that…
+JOYCE	Now, you have a good time. I know you’ll make friends right away. Think positive. And honey… try not to get kicked out.
+BUFFY	I promise.
+XANDER	Coming through… Coming through… Not certain how to stop…
+XANDER	Willow! You’re so much the person I wanted to see.
+WILLOW	Really?
+XANDER	Yeah. You know, I kind of had a problem with the math.
+WILLOW	Which part?
+XANDER	The math. Can you help me tonight? Please? Be my study buddy?
+WILLOW	Well, what’s in it for me?
+XANDER	A shiny nickel…
+WILLOW	Okay. Do you have “Theories in Trig?” You should check it out.
+XANDER	Check it out?
+WILLOW	From the library. Where the books live.
+XANDER	Right. I’m there. See, I want to change.
+JESSE	Hey.
+XANDER	Jesse! What’s what.
+JESSE	New girl!
+XANDER	That’s right, I saw her. She’s pretty much a hotty.
+WILLOW	I heard someone was transferring here.
+XANDER	So. Tell.
+JESSE	Tell what?
+XANDER	What’s the sitch? What do you know about her?
+JESSE	New girl.
+XANDER	Well, you’re certainly a font of nothing.
+FLUTIE	Buffy Summers. Sophomore, late of Hemery High in Los Angeles. Interesting record. Quite a career.
+FLUTIE	Welcome to Sunnydale. A clean slate, Buffy, that’s what you get here. What’s past is past. We’re not interested in what it says on a piece of paper. Even if it says -- whoa. At Sunnydale we nurture the whole student. The inner student.
+FLUTIE	Other schools might looks at the incredible decline in grade point average – we look at the struggling young woman with the incredible decline in grade point average. Other schools might look at the reports of gang fights –
+BUFFY	Mr. Flutie –
+FLUTIE	All the kids here are free to call me Bob –
+BUFFY	Bob –
+FLUTIE	--but they don’t.
+BUFFY	Mr. Flutie. I know my transcripts are a little colorful –
+FLUTIE	Hey, we’re not caring about that! Do you think “colorful” is the word? Not “dismal”? Just off hand, I’d go with “dismal.”
+BUFFY	It wasn’t that bad.
+FLUTIE	You burned down the gym.
+BUFFY	I did. I really did. But you gotta see the big picture. I mean, the gym was full of vamp… uh, asbestos.
+FLUTIE	Buffy. Don’t worry. Any other school, they might say “watch your step”, or, “we’ll be watching you” or, “get within a hundred yards of the gym with a book of matches and you’ll grow up in juvie hall” but that’s just not the way here. We want to service your needs, and help you to respect our needs. And if you needs and our needs don’t mesh…
+XANDER	Can I have you? Dyeh – can I help you?
+BUFFY	Oh, thanks…
+XANDER	I don’t know you, do I?
+BUFFY	I’m new. I’m Buffy.
+XANDER	Xander. Is me. Hi.
+BUFFY	Thanks.
+XANDER	Maybe I’ll see you around. Maybe at school, since we both… go there…
+BUFFY	Great. Nice to meet you.
+XANDER	“We both go to school…” Very suave. Very not pathetic.
+XANDER	Oh, hey, you forgot your… …stake…
+TEACHER	It’s estimated that about 25 million people died in that one four year span. But the fun part of the Black Plague is that it originated in Europe how? As an early form of germ warfare. The plague was first found in Asia, and a Kipchak army actually catapulted plague-infested corpses into a Genoese trading post. Ingenious. If you look at the map on page 63 you can trace the spread of the disease…
+CORDELIA	Here.
+BUFFY	Thanks.
+TEACHER	And this popular plague led to what social changes?
+CORDELIA	Hi, I’m Cordelia.
+BUFFY	I’m Buffy.
+CORDELIA	If you’re looking for a textbook of your very own, there’s probably a few in the Library.
+BUFFY	Oh, great. Thanks. Where would that be?
+CORDELIA	I’ll show you.
+CORDELIA	You transferred from Hemery, right? In L.A.?
+BUFFY	Yeah.
+CORDELIA	Oh! I would kill to live in L.A. Being that close to that many shoes… Why’d you come here?
+BUFFY	Because my Mom moved, is the reason. I mean we both moved. But my Mom wanted to.
+CORDELIA	Well, you’ll be okay here. If you hang with me and mine you’ll be accepted in no time. Of course we do have to test your coolness factor. You’re from L.A., so you can skip the written, but, let’s see… Vamp nail polish.
+BUFFY	Over?
+CORDELIA	SO over. James Spader.
+BUFFY	He needs to call me.
+CORDELIA	Trendy but tasty. John Tesh.
+BUFFY	The Devil?
+CORDELIA	Well, that was pretty much a gimme, but you passed.
+BUFFY	Oh, good.
+CORDELIA	Willow! Nice dress Good to know you’ve seen the softer side of Sears.
+WILLOW	Well my Mom picked it out.
+CORDELIA	No wonder you’re such a guy-magnet. Are you done?
+WILLOW	Oh.
+CORDELIA	You wanna fit in here, the first rule is “know your losers”. Once you can identify them all by sight, they’re a lot easier to avoid.
+CORDELIA	--and if you’re not too swamped with catching up you should come out to the Bronze tonight.
+BUFFY	The who?
+CORDELIA	The Bronze. It’s the only club worth going to around here. They let anybody in but it’s still the scene. It’s in the bad part of town.
+BUFFY	Where’s that?
+CORDELIA	About half a block from the good part of town. We don’t have a whole lot of town. You should show.
+BUFFY	Well, I’ll try, thanks.
+CORDELIA	Good. I’ll see you at gym and you can tell me absolutely everything there is to know about yourself.
+BUFFY	That sounds like fun… CUT TO:
+BUFFY	Hello… Is anybody here?
+GILES	Can I help you?
+BUFFY	I was looking for some, well, books. I’m new.
+GILES	Miss Summers.
+BUFFY	Good call. I guess I’m the only new kid.
+GILES	I’m Mr. Giles, the librarian.
+BUFFY	Great. So you have, uh, --
+GILES	I know what you’re after.
+BUFFY	That’s not what I’m looking for.
+GILES	Are you sure?
+BUFFY	I’m way sure.
+GILES	My mistake.
+GILES	So, what is it you said –
+BUFFY	Uh, hi. Willow, right?
+WILLOW	Why? I mean Hi. Did you want me to move?
+BUFFY	Why don’t we start with “hi, I’m Buffy.” And then let’s segue directly into me asking you for a favor. It doesn’t involve moving, but it does involve you hanging out with me for a while.
+WILLOW	But aren’t you… hanging with Cordelia?
+BUFFY	I can’t do both?
+WILLOW	Not legally.
+BUFFY	Look, I really want to get by here. New school… Cordelia’s been really nice – to me, anyway – but I have this burning desire not to flunk all my classes, and I heard a rumor that you were the person to talk to if I wanted to get caught up.
+WILLOW	Oh, I could totally help you out! If you have sixth period free we could meet in the library –
+BUFFY	–or not. Or, you know, we could meet somewhere quieter. Louder. That place kind of gives me a wiggins.
+WILLOW	It has that effect on most kids. I love it, though. It’s a great collection, and the new librarian’s really cool.
+BUFFY	He’s new?
+WILLOW	Yeah, he just started. He was a curator of some British Museum. Or the British museum, I’m not sure. But he knows everything and he brought all these historical volumes and biographies and am I the single dullest person alive?
+BUFFY	Not at all!
+XANDER	Hey. Are you guys busy? Can we interrupt? We’re interrupting.
+BUFFY	Hey.
+JESSE	Hey there.
+WILLOW	Buffy, this is Jesse, and that’s Xander.
+XANDER	Oh, me and Buffy go way back. Old friends, very close. Then there was that period of estrangement, I think we were both changing as people, but here we are and it’s like old times, I’m quite moved.
+JESSE	Is it me, or are you turning into a bibbling idiot?
+XANDER	It’s not you.
+BUFFY	It’s nice to meeting you guys… I think.
+JESSE	Well, we wanted to welcome you, make you feel at home. Unless you have a scary home.
+XANDER	And to return this.
+XANDER	The only thing I can figure is that you’re building a really little fence.
+XANDER	So. What do you like, what do you do for fun, what do you look for in a man… Let’s hear it.
+JESSE	If you have any dark, painful secrets that we could publish…
+BUFFY	Gee, everybody wants to know about me. How keen.
+XANDER	Well, not a lot happens in a one-Starbucks town like Sunnydale. You’re big news.
+BUFFY	I’m not. Really.
+CORDELIA	Are these people bothering you?
+BUFFY	Oh! No.
+WILLOW	She’s not hanging out with us.
+JESSE	Hey, Cordelia.
+CORDELIA	Oh, please. I don’t want to interrupt your downward mobility. I just thought I’d tell you that you won’t be meeting Coach Foster, the woman with chest hair, because gym has been canceled due to the extreme dead guy in the locker.
+BUFFY	What?
+WILLOW	What are you talking about?
+CORDELIA	Some guy was stuffed in Aura’s locker.
+BUFFY	Dead.
+CORDELIA	Way dead.
+XANDER	So not just a little dead then.
+CORDELIA	Don’t you have an elsewhere to be?
+JESSE	If you need a shoulder to cry on, or just to nibble on –
+BUFFY	How did he die?
+CORDELIA	I don’t know…
+BUFFY	Well, were there any marks?
+CORDELIA	Morbid much? I didn’t ask!
+BUFFY	Uh, look, I gotta book. I’ll see you guys later.
+CORDELIA	What’s her deal?
+FLUTIE	Oh! Buffy! Uh, what do you want?
+BUFFY	Um, is there a guy in there that’s dead?
+FLUTIE	Where did you hear that? Okay. Yes. But he’s not a student! Not currently.
+BUFFY	Do you know how he died?
+FLUTIE	What?
+BUFFY	I mean – how could this have happened?
+FLUTIE	Well, that’s for the police to determine when they get here. But this structure is safe, we have inspections, and I think there’s no grounds for a lawsuit.
+BUFFY	Was there a lot of blood? Was there any blood?
+FLUTIE	I would think you wouldn’t want to involve yourself in this kind of thing.
+BUFFY	I don’t. Could I just take a peek?
+FLUTIE	Unless you already are involved…
+BUFFY	Never mind.
+FLUTIE	Buffy, I understand this is confusing. You’re probably feeling a lot right now. You should share those feelings. With someone else.
+BUFFY	Oh, great ! CUT TO:
+BUFFY	Okay, what’s the sitch?
+BUFFY	You heard about the dead guy, right? The dead guy in the locker?
+GILES	Yes.
+BUFFY	Well, it’s the weirdest thing. He’s got two little holes in his neck and all his blood’s been drained. Isn’t that bizarre? Aren’t you just going, “Ooooh….”
+GILES	I was afraid of this.
+BUFFY	Well, I wasn’t! It’s my first day. I was afraid that I’d be behind in all the classes, that I wouldn’t make any friends, that I’d have last month’s hair. I didn’t think there would be vampires on campus. And I don’t care .
+GILES	Then why are you here?
+BUFFY	To tell you that I don’t care. Which I don’t, and… have now told you. So bye.
+GILES	Will he rise again?
+BUFFY	Who?
+GILES	The boy.
+BUFFY	No, he’s just dead.
+GILES	Can you be sure?
+BUFFY	To make you a vampire they have to suck your blood and then you have to suck their blood, it’s a whole big sucking thing. Mostly they’ll just take all your blood and then you just die – why am I still talking to you?
+GILES	You have no idea what’s going on, do you? Do you think it’s coincidence, your coming here? That boy was just the beginning.
+BUFFY	Oh, why can’t you leave me alone?
+GILES	Because you are the Slayer.
+GILES	Into every generation a slayer is born. One girl, in all the world, a Chosen One. One born with the –
+GILES	--the strength and skill to hunt the vampires –
+BUFFY	The stop the spread of their evil blah blah I’ve heard it, okay?
+GILES	I don’t understand this attitude. You’ve accepted your duty, you’ve slain vampires before –
+BUFFY	Well, I have both been there and done that. And I am moving on.
+GILES	What do you know about this town?
+BUFFY	It’s two hours on the freeway from Neiman Marcus.
+GILES	Dig a bit in the history of this place and you’ll find there’ve been a steady stream of fairly odd occurrences. I believe this area is a center of mystical energy. Things gravitate toward it that you might not find elsewhere.
+BUFFY	Like Vampires.
+GILES	Like werewolves. Zombies. Succubi, incubi… Everything you ever dreaded under your bed and told yourself couldn’t be by the light of day.
+BUFFY	What, did you send away for the Time Life series?
+GILES	Uh, yes.
+BUFFY	Did you get the free phone?
+GILES	The calendar.
+BUFFY	Cool. Okay, first of all, I’m a vampire slayer. And secondly, I’m retired. Hey, I know! Why don’t you kill them?
+GILES	I’m a watcher. I haven’t the skill.
+BUFFY	Oh, come on. Stake through the heart, a little sunlight – it’s like falling off a log.
+GILES	The Slayer slays. The Watcher –
+BUFFY	Watches?
+GILES	Yes. No! He – he – trains her, he prepares her –
+BUFFY	Prepares me for what? For getting kicked out of school? Losing all my friends? Having to spend all my time fighting for my life and never getting to tell anyone because it might ‘endanger’ them? Go ahead. Prepare me.
+XANDER	WHAT? CUT TO:
+GILES	It’s getting worse.
+BUFFY	What’s getting worse?
+GILES	The influx of the undead, the supernatural occurrences. It’s been building for years and now… There’s a reason why you’re here, and there’s a reason why it’s now.
+BUFFY	Because now is the time my mom moved here .
+GILES	Something is coming. Something is going to happen here soon.
+BUFFY	Gee, can you vague that up for me…?
+GILES	As far as I can tell, the signs point to a crucial mystical upheaval very soon – days, possibly less.
+BUFFY	Come on. This is Sunnydale. How bad an evil can there be here?
+LUKE	The sleeper will awaken.
+LUKE	The sleeper will awaken. And the world will bleed.
+LUKE	Amen.
+BUFFY	Hi! I’m an enormous slut! Hi! Would you like a copy of the Watchtower? I used to be so good at this…
+JOYCE	Are you going out tonight, honey?
+BUFFY	Yeah, Mom. I’m going to a club.
+JOYCE	Will there be boys there?
+BUFFY	No, Mom; it’s a nun club.
+JOYCE	Well, just be careful.
+BUFFY	I will.
+JOYCE	I think we can make it work here. I’ve got my positive energy flowing. I’m gonna get the gallery on its feet – We may already have found a space.
+BUFFY	Great.
+JOYCE	And that school is a very nurturing environment, which is what you need.
+BUFFY	Mom…
+JOYCE	Oh, not too nurturing. I know. You’re sixteen, I read all about the dangers of overnurturing. It’s hard. New town, and all. For me, too. I’m trying to make it work. I’m going to make it work.
+BUFFY	I know.
+JOYCE	You’re a good girl, Buffy. You just fell in with the wrong crowd. But that’s all behind us now.
+BUFFY	It is. From now on, I’m only hanging out with the living. I – I mean, the lively… people.
+JOYCE	Okay, have fun.
+ANGEL	Is there a problem, ma’am?
+BUFFY	There’s a problem. Why are you following me?
+ANGEL	I know what you’re thinking, but don’t worry. I don’t bite.
+ANGEL	Truth is, I thought you’d be taller. Or bigger, muscles and all that. You’re pretty spry, though.
+BUFFY	What do you want?
+ANGEL	Same thing you do.
+BUFFY	Okay, what do I want?
+ANGEL	To kill ‘em. To kill ‘em all.
+BUFFY	Sorry! That’s incorrect but you do get this lovely watch and a year’s worth of Turtle Wax what I want … is to be left alone.
+ANGEL	You really think that’s an option anymore? You’re standing at the mouth of Hell. And it’s about to open.
+ANGEL	Don’t turn your back on this. You’ve got to be ready.
+BUFFY	For what?
+ANGEL	The Harvest.
+BUFFY	Who are you?
+ANGEL	Let’s just say I’m a friend.
+BUFFY	Well, maybe I don’t want a friend.
+ANGEL	I didn’t say I was yours …
+BUFFY	Hi!
+WILLOW	Oh, hi! Hi.
+BUFFY	Are you here with someone?
+WILLOW	No, I’m just here. I thought Xander was gonna show up…
+BUFFY	Oh, are you guys going out?
+WILLOW	No. We’re just friends. We used to go out, but we broke up.
+BUFFY	How come?
+WILLOW	He stole my barbie. We were five.
+BUFFY	Oh.
+WILLOW	I don’t actually date a whole lot… lately.
+BUFFY	Why not?
+WILLOW	Well, when I’m with a boy I like, it’s hard for me to say anything cool, or witty, or at all… I can usually make a few vowel sounds, and then I have to go away.
+BUFFY	It’s not that bad. It is. I think boys are more interested in a girl who can talk.
+BUFFY	You really haven’t been dating lately.
+WILLOW	It’s probably easy for you.
+BUFFY	Oh, yeah. Real easy.
+WILLOW	I mean, you don’t seem too shy.
+BUFFY	Well, my philosophy is – do you wanna hear my philosophy?
+WILLOW	I do.
+BUFFY	Life is short.
+WILLOW	Life is short.
+BUFFY	Not original, I’ll grant you. But it’s true. Why waste time being all shy? Why worry about some guy and if he’s gonna laugh at you? You know? Seize the moment. ‘Cause tomorrow you might be dead.
+WILLOW	Oh… That’s nice…
+BUFFY	Uh, I’ll be back in a minute.
+WILLOW	That’s okay. You don’t have to come back.
+BUFFY	I’ll be back in a minute .
+WILLOW	Seize the moment…
+BUFFY	So, you like to party with the students? Isn’t that kind of skanky?
+GILES	Right. This is me having fun. Watching clown-hair prance about is hardly my idea of a party. I’d much prefer to be home with a cup of bovril and a good book.
+BUFFY	STAT .
+GILES	This is a perfect breeding ground for Vampire activity. Dark, crowded… Besides, I knew you were likely to show up. And I have to make you understand –
+BUFFY	That the Harvest is coming, I know, your friend told me.
+GILES	What did you say?
+BUFFY	The… Harvest. That means something to you? ‘Cause I’m drawing a blank.
+GILES	I’m not sure… Who told you this?
+BUFFY	This guy. Dark, gorgeous in an annoying sort of way. I figured you were buds.
+GILES	No… The Harvest… Did he say anything else?
+BUFFY	Something about the mouth of Hell. I really didn’t like him.
+GILES	Look at them. Throwing themselves about…. Completely unaware of the danger that surrounds them.
+BUFFY	Lucky them…
+GILES	Or perhaps you’re right. Perhaps there is no trouble coming. The signs could be wrong. It’s not as though you’re having the nightmares…
+CORDELIA	My mom doesn’t even get out of bed anymore. The doctor says it’s Epstein Barr, I’m like, “ please , it’s chronic hepatitis or at least Chronic Fatigue Syndrome.” I mean nobody cool has Epstein Barr anymore.
+JESSE	Cordelia!
+CORDELIA	Oh, yay, it’s my stalker.
+JESSE	Hey, you look great.
+CORDELIA	Well, I’m glad we had this chat –
+JESSE	Listen, I, um, do you wanna dance?
+CORDELIA	With you?
+JESSE	Well, uh, yeah.
+CORDELIA	Well, uh, no.
+JESSE	Fine. Plenty of other fish in the sea. Oh yeah. I’m on the prowl. Witness me prowling.
+BUFFY	I didn’t say I’d never slay another vampire. I’m just not gonna get way extracurricular with it. If I run into one, sure…
+GILES	But will you be ready? There’s so much you don’t know, about them and about your own powers. A vampire appears to be a normal person, until the feed is upon them. Only then do they reveal their true demonic visage.
+BUFFY	You’re like a textbook with arms! I know this!
+GILES	The point is, a Slayer should be able to see them anyway. Without looking, without thinking. Can you tell me if there’s a vampire in this building?
+BUFFY	Maybe?
+GILES	You should know! Even through this mass and this din you should be able to sense them. Try. Reach out with your mind.
+GILES	You have to hone your senses, focus until the energy washes over you, till you can feel every particle of –
+BUFFY	There’s one.
+GILES	What? Where?
+BUFFY	Down there. Talking to that girl.
+GILES	But you don’t know –
+BUFFY	Oh, please. Look at his jacket. He’s got the sleeves rolled up. And the shirt… Deal with that outfit for a moment.
+GILES	It’s dated?
+BUFFY	It’s carbon dated! Trust me: only someone who’s been living underground for ten years would think that was the look.
+GILES	But… you didn’t hone …
+BUFFY	Oh, no…
+GILES	Isn’t that –
+BUFFY	Willow.
+GILES	What is she doing?
+BUFFY	Seizing the moment.
+BUFFY	Cordelia!
+CORDELIA	Excuse me… could you be any weirder? Is there a more weirdness that you could have?
+CORDELIA	God, what is your childhood trauma?
+BUFFY	Did you guys see Willow? Did she come by here?
+CORDELIA	Why? Did you need to attack her with a stick?
+CORDELIA	Excuse me. I have to call everyone that I’ve ever met right now. CUT TO:
+GILES	Is he dead? That was fast. Well done. I’d best go to the library. This “Harvest” is –
+BUFFY	I didn’t find them.
+GILES	The vampire’s not dead?
+BUFFY	No, but my social life is on the critical list.
+GILES	What do we do?
+BUFFY	You go on. I’ll take care of it.
+GILES	I should come with you, no?
+BUFFY	Don’t worry. One vampire I can handle.
+JESSE	What did you say your name was?
+DARLA	Darla.
+JESSE	Darla. I haven’t seen you before. Are you from around here?
+DARLA	No, but I’ve got family here.
+JESSE	Have I met them?
+DARLA	You probably will.
+LUKE	Master… BLACK OUT.
+MASTER	Luke.
+LUKE	Master…
+MASTER	I am weak.
+LUKE	Come the Harvest, you’ll be restored.
+MASTER	The Harvest…
+LUKE	We’re almost there. Soon you’ll be free.
+MASTER	I must be ready. I need my strength.
+LUKE	I’ve sent your servants to bring you some food.
+MASTER	Good.
+LUKE	Yes?
+MASTER	Bring me something… young.
+WILLOW	Sure is dark…
+BOY	It’s night.
+WILLOW	That’s a dark time. Night. Traditionally.
+WILLOW	I still can’t believe I’ve never seen you at school. Do you have Mr. Chomsky for History.
+WILLOW	The ice cream bar’s down this way – it’s past Hamilton street.
+BOY	I know a shortcut.
+XANDER	You’re leaving already?
+BUFFY	Xander, have you seen Willow?
+XANDER	Not tonight.
+BUFFY	I need to find her. She left with a guy.
+XANDER	We are talking about Willow, right? Scoring at the Bronze. Work it, girlfriend.
+BUFFY	Where would they go?
+XANDER	Why, you know something about Mr. Goodbar that she doesn’t? Oh! Hey. I hope he’s not a vampire . ‘Cause then you’d have to slay him.
+BUFFY	Was there a school bulletin? Was it in the news? Is there anybody in this town who doesn’t know I’m a slayer?
+XANDER	I only know that you think you’re a slayer, and I only know that ‘cause I was in the library today.
+BUFFY	Whatever. Just tell me where Willow would go.
+XANDER	You’re serious.
+BUFFY	We don’t find her, there’s gonna be another dead body in the morning.
+XANDER	Come on.
+WILLOW	Okay, this is nice and… scary… Are you sure this is faster?
+BOY	Hey. You ever been in one of these?
+WILLOW	No thank you.
+BOY	Come on. What are you afraid of?
+WILLOW	That wasn’t funny.
+WILLOW	I think I’m gonna go.
+BOY	Is that what you think?
+DARLA	Is this the best you could do?
+BOY	She’s fresh.
+DARLA	Hardly enough to share.
+BOY	Why didn’t you bring your own?
+DARLA	I did.
+JESSE	Hey, wait up…
+WILLOW	Jesse!
+JESSE	I think you gave me a hickey…
+DARLA	I got hungry on the way.
+WILLOW	Jesse, let’s get out of here.
+DARLA	You’re not going anywhere.
+WILLOW	Leave us alone.
+DARLA	You’re not going anywhere until we’ve FED !
+BUFFY	Well, this is nice.
+BUFFY	A little bare, but a dash of paint, a few throw pillows – call it home.
+DARLA	Who the hell are you?
+BUFFY	Wow, you mean there’s actually somebody around here who doesn’t know already? That’s a relief. I’m telling you, having a secret identity in this town is a job of work.
+XANDER	Buffy, we bail now, right?
+BOY	Not yet.
+BUFFY	Okay, first of all, what’s with this outfit? Live in the now, okay? You look like DeBarge. Now, we can do this the hard way, or… well, actually, there’s just the hard way.
+DARLA	Fine with me.
+BUFFY	You sure? It’s not gonna be pretty. We’re talking violence, strong language, adult content.
+BUFFY	See what happens when you roughhouse?
+DARLA	He was young. And stupid.
+BUFFY	Xander, go.
+DARLA	Don’t go far.
+BUFFY	You know, I just wanted to start over. Be like everybody else. Have some friends, maybe a dog… But no. You had to come here. You couldn’t go suck on some other town.
+DARLA	Who are you?
+BUFFY	Don’t you know?
+LUKE	I don’t care.
+LUKE	You were supposed to be bringing an offering for the Master. We’re almost at Harvest and you dally with this child?
+DARLA	We had someone. But she came and… she killed Thomas… Luke, she’s strong.
+LUKE	You go. I’ll see if I can handle the little girl.
+LUKE	You are strong.
+LUKE	I’m stronger. CUT TO:
+WILLOW	We’ll get the police – it’s just a few blocks up –
+LUKE	You’re wasting my time.
+BUFFY	Hey, I had other plans, too, okay?
+LUKE	You think you can stop me? Stop us?
+LUKE	You have no idea what you’re dealing with.
+LUKE	And like a plague of boils, the race of Man covered the earth. But on the third day of the newest light will come over the Harvest… CUT TO:
+LUKE	Amen.
+GIRL	Are you sure this is a good idea?
+BOY	It’s a great idea! Come on.
+GIRL	You go to school here?
+BOY	Used to. On top of the gym, it’s so cool – you can see the whole town.
+GIRL	I don’t want to go up there.
+BOY	Oh, you can’t wait, huh?
+GIRL	We’re just gonna get in trouble
+BOY	Count on it.
+GIRL	What was that?
+BOY	What was what?
+GIRL	I heard a noise.
+BOY	It’s nothing.
+GIRL	Maybe it’s something…
+BOY	Maybe it’s some Thing ...
+GIRL	That’s not funny.
+BOY	There’s nobody here.
+GIRL	Are you sure?
+BOY	I’m sure.
+GIRL	Okay…
+BUFFY	I’m up, mom.
+BUFFY	No… wouldn’t want that…
+JOYCE	Now, you have a good time. I know you’ll make friends right away. Think positive. And honey… try not to get kicked out.
+BUFFY	I promise.
+WILLOW	Really?
+XANDER	Yeah. You know, I kind of had a problem with the math.
+WILLOW	Which part?
+XANDER	The math. Can you help me tonight? Please? Be my study buddy?
+WILLOW	Well, what’s in it for me?
+XANDER	A shiny nickel…
+WILLOW	Okay. Do you have “Theories in Trig?” You should check it out.
+XANDER	Check it out?
+WILLOW	From the library. Where the books live.
+XANDER	Right. I’m there. See, I want to change.
+JESSE	Hey.
+XANDER	Jesse! What’s what.
+JESSE	New girl!
+XANDER	That’s right, I saw her. She’s pretty much a hotty.
+WILLOW	I heard someone was transferring here.
+XANDER	So. Tell.
+JESSE	Tell what?
+XANDER	What’s the sitch? What do you know about her?
+JESSE	New girl.
+XANDER	Well, you’re certainly a font of nothing.
+FLUTIE	Other schools might looks at the incredible decline in grade point average – we look at the struggling young woman with the incredible decline in grade point average. Other schools might look at the reports of gang fights –
+BUFFY	Mr. Flutie –
+FLUTIE	All the kids here are free to call me Bob –
+BUFFY	Bob –
+FLUTIE	--but they don’t.
+BUFFY	Mr. Flutie. I know my transcripts are a little colorful –
+FLUTIE	Hey, we’re not caring about that! Do you think “colorful” is the word? Not “dismal”? Just off hand, I’d go with “dismal.”
+BUFFY	It wasn’t that bad.
+FLUTIE	You burned down the gym.
+BUFFY	I did. I really did. But you gotta see the big picture. I mean, the gym was full of vamp… uh, asbestos.
+FLUTIE	Buffy. Don’t worry. Any other school, they might say “watch your step”, or, “we’ll be watching you” or, “get within a hundred yards of the gym with a book of matches and you’ll grow up in juvie hall” but that’s just not the way here. We want to service your needs, and help you to respect our needs. And if you needs and our needs don’t mesh…
+XANDER	Can I have you? Dyeh – can I help you?
+BUFFY	Oh, thanks…
+XANDER	I don’t know you, do I?
+BUFFY	I’m new. I’m Buffy.
+XANDER	Xander. Is me. Hi.
+BUFFY	Thanks.
+XANDER	Maybe I’ll see you around. Maybe at school, since we both… go there…
+BUFFY	Great. Nice to meet you.
+BUFFY	Thanks.
+TEACHER	And this popular plague led to what social changes?
+CORDELIA	Hi, I’m Cordelia.
+BUFFY	I’m Buffy.
+CORDELIA	If you’re looking for a textbook of your very own, there’s probably a few in the Library.
+BUFFY	Oh, great. Thanks. Where would that be?
+CORDELIA	I’ll show you.
+CORDELIA	You transferred from Hemery, right? In L.A.?
+BUFFY	Yeah.
+CORDELIA	Oh! I would kill to live in L.A. Being that close to that many shoes… Why’d you come here?
+BUFFY	Because my Mom moved, is the reason. I mean we both moved. But my Mom wanted to.
+CORDELIA	Well, you’ll be okay here. If you hang with me and mine you’ll be accepted in no time. Of course we do have to test your coolness factor. You’re from L.A., so you can skip the written, but, let’s see… Vamp nail polish.
+BUFFY	Over?
+CORDELIA	SO over. James Spader.
+BUFFY	He needs to call me.
+CORDELIA	Trendy but tasty. John Tesh.
+BUFFY	The Devil?
+CORDELIA	Well, that was pretty much a gimme, but you passed.
+BUFFY	Oh, good.
+WILLOW	Well my Mom picked it out.
+CORDELIA	No wonder you’re such a guy-magnet. Are you done?
+WILLOW	Oh.
+CORDELIA	--and if you’re not too swamped with catching up you should come out to the Bronze tonight.
+BUFFY	The who?
+CORDELIA	The Bronze. It’s the only club worth going to around here. They let anybody in but it’s still the scene. It’s in the bad part of town.
+BUFFY	Where’s that?
+CORDELIA	About half a block from the good part of town. We don’t have a whole lot of town. You should show.
+BUFFY	Well, I’ll try, thanks.
+CORDELIA	Good. I’ll see you at gym and you can tell me absolutely everything there is to know about yourself.
+BUFFY	I was looking for some, well, books. I’m new.
+GILES	Miss Summers.
+BUFFY	Good call. I guess I’m the only new kid.
+GILES	I’m Mr. Giles, the librarian.
+BUFFY	Great. So you have, uh, --
+GILES	I know what you’re after.
+BUFFY	That’s not what I’m looking for.
+GILES	Are you sure?
+BUFFY	I’m way sure.
+GILES	My mistake.
+BUFFY	Uh, hi. Willow, right?
+WILLOW	Why? I mean Hi. Did you want me to move?
+BUFFY	Why don’t we start with “hi, I’m Buffy.” And then let’s segue directly into me asking you for a favor. It doesn’t involve moving, but it does involve you hanging out with me for a while.
+WILLOW	But aren’t you… hanging with Cordelia?
+BUFFY	I can’t do both?
+WILLOW	Not legally.
+BUFFY	Look, I really want to get by here. New school… Cordelia’s been really nice – to me, anyway – but I have this burning desire not to flunk all my classes, and I heard a rumor that you were the person to talk to if I wanted to get caught up.
+WILLOW	Oh, I could totally help you out! If you have sixth period free we could meet in the library –
+BUFFY	–or not. Or, you know, we could meet somewhere quieter. Louder. That place kind of gives me a wiggins.
+WILLOW	It has that effect on most kids. I love it, though. It’s a great collection, and the new librarian’s really cool.
+BUFFY	He’s new?
+WILLOW	Yeah, he just started. He was a curator of some British Museum. Or the British museum, I’m not sure. But he knows everything and he brought all these historical volumes and biographies and am I the single dullest person alive?
+BUFFY	Not at all!
+XANDER	Hey. Are you guys busy? Can we interrupt? We’re interrupting.
+BUFFY	Hey.
+JESSE	Hey there.
+WILLOW	Buffy, this is Jesse, and that’s Xander.
+XANDER	Oh, me and Buffy go way back. Old friends, very close. Then there was that period of estrangement, I think we were both changing as people, but here we are and it’s like old times, I’m quite moved.
+JESSE	Is it me, or are you turning into a bibbling idiot?
+XANDER	It’s not you.
+BUFFY	It’s nice to meeting you guys… I think.
+JESSE	Well, we wanted to welcome you, make you feel at home. Unless you have a scary home.
+XANDER	And to return this.
+XANDER	The only thing I can figure is that you’re building a really little fence.
+XANDER	So. What do you like, what do you do for fun, what do you look for in a man… Let’s hear it.
+JESSE	If you have any dark, painful secrets that we could publish…
+BUFFY	Gee, everybody wants to know about me. How keen.
+XANDER	Well, not a lot happens in a one-Starbucks town like Sunnydale. You’re big news.
+BUFFY	I’m not. Really.
+CORDELIA	Are these people bothering you?
+BUFFY	Oh! No.
+WILLOW	She’s not hanging out with us.
+JESSE	Hey, Cordelia.
+CORDELIA	Oh, please. I don’t want to interrupt your downward mobility. I just thought I’d tell you that you won’t be meeting Coach Foster, the woman with chest hair, because gym has been canceled due to the extreme dead guy in the locker.
+BUFFY	What?
+WILLOW	What are you talking about?
+CORDELIA	Some guy was stuffed in Aura’s locker.
+BUFFY	Dead.
+CORDELIA	Way dead.
+XANDER	So not just a little dead then.
+CORDELIA	Don’t you have an elsewhere to be?
+JESSE	If you need a shoulder to cry on, or just to nibble on –
+BUFFY	How did he die?
+CORDELIA	I don’t know…
+BUFFY	Well, were there any marks?
+CORDELIA	Morbid much? I didn’t ask!
+BUFFY	Uh, look, I gotta book. I’ll see you guys later.
+FLUTIE	Oh! Buffy! Uh, what do you want?
+BUFFY	Um, is there a guy in there that’s dead?
+FLUTIE	Where did you hear that? Okay. Yes. But he’s not a student! Not currently.
+BUFFY	Do you know how he died?
+FLUTIE	What?
+BUFFY	I mean – how could this have happened?
+FLUTIE	Well, that’s for the police to determine when they get here. But this structure is safe, we have inspections, and I think there’s no grounds for a lawsuit.
+BUFFY	Was there a lot of blood? Was there any blood?
+FLUTIE	I would think you wouldn’t want to involve yourself in this kind of thing.
+BUFFY	I don’t. Could I just take a peek?
+FLUTIE	Unless you already are involved…
+BUFFY	Never mind.
+FLUTIE	Buffy, I understand this is confusing. You’re probably feeling a lot right now. You should share those feelings. With someone else.
+BUFFY	You heard about the dead guy, right? The dead guy in the locker?
+GILES	Yes.
+BUFFY	Well, it’s the weirdest thing. He’s got two little holes in his neck and all his blood’s been drained. Isn’t that bizarre? Aren’t you just going, “Ooooh….”
+GILES	I was afraid of this.
+BUFFY	Well, I wasn’t! It’s my first day. I was afraid that I’d be behind in all the classes, that I wouldn’t make any friends, that I’d have last month’s hair. I didn’t think there would be vampires on campus. And I don’t care .
+GILES	Then why are you here?
+GILES	Will he rise again?
+BUFFY	Who?
+GILES	The boy.
+BUFFY	No, he’s just dead.
+GILES	Can you be sure?
+BUFFY	To make you a vampire they have to suck your blood and then you have to suck their blood, it’s a whole big sucking thing. Mostly they’ll just take all your blood and then you just die – why am I still talking to you?
+GILES	You have no idea what’s going on, do you? Do you think it’s coincidence, your coming here? That boy was just the beginning.
+BUFFY	Oh, why can’t you leave me alone?
+GILES	Because you are the Slayer.
+GILES	--the strength and skill to hunt the vampires –
+BUFFY	The stop the spread of their evil blah blah I’ve heard it, okay?
+GILES	I don’t understand this attitude. You’ve accepted your duty, you’ve slain vampires before –
+BUFFY	Well, I have both been there and done that. And I am moving on.
+GILES	What do you know about this town?
+BUFFY	It’s two hours on the freeway from Neiman Marcus.
+GILES	Dig a bit in the history of this place and you’ll find there’ve been a steady stream of fairly odd occurrences. I believe this area is a center of mystical energy. Things gravitate toward it that you might not find elsewhere.
+BUFFY	Like Vampires.
+GILES	Like werewolves. Zombies. Succubi, incubi… Everything you ever dreaded under your bed and told yourself couldn’t be by the light of day.
+BUFFY	What, did you send away for the Time Life series?
+GILES	Uh, yes.
+BUFFY	Did you get the free phone?
+GILES	The calendar.
+BUFFY	Cool. Okay, first of all, I’m a vampire slayer. And secondly, I’m retired. Hey, I know! Why don’t you kill them?
+GILES	I’m a watcher. I haven’t the skill.
+BUFFY	Oh, come on. Stake through the heart, a little sunlight – it’s like falling off a log.
+GILES	The Slayer slays. The Watcher –
+BUFFY	Watches?
+GILES	Yes. No! He – he – trains her, he prepares her –
+BUFFY	Prepares me for what? For getting kicked out of school? Losing all my friends? Having to spend all my time fighting for my life and never getting to tell anyone because it might ‘endanger’ them? Go ahead. Prepare me.
+BUFFY	What’s getting worse?
+GILES	The influx of the undead, the supernatural occurrences. It’s been building for years and now… There’s a reason why you’re here, and there’s a reason why it’s now.
+BUFFY	Because now is the time my mom moved here .
+GILES	Something is coming. Something is going to happen here soon.
+BUFFY	Gee, can you vague that up for me…?
+GILES	As far as I can tell, the signs point to a crucial mystical upheaval very soon – days, possibly less.
+BUFFY	Come on. This is Sunnydale. How bad an evil can there be here?
+JOYCE	Are you going out tonight, honey?
+BUFFY	Yeah, Mom. I’m going to a club.
+JOYCE	Will there be boys there?
+BUFFY	No, Mom; it’s a nun club.
+JOYCE	Well, just be careful.
+BUFFY	I will.
+JOYCE	I think we can make it work here. I’ve got my positive energy flowing. I’m gonna get the gallery on its feet – We may already have found a space.
+BUFFY	Great.
+JOYCE	And that school is a very nurturing environment, which is what you need.
+BUFFY	Mom…
+JOYCE	Oh, not too nurturing. I know. You’re sixteen, I read all about the dangers of overnurturing. It’s hard. New town, and all. For me, too. I’m trying to make it work. I’m going to make it work.
+BUFFY	I know.
+JOYCE	You’re a good girl, Buffy. You just fell in with the wrong crowd. But that’s all behind us now.
+BUFFY	It is. From now on, I’m only hanging out with the living. I – I mean, the lively… people.
+JOYCE	Okay, have fun.
+BUFFY	There’s a problem. Why are you following me?
+ANGEL	I know what you’re thinking, but don’t worry. I don’t bite.
+ANGEL	Truth is, I thought you’d be taller. Or bigger, muscles and all that. You’re pretty spry, though.
+BUFFY	What do you want?
+ANGEL	Same thing you do.
+BUFFY	Okay, what do I want?
+ANGEL	To kill ‘em. To kill ‘em all.
+BUFFY	Sorry! That’s incorrect but you do get this lovely watch and a year’s worth of Turtle Wax what I want … is to be left alone.
+ANGEL	You really think that’s an option anymore? You’re standing at the mouth of Hell. And it’s about to open.
+ANGEL	Don’t turn your back on this. You’ve got to be ready.
+BUFFY	For what?
+ANGEL	The Harvest.
+BUFFY	Who are you?
+ANGEL	Let’s just say I’m a friend.
+BUFFY	Well, maybe I don’t want a friend.
+ANGEL	I didn’t say I was yours …
+BUFFY	Hi!
+WILLOW	Oh, hi! Hi.
+BUFFY	Are you here with someone?
+WILLOW	No, I’m just here. I thought Xander was gonna show up…
+BUFFY	Oh, are you guys going out?
+WILLOW	No. We’re just friends. We used to go out, but we broke up.
+BUFFY	How come?
+WILLOW	He stole my barbie. We were five.
+BUFFY	Oh.
+WILLOW	I don’t actually date a whole lot… lately.
+BUFFY	Why not?
+WILLOW	Well, when I’m with a boy I like, it’s hard for me to say anything cool, or witty, or at all… I can usually make a few vowel sounds, and then I have to go away.
+BUFFY	It’s not that bad. It is. I think boys are more interested in a girl who can talk.
+BUFFY	You really haven’t been dating lately.
+WILLOW	It’s probably easy for you.
+BUFFY	Oh, yeah. Real easy.
+WILLOW	I mean, you don’t seem too shy.
+BUFFY	Well, my philosophy is – do you wanna hear my philosophy?
+WILLOW	I do.
+BUFFY	Life is short.
+WILLOW	Life is short.
+BUFFY	Not original, I’ll grant you. But it’s true. Why waste time being all shy? Why worry about some guy and if he’s gonna laugh at you? You know? Seize the moment. ‘Cause tomorrow you might be dead.
+WILLOW	Oh… That’s nice…
+BUFFY	Uh, I’ll be back in a minute.
+WILLOW	That’s okay. You don’t have to come back.
+BUFFY	I’ll be back in a minute .
+BUFFY	So, you like to party with the students? Isn’t that kind of skanky?
+GILES	Right. This is me having fun. Watching clown-hair prance about is hardly my idea of a party. I’d much prefer to be home with a cup of bovril and a good book.
+BUFFY	STAT .
+GILES	This is a perfect breeding ground for Vampire activity. Dark, crowded… Besides, I knew you were likely to show up. And I have to make you understand –
+BUFFY	That the Harvest is coming, I know, your friend told me.
+GILES	What did you say?
+BUFFY	The… Harvest. That means something to you? ‘Cause I’m drawing a blank.
+GILES	I’m not sure… Who told you this?
+BUFFY	This guy. Dark, gorgeous in an annoying sort of way. I figured you were buds.
+GILES	No… The Harvest… Did he say anything else?
+BUFFY	Something about the mouth of Hell. I really didn’t like him.
+GILES	Look at them. Throwing themselves about…. Completely unaware of the danger that surrounds them.
+BUFFY	Lucky them…
+GILES	Or perhaps you’re right. Perhaps there is no trouble coming. The signs could be wrong. It’s not as though you’re having the nightmares…
+JESSE	Cordelia!
+CORDELIA	Oh, yay, it’s my stalker.
+JESSE	Hey, you look great.
+CORDELIA	Well, I’m glad we had this chat –
+JESSE	Listen, I, um, do you wanna dance?
+CORDELIA	With you?
+JESSE	Well, uh, yeah.
+CORDELIA	Well, uh, no.
+BUFFY	I didn’t say I’d never slay another vampire. I’m just not gonna get way extracurricular with it. If I run into one, sure…
+GILES	But will you be ready? There’s so much you don’t know, about them and about your own powers. A vampire appears to be a normal person, until the feed is upon them. Only then do they reveal their true demonic visage.
+BUFFY	You’re like a textbook with arms! I know this!
+GILES	The point is, a Slayer should be able to see them anyway. Without looking, without thinking. Can you tell me if there’s a vampire in this building?
+BUFFY	Maybe?
+GILES	You should know! Even through this mass and this din you should be able to sense them. Try. Reach out with your mind.
+GILES	You have to hone your senses, focus until the energy washes over you, till you can feel every particle of –
+BUFFY	There’s one.
+GILES	What? Where?
+BUFFY	Down there. Talking to that girl.
+GILES	But you don’t know –
+BUFFY	Oh, please. Look at his jacket. He’s got the sleeves rolled up. And the shirt… Deal with that outfit for a moment.
+GILES	It’s dated?
+BUFFY	It’s carbon dated! Trust me: only someone who’s been living underground for ten years would think that was the look.
+GILES	But… you didn’t hone …
+BUFFY	Oh, no…
+GILES	Isn’t that –
+BUFFY	Willow.
+GILES	What is she doing?
+BUFFY	Seizing the moment.
+BUFFY	Cordelia!
+CORDELIA	Excuse me… could you be any weirder? Is there a more weirdness that you could have?
+CORDELIA	God, what is your childhood trauma?
+BUFFY	Did you guys see Willow? Did she come by here?
+CORDELIA	Why? Did you need to attack her with a stick?
+GILES	Is he dead? That was fast. Well done. I’d best go to the library. This “Harvest” is –
+BUFFY	I didn’t find them.
+GILES	The vampire’s not dead?
+BUFFY	No, but my social life is on the critical list.
+GILES	What do we do?
+BUFFY	You go on. I’ll take care of it.
+GILES	I should come with you, no?
+BUFFY	Don’t worry. One vampire I can handle.
+DARLA	Darla.
+JESSE	Darla. I haven’t seen you before. Are you from around here?
+DARLA	No, but I’ve got family here.
+JESSE	Have I met them?
+DARLA	You probably will.
+MASTER	Luke.
+LUKE	Master…
+MASTER	I am weak.
+LUKE	Come the Harvest, you’ll be restored.
+MASTER	The Harvest…
+LUKE	We’re almost there. Soon you’ll be free.
+MASTER	I must be ready. I need my strength.
+LUKE	I’ve sent your servants to bring you some food.
+MASTER	Good.
+LUKE	Yes?
+MASTER	Bring me something… young.
+WILLOW	Sure is dark…
+BOY	It’s night.
+WILLOW	That’s a dark time. Night. Traditionally.
+XANDER	You’re leaving already?
+BUFFY	Xander, have you seen Willow?
+XANDER	Not tonight.
+BUFFY	I need to find her. She left with a guy.
+XANDER	We are talking about Willow, right? Scoring at the Bronze. Work it, girlfriend.
+BUFFY	Where would they go?
+XANDER	Why, you know something about Mr. Goodbar that she doesn’t? Oh! Hey. I hope he’s not a vampire . ‘Cause then you’d have to slay him.
+BUFFY	Was there a school bulletin? Was it in the news? Is there anybody in this town who doesn’t know I’m a slayer?
+XANDER	I only know that you think you’re a slayer, and I only know that ‘cause I was in the library today.
+BUFFY	Whatever. Just tell me where Willow would go.
+XANDER	You’re serious.
+BUFFY	We don’t find her, there’s gonna be another dead body in the morning.
+BOY	Hey. You ever been in one of these?
+WILLOW	No thank you.
+WILLOW	I think I’m gonna go.
+BOY	Is that what you think?
+DARLA	Is this the best you could do?
+BOY	She’s fresh.
+DARLA	Hardly enough to share.
+BOY	Why didn’t you bring your own?
+DARLA	I did.
+JESSE	Hey, wait up…
+WILLOW	Jesse!
+DARLA	I got hungry on the way.
+WILLOW	Jesse, let’s get out of here.
+DARLA	You’re not going anywhere.
+WILLOW	Leave us alone.
+DARLA	You’re not going anywhere until we’ve FED !
+BUFFY	A little bare, but a dash of paint, a few throw pillows – call it home.
+DARLA	Who the hell are you?
+BUFFY	Wow, you mean there’s actually somebody around here who doesn’t know already? That’s a relief. I’m telling you, having a secret identity in this town is a job of work.
+XANDER	Buffy, we bail now, right?
+BOY	Not yet.
+BUFFY	Okay, first of all, what’s with this outfit? Live in the now, okay? You look like DeBarge. Now, we can do this the hard way, or… well, actually, there’s just the hard way.
+DARLA	Fine with me.
+BUFFY	You sure? It’s not gonna be pretty. We’re talking violence, strong language, adult content.
+DARLA	He was young. And stupid.
+BUFFY	Xander, go.
+DARLA	Don’t go far.
+BUFFY	You know, I just wanted to start over. Be like everybody else. Have some friends, maybe a dog… But no. You had to come here. You couldn’t go suck on some other town.
+DARLA	Who are you?
+BUFFY	Don’t you know?
+LUKE	You were supposed to be bringing an offering for the Master. We’re almost at Harvest and you dally with this child?
+DARLA	We had someone. But she came and… she killed Thomas… Luke, she’s strong.
+LUKE	You go. I’ll see if I can handle the little girl.
+LUKE	You’re wasting my time.
+BUFFY	Hey, I had other plans, too, okay?

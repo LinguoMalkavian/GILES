@@ -1,0 +1,737 @@
+BUFFY	Whoa...
+XANDER	DYEAAH!
+BUFFY	Non-vampire.
+WILLOW	Hi.
+XANDER	Man, Buffy. My whole life just flashed before my eyes. I've got to get me a life.
+BUFFY	What are you doing here?
+WILLOW	What are you doing here?
+BUFFY	Patrolling.
+WILLOW	Buffy, you're sick.
+BUFFY	I feel fine. The ground's moving around a little bit, but I like it. It's like a ride.
+CORDELIA	Half the school is out with this flu, Buffy. It's a serious deal. We're all worried about how gross you look.
+BUFFY	I'm touched. I have work to do.
+WILLOW	Come on, Buffy. One night of rest isn't going to kill you.
+BUFFY	But it might kill someone else.
+XANDER	You mean Angel might.
+BUFFY	You guys should go find a safer place to be. Like somewhere I'm not.
+XANDER	Buffy, this isn't the time to challenge Angel for the Ultimate Fighting Championship. He's at full strength, and you're only half a slayer.
+BUFFY	But I'm still the Slayer. And as long as I am, Angel's not going to kill anyone else.
+BUFFY	Ahh!
+ANGEL	Not feeling well, lover?
+BUFFY	That helps.
+ANGEL	You know, you being off your game? It's kind of taking all the fun out of this.
+BUFFY	I told you guys to leave. This is my fight. You don't have to...
+XANDER	Buffy, are you all right?
+XANDER	We need help!
+WILLOW	Somebody, please! Now!
+INTERN	What happened?
+XANDER	She fell. WILLOW The flu. CORDELIA She fainted.
+INTERN	The patient is unconscious. (examining eyes) Pupils are unequal and unresponsive.
+CORDELIA	What does that mean?
+WILLOW	Is she going to be okay?
+INTERN	People, you need to give us some room, here!
+WILKINSON	What've we got?
+INTERN	Teenage girl, high-grade fever, possible fractures.
+WILKINSON	Get her into Trauma One. Give me a CBC, chem 7, type and screen.
+XANDER	Someone should be with her.
+WILKINSON	You're going to have to wait out here.
+WILLOW	I'll call Giles. Tell him what happened. (then, to Cordelia) Call Buffy's mom. Tell her... not what happened. Just get her here.
+XANDER	She's going to be okay.
+JOYCE	Where is she?
+GILES	Still in the emergency room.
+JOYCE	I want to see her.
+CORDELIA	They won't let us in.
+WILKINSON	Ms. Summers? I'm Dr. Wilkinson.
+JOYCE	Is Buffy okay?
+WILKINSON	We were able to stabilize--
+JOYCE	Is she okay ?
+WILKINSON	She's going to be fine.
+JOYCE	Thank you.
+XANDER	Good. Good. That's good.
+WILKINSON	I want to keep her here a few days, though. She's still got some healing to do.
+GILES	Was she hurt badly?
+WILKINSON	The injuries from the fall were minor: Sprained wrist and a couple of cracked ribs. I'm more concerned about her fever.
+JOYCE	She said this morning she was feeling better.
+WILKINSON	She will be. But she's still suffering from exhaustion and dehydration.
+WILLOW	I keep telling her that Yoo-Hoo is not a fluid replenisher.
+WILKINSON	Come on. I'm sure you want to see her.
+JOYCE	Buffy? Hi, sweetheart.
+XANDER	Hey, Buffy. We're all here.
+BUFFY	Heyyy... here were are. It's all of we! Are we taking me home?
+WILKINSON	Buffy, you need to lie down.
+BUFFY	Yes, lie at home. My bed is better than any bed that's not my bed.
+WILKINSON	She's still a little out of it.
+BUFFY	Shhh! Hospital zone. No singing.
+WILKINSON	She'll feel better after she's been here a while.
+BUFFY	No. Let me go.
+WILLOW	Buffy, what's wrong?
+BUFFY	Let me go!
+CORDELIA	I think she wants to go.
+WILKINSON	I need some assistance!
+BUFFY	Giles, tell them. The vampires. I've got to kill the vampires!
+JOYCE	Vampires?
+WILKINSON	She's been like this since she came in.
+XANDER	Probably the fever?
+WILLOW	Yeah. It's made her delusional.
+BUFFY	They're out there!
+GILES	It's okay, Buffy. We'll get those vampires some other time! I hear it's best to just go along.
+WILKINSON	This will help her relax.
+JOYCE	Honey...?
+BUFFY	I want to go home.
+JOYCE	Everything's going to be okay. I promise.
+BUFFY	Please don't make me stay. Not here.
+XANDER	That was a new experience. I'm not used to seeing Buffy scared like that.
+JOYCE	She just hates hospitals. Since she was a little girl.
+WILLOW	What happened?
+JOYCE	When Buffy was eight... her cousin, Celia, died in a hospital. Buffy was alone with her when it happened.
+CORDELIA	Yuck.
+JOYCE	They were very close.
+WILLOW	And she was eight?
+JOYCE	She doesn't talk about it, but... she just doesn't like hospitals.
+XANDER	Can't say as I blame.
+JOYCE	Looks like she's asleep. I should go call her father.
+GILES	I think there's a phone...
+JOYCE	Thank you for coming. I really appreciate the way you look out for her. All of you.
+GILES	We're very fond of her.
+JOYCE	I hope I'm not out of line, but I just wanted to say how sorry I am about that teacher, Ms. Calendar. Buffy said you were close.
+GILES	Thank you.
+JOYCE	Buffy's been so down since it happened. She never gets sick.
+GILES	I'm sure she'll be fine.
+JOYCE	I'm sorry, I babble when I'm nervous. I just wanted to -- well, if you need anything.
+XANDER	You think she'll be okay in here?
+CORDELIA	I don't know... Lysette got her nose done here, you know; she asked for the Gwyneth Paltrow but it looked more like the Mr. Potato Head --
+XANDER	Cordy.
+WILLOW	Buffy's not here for cosmetic surgery.
+CORDELIA	No, but while she's here she could get that thing taken care of. That thing on her face -- you know, that thing .
+WILLOW	Do you think Angel would attack her in here?
+XANDER	He can come in. It's a public building.
+WILLOW	That's true...
+CORDELIA	Am I the only one who's noticed that thing?
+BUFFY	Ow...
+WILKINSON	I'm just saying step back the dosage until we can analyze the results.
+BACKER	There isn't time. I would think that would be clear by now.
+WILKINSON	The normal course of treatment --
+BACKER	They aren't responding to the normal course of treatment. They're getting worse.
+WILKINSON	Raising their temperatures is potentially --
+BACKER	Dr. Wilkinson, I have the parents' consent.
+WILKINSON	They're desperate. They don't understand what you're doing.
+BACKER	If you have a problem with my methods, bring it up with the board.
+WILKINSON	I have.
+RYAN	He comes at night. The grown-ups don't see him.
+BUFFY	Who?
+RYAN	Death.
+XANDER	Visiting hours are over.
+ANGEL	Well, I'm pretty much family.
+XANDER	Why don't you come back during the day... Or, gee, no. I guess you can't.
+ANGEL	If I decide to walk into Buffy's room do you think for one microsecond that you could stop me?
+XANDER	Maybe not. Maybe that security guard couldn't either -- or those cops. Or all the orderlies... I'm kind of curious to find out. You game?
+ANGEL	Buffy's white knight. You still love her. It must just eat you up that I got there first.
+XANDER	You're gonna die. I'm gonna be there.
+ANGEL	Tell her I stopped by.
+CELIA	Help me... Help!
+BUFFY	Power Girl to the rescue!
+CELIA	You saved me! Thank you, Power Girl!
+BUFFY	You're safe now.
+WILKINSON	Good morning.
+BUFFY	Coulda fooled me...
+WILKINSON	How are you feeling? Looks like your fever is down.
+BUFFY	Well, good. Thanks for having me and let's try to keep in touch.
+WILKINSON	Not so fast.
+BUFFY	Good Hmmm or bad Hmmm?
+WILKINSON	Swelling is down... Swelling is gone. Does that hurt?
+BUFFY	Nope.
+WILKINSON	Amazing...
+BUFFY	So I should go.
+WILKINSON	Soon. We want to make sure that fever's gone. It's a strong virus. Not as strong as you , maybe...
+BUFFY	Is that what Tina had?
+GILES	May we come in?
+WILKINSON	Please. See if you can keep our patient from bolting. Rest.
+XANDER	Flowers for m'lady?
+BUFFY	These are balloons.
+XANDER	Stick 'em in water, maybe they'll grow.
+WILLOW	And, not to be outdone--
+BUFFY	Homework.
+WILLOW	Just my way of saying 'Get Well Soon.'
+BUFFY	You know, chocolate says that even better.
+WILLOW	I did all of your assignments. All you have to do is sign your name.
+BUFFY	Chocolate means nothing to me.
+CORDELIA	Nobody told me we were supposed to bring gifts. I was out of the loop on gifts.
+GILES	Well, it's traditional among... people. (to Buffy) Did you pass the night well enough?
+BUFFY	Well, not really. Some stuff happened, I'm wondering...
+BUFFY	Now this part I could get used to.
+WILLOW	You want me to go real fast? Not that I would...
+GILES	You were discussing 'stuff'?
+BUFFY	Stuff, yeah. You know a girl died here last night.
+WILLOW	How?
+BUFFY	Well, that flu.
+XANDER	Flu? Doesn't exactly sound monsterrific.
+BUFFY	Well, there's this Dr. Backer, he's been giving them experimental treatments -- he's kinda creepy -- I'm not sure what he's up to. And then I met this kid, Ryan. He said he saw something.
+GILES	Saw what?
+BUFFY	Death.
+CORDELIA	Death?
+WILLOW	The Death? As in, 'it is your time?'
+GILES	Buffy, a frightened child --
+BUFFY	But I thought I saw something -- I was out of it, I'm not sure, but.
+CORDELIA	But you do know it was death?
+WILLOW	Did he have an hourglass?
+XANDER	If he asks you to play chess, don't even do it. Guy's like a whiz .
+BUFFY	Look, maybe it wasn't death. Maybe it was something else.
+CORDELIA	Okay, so this isn't about that you're afraid of hospitals cause your little friend died and you wanna conjure up a monster that you can fight and save everybody and not feel helpless?
+GILES	Cordelia, have you ever actually heard of tact?
+CORDELIA	Tact is just not saying true stuff. I'll pass.
+WILLOW	Your mom did tell us about your cousin...
+BUFFY	This has nothing to do with that. This kid Ryan was afraid of something. Something real. As long as I'm forced to stay here, I wanna find out what.
+XANDER	Is this the place where we say, 'What can we do to help?'
+CORDELIA	You had to ask that, didn't you?
+XANDER	It'll be cake. We find out exactly how this little girl Tina died, we get out. Five minutes, tops.
+CORDELIA	This is what happens when you try to be compassionate toward sick people. They take advantage of you.
+XANDER	Mm-hmm. Buffy almost died just so she could put you out.
+CORDELIA	I didn't want to be the first one to say it.
+XANDER	Me here, you there.
+CORDELIA	Right.
+DON	What are you doing here?
+WILLOW	Okay, where do we start?
+GILES	Hmm? Oh, I don't know. Maybe look into the history of the hospital, bizarre incidents, that sort of thing.
+WILLOW	I'm sensing less than full committal here.
+GILES	Well, I suppose... Cordelia may be Homerically Insensitive, but she may also be right. Disease and death are things -- possibly the only things-- that Buffy cannot fight. It would be natural for her to try to create a defeatable opponent. Especially now, after... after Jenny.
+WILLOW	That's true. But, on the we-live-on- the-Hellmouth side, these kids might have seen a monster.
+GILES	That no grown-up can see. Doesn't ring a bell. Unless...
+WILLOW	Unless?
+GILES	Sometimes small children do see something we adults don't. Us. Our true selves. Our hidden faces.
+WILLOW	So the kids might be afraid of a regular person. Like the weird doctor.
+GILES	Stanley Backer was the name, no?
+WILLOW	Let's look him up.
+DON	You know, people always think security guards are just guys that failed the police exam. That's not me -- this is my career .
+CORDELIA	Stereotypes are so unfair.
+DON	I did take the fireman exam, though. I didn't do so good.
+CORDELIA	I think security guards are way sexier than firemen. They're all so sooty.
+DON	This is where the action is, anyhow. I'm all the time restraining people.
+CORDELIA	Ooh, how thrilling. Do you get scared?
+DON	'Fear is for the weak.' That's my motto. Well, either that or 'Live in the now.' I haven't decided yet.
+CORDELIA	I bet you see a lot of tragedy, too. Like that little girl...
+DON	One of Dr. Backer's patients. Dr. Backer's a great man. He understands the real truth about children.
+CORDELIA	What's that?
+DON	Sometimes they die.
+CORDELIA	I didn't hear anything.
+I	have ever seen.
+XANDER	Could you make just a little more with the touchy-gropey?
+CORDELIA	Jealous?
+XANDER	Of Rogain boy? I don't think so. (hands her the file) Take this to Giles, okay?
+CORDELIA	What about you?
+XANDER	I'm staying here.
+CORDELIA	Oh, right, your obsession with protecting Buffy. Have I ever told you how attractive that's not?
+XANDER	Cordelia, someone's gotta watch her back.
+CORDELIA	Yeah, I've seen you watch her 'back.'
+XANDER	What's that supposed to mean? COR
+DELIA	I was using the phrase 'watch her back' as a euphemism for looking at her butt. Sort of a pun.
+XANDER	Oh. Right. Hey !
+CORDELIA	Well, you do!
+XANDER	Jealous?
+CORDELIA	Fine. Watch my back.
+GILES	The good Doctor Backer has something of a rap sheet.
+WILLOW	Reprimands for controversial experiments, risky procedures -- a malpractice suit... looks like it was dropped suddenly.
+GILES	Factor in Buffy's observation that he, uh, gives her the wiggins...
+WILLOW	This could be our death guy?
+GILES	I just wish I knew what he was doing to these children.
+BACKER	Yes...
+BUFFY	Hi. Remember me?
+RYAN	You're not supposed to be here.
+BUFFY	Why not?
+RYAN	Contagious.
+BUFFY	Oh, I already got what you got.
+RYAN	He'll come again tonight.
+BUFFY	Ryan, listen to me. I'm not gonna let this thing hurt you. Any of you.
+RYAN	Can't fight death.
+GILES	Well. It looks like you were on to something after all.
+BUFFY	I know.
+GILES	The girl Tina -- it looks as though she died from the fever, simple enough. But her records show her improving and then suddenly worsening without apparent cause.
+WILLOW	So we checked out Dr. Backer and this guy is not the solid citizen --
+BUFFY	It's not him. Backer was clean.
+CORDELIA	What do you mean, clean?
+XANDER	What do you mean, was ?
+BUFFY	He's dead. This thing killed him. And not with kindness.
+WILLOW	You saw it.
+BUFFY	No, it was invisible. I saw Backer nearly shredded and the thing knocked me down. It's real. Which means I get to fight it.
+GILES	It would help if you knew what it was. It's invisible to you but the children can see it.
+CORDELIA	But you said you did see something the other night.
+BUFFY	Yeah, but I was pretty delirious... I mean, why would I see it then and not last night?
+JOYCE	Good morning. Ooh, it looks like I interrupted a secret meeting.
+CORDELIA	You sure didn't, though.
+JOYCE	Honey, I just talked to the doctor. She says I can take you home.
+BUFFY	I have to stay here.
+JOYCE	Stay? But honey, I thought --
+BUFFY	I think my symptoms are flaring up again.
+WILLOW	She doesn't look well.
+BUFFY	'Cause I'm not well. I feel oogy.
+XANDER	Increased oogy-ness... That's a danger signal.
+JOYCE	Are you sure?
+BUFFY	Yeah. Just for another day...
+JOYCE	Well, I'll talk to the doctor.
+XANDER	What's the drill?
+BUFFY	Giles, let's get a mug shot on this guy. I kneed to know who I'm fighting.
+GILES	Right.
+BUFFY	I'll check Backer's office. See if there are any post-its marked 'Why a monster might want me dead.'
+XANDER	Sounds like a plan.
+BUFFY	If I do find something, I probably won't have the slightest idea what it means, so, Willow...
+WILLOW	Oh, I'm good with medical stuff. Xander and I used to play doctor all the time.
+XANDER	No, she's being literal. She had all these medical volumes, used to diagnose me with stuff. I didn't have the heart to tell her she was playing it wrong.
+WILLOW	Wrong? Why? How did you play doctor?
+BUFFY	I never have.
+GILES	Fascinating though this is...
+BUFFY	Yeah. Right. Go.
+GILES	We'll call when we know something.
+BUFFY	Know something soon.
+GILES	I'd best head for the library. Research beckons.
+XANDER	I'm on sentry duty. Angel won't show 'til sundown if at all, but maybe I'll get lucky with this death guy.
+CORDELIA	He's invisible.
+XANDER	Yeah, but if I see a floating pipe and smoking jacket, he's dropped.
+GILES	Well, keep alert, you two.
+XANDER	Finding out who this thing is is the priority. Cordy, you should go with Giles.
+GILES	But why do I have to have -- (stops himself) Good thinking. I could use a research assistant.
+CORDELIA	Let's go, tact-guy. Be careful.
+WILLOW	It's weird going through his stuff. He didn't finish his coffee. Guess he won't.
+BUFFY	Yet another person I wasn't in time to save. I wish Angel had put me in the hospital sooner. There's a sentence I never expected to say.
+WILLOW	I think I got something here.
+BUFFY	Yeah?
+WILLOW	Okay, this makes sense... Dr. Backer was trying to inoculate kids with a controlled dosage of the same virus they already had. Raising their temperatures to burn the fever out of them.
+BUFFY	Would that work?
+WILLOW	According to this, it was starting to. So he really was helping the kids.
+CORDELIA	Ew. What's this one do?
+GILES	What? Oh. It, um, extracts vital internal organs so that it can regenerate its own mutating cells.
+CORDELIA	Wow. What's this one do?
+GILES	It elongates its mouth to engulf the head of its casualty between its teeth.
+CORDELIA	Ouch. What's this one do?
+GILES	It asks endless questions of those with whom it's supposed to be working but they're not getting anything done!
+CORDELIA	Boy, there's a demon for everything.
+GILES	I'm not even sure we're going down the right track. Since this miscreant is only seen by select individuals, there's a chance we won't ever find a picture of it.
+CORDELIA	Well, it's not in here.
+CORDELIA	It's called 'Der Kindestod.'
+BUFFY	Who is this?
+CORDELIA	It's me. I got your monster.
+BUFFY	Where's Giles?
+CORDELIA	Looking up stuff.
+BUFFY	Well, can you put him on?
+CORDELIA	Hey, I found this Kindestod guy. Just listen.
+BUFFY	Right.
+CORDELIA	The name means 'Child Death.' This book says he feeds off of children by sucking the life out of them. Blech. But afterwards, it just looks like they died because they were sick.
+BUFFY	So it did kill Tina?
+CORDELIA	That's my take. 'Cause it would be looking at that children's ward as basically an all-you-can-eat kind of thing.
+BUFFY	Backer was curing the kids -- and taking away the Kindestod's food.
+CORDELIA	Hence the slice-age.
+GILES	I found a picture of how it kills. Let me talk to--
+CORDELIA	EWW!
+BUFFY	What?
+CORDELIA	You should see how this thing does its things! I mean... ewww!
+GILES	Buffy, you still there?
+BUFFY	Hanging on every 'ew.'
+GILES	The Kindestod gorges by sitting atop his prey, pinning it down helplessly. Then he slowly draws out the life. It must be horrifying for the victim. (a beat) Buffy?
+BUFFY	Celia?
+CELIA	Get it off me! Get it off me!
+BUFFY	I don't know what to do! Celia!
+WILLOW	Thanks.
+BUFFY	I've got to get this thing, Willow. Before it gets those kids.
+WILLOW	You will. We will.
+BUFFY	But how? I can't even see it!
+WILLOW	You saw it once.
+BUFFY	Did I? Maybe my mind was playing with me. I mean, I was crazed with that fever and--
+WILLOW	Buffy, think about this.
+BUFFY	I am. Lots of thoughts.
+WILLOW	It's crazy.
+BUFFY	The fever. That's how you see the Kindestod. That's why Celia could see it. That's why Ryan still can. It's the only way.
+WILLOW	But how can you fight this thing when you have a 107 degree temperature?
+BUFFY	I guess we'll find out.
+WILLOW	Buffy!
+BUFFY	Willow, I'm doing this--
+WILLOW	That's 100% pure. It'll kill you in an instant.
+BUFFY	They should put that on the label.
+WILLOW	Here. It needs to be diluted.
+BUFFY	This is going to have to work fast.
+BUFFY	I'm not sure this was such a great idea.
+WILLOW	Hang in there. You'll be okay.
+BUFFY	Okay... I'm okay.
+RYAN	Keep quiet!
+WILLOW	What could've happened?
+BUFFY	I don't know. Maybe I'm too late. Maybe they were moved. I don't want to think about the other maybe.
+WILLOW	What?
+BUFFY	I think it's in there.
+WILKINSON	Buffy, what's wrong? WILLOW She's... not feeling well. Again.
+WILKINSON	You should be in bed.
+BUFFY	I'm fine. Really.
+WILKINSON	No. You're coming with me.
+BUFFY	No!
+WILLOW	She's sorry...
+WILKINSON	Security to the children's ward. We have a situation. Security!
+DON	Come on, now. Let's make this easy.
+WILLOW	Bats! Arrghh! Get them off me! Horrible, horrible bats!
+WILKINSON	Not her. The other one!
+WILLOW	No more bats.
+XANDER	Buffy! Are you okay? Did Angel get in?
+BUFFY	We have to get to the basement.
+RYAN	Here.
+XANDER	You don't know how to kill this thing.
+BUFFY	I thought I might try violence.
+XANDER	Solid call.
+BUFFY	You make me sick.
+XANDER	Come on!
+BUFFY	And the winner is...
+XANDER	Are you okay?
+BUFFY	Actually, I'm starting to feel better.
+JOYCE	Here you go, honey. Peanut butter and extra jelly. With the crust off, just the way you like it.
+BUFFY	And the juice?
+JOYCE	Two parts orange, one part grapefruit.
+BUFFY	That's my drink.
+JOYCE	I measured exactly.
+BUFFY	I wanted crunchy style.
+JOYCE	Oh. I'm sorry.
+BUFFY	And, um, I ordered extra jelly.
+JOYCE	Anything to help my daughter get well.
+WILLOW	While you're up, could I get a refill?
+JOYCE	Of course.
+XANDER	Ooh, and another bag of Chee-Zee Chips.
+JOYCE	You ate the last one.
+XANDER	No. I saw another bag hidden behind the raisins.
+JOYCE	I'm on it.
+XANDER	Your mom's trying to bogart the Chee- Zee Chips. What's that all about?
+JOYCE	Oh, Buffy. Here.
+BUFFY	It's from Ryan.
+JOYCE	Oh, he drew you a picture. Isn't that...
+WILLOW	Hi.
+XANDER	Man, Buffy. My whole life just flashed before my eyes. I've got to get me a life.
+BUFFY	What are you doing here?
+WILLOW	What are you doing here?
+BUFFY	Patrolling.
+WILLOW	Buffy, you're sick.
+BUFFY	I feel fine. The ground's moving around a little bit, but I like it. It's like a ride.
+CORDELIA	Half the school is out with this flu, Buffy. It's a serious deal. We're all worried about how gross you look.
+BUFFY	I'm touched. I have work to do.
+WILLOW	Come on, Buffy. One night of rest isn't going to kill you.
+BUFFY	But it might kill someone else.
+XANDER	You mean Angel might.
+BUFFY	You guys should go find a safer place to be. Like somewhere I'm not.
+XANDER	Buffy, this isn't the time to challenge Angel for the Ultimate Fighting Championship. He's at full strength, and you're only half a slayer.
+BUFFY	But I'm still the Slayer. And as long as I am, Angel's not going to kill anyone else.
+XANDER	We need help!
+WILLOW	Somebody, please! Now!
+INTERN	The patient is unconscious. (examining eyes) Pupils are unequal and unresponsive.
+CORDELIA	What does that mean?
+WILLOW	Is she going to be okay?
+INTERN	People, you need to give us some room, here!
+WILKINSON	What've we got?
+INTERN	Teenage girl, high-grade fever, possible fractures.
+WILKINSON	Get her into Trauma One. Give me a CBC, chem 7, type and screen.
+XANDER	Someone should be with her.
+WILKINSON	You're going to have to wait out here.
+JOYCE	Where is she?
+GILES	Still in the emergency room.
+JOYCE	I want to see her.
+CORDELIA	They won't let us in.
+WILKINSON	Ms. Summers? I'm Dr. Wilkinson.
+JOYCE	Is Buffy okay?
+WILKINSON	We were able to stabilize--
+JOYCE	Is she okay ?
+WILKINSON	She's going to be fine.
+JOYCE	Thank you.
+XANDER	Good. Good. That's good.
+WILKINSON	I want to keep her here a few days, though. She's still got some healing to do.
+GILES	Was she hurt badly?
+WILKINSON	The injuries from the fall were minor: Sprained wrist and a couple of cracked ribs. I'm more concerned about her fever.
+JOYCE	She said this morning she was feeling better.
+WILKINSON	She will be. But she's still suffering from exhaustion and dehydration.
+WILLOW	I keep telling her that Yoo-Hoo is not a fluid replenisher.
+WILKINSON	Come on. I'm sure you want to see her.
+JOYCE	Buffy? Hi, sweetheart.
+XANDER	Hey, Buffy. We're all here.
+BUFFY	Heyyy... here were are. It's all of we! Are we taking me home?
+WILKINSON	Buffy, you need to lie down.
+BUFFY	Yes, lie at home. My bed is better than any bed that's not my bed.
+WILKINSON	She's still a little out of it.
+BUFFY	Shhh! Hospital zone. No singing.
+BUFFY	No. Let me go.
+WILLOW	Buffy, what's wrong?
+BUFFY	Let me go!
+CORDELIA	I think she wants to go.
+WILKINSON	I need some assistance!
+BUFFY	Giles, tell them. The vampires. I've got to kill the vampires!
+JOYCE	Vampires?
+WILKINSON	She's been like this since she came in.
+XANDER	Probably the fever?
+WILLOW	Yeah. It's made her delusional.
+BUFFY	They're out there!
+GILES	It's okay, Buffy. We'll get those vampires some other time! I hear it's best to just go along.
+WILKINSON	This will help her relax.
+JOYCE	Honey...?
+BUFFY	I want to go home.
+JOYCE	Everything's going to be okay. I promise.
+XANDER	That was a new experience. I'm not used to seeing Buffy scared like that.
+JOYCE	She just hates hospitals. Since she was a little girl.
+WILLOW	What happened?
+JOYCE	When Buffy was eight... her cousin, Celia, died in a hospital. Buffy was alone with her when it happened.
+CORDELIA	Yuck.
+JOYCE	They were very close.
+WILLOW	And she was eight?
+JOYCE	She doesn't talk about it, but... she just doesn't like hospitals.
+XANDER	Can't say as I blame.
+JOYCE	Looks like she's asleep. I should go call her father.
+GILES	I think there's a phone...
+JOYCE	Thank you for coming. I really appreciate the way you look out for her. All of you.
+GILES	We're very fond of her.
+JOYCE	I hope I'm not out of line, but I just wanted to say how sorry I am about that teacher, Ms. Calendar. Buffy said you were close.
+GILES	Thank you.
+JOYCE	Buffy's been so down since it happened. She never gets sick.
+GILES	I'm sure she'll be fine.
+JOYCE	I'm sorry, I babble when I'm nervous. I just wanted to -- well, if you need anything.
+XANDER	You think she'll be okay in here?
+CORDELIA	I don't know... Lysette got her nose done here, you know; she asked for the Gwyneth Paltrow but it looked more like the Mr. Potato Head --
+XANDER	Cordy.
+WILLOW	Buffy's not here for cosmetic surgery.
+CORDELIA	No, but while she's here she could get that thing taken care of. That thing on her face -- you know, that thing .
+WILLOW	Do you think Angel would attack her in here?
+XANDER	He can come in. It's a public building.
+WILLOW	That's true...
+WILKINSON	I'm just saying step back the dosage until we can analyze the results.
+BACKER	There isn't time. I would think that would be clear by now.
+WILKINSON	The normal course of treatment --
+BACKER	They aren't responding to the normal course of treatment. They're getting worse.
+WILKINSON	Raising their temperatures is potentially --
+BACKER	Dr. Wilkinson, I have the parents' consent.
+WILKINSON	They're desperate. They don't understand what you're doing.
+BACKER	If you have a problem with my methods, bring it up with the board.
+WILKINSON	I have.
+BUFFY	Who?
+RYAN	Death.
+XANDER	Visiting hours are over.
+ANGEL	Well, I'm pretty much family.
+XANDER	Why don't you come back during the day... Or, gee, no. I guess you can't.
+ANGEL	If I decide to walk into Buffy's room do you think for one microsecond that you could stop me?
+XANDER	Maybe not. Maybe that security guard couldn't either -- or those cops. Or all the orderlies... I'm kind of curious to find out. You game?
+ANGEL	Buffy's white knight. You still love her. It must just eat you up that I got there first.
+CELIA	You saved me! Thank you, Power Girl!
+BUFFY	You're safe now.
+WILKINSON	Good morning.
+BUFFY	Coulda fooled me...
+WILKINSON	How are you feeling? Looks like your fever is down.
+BUFFY	Well, good. Thanks for having me and let's try to keep in touch.
+WILKINSON	Not so fast.
+BUFFY	Good Hmmm or bad Hmmm?
+WILKINSON	Swelling is down... Swelling is gone. Does that hurt?
+BUFFY	Nope.
+WILKINSON	Amazing...
+BUFFY	So I should go.
+WILKINSON	Soon. We want to make sure that fever's gone. It's a strong virus. Not as strong as you , maybe...
+BUFFY	Is that what Tina had?
+GILES	May we come in?
+WILKINSON	Please. See if you can keep our patient from bolting. Rest.
+XANDER	Flowers for m'lady?
+BUFFY	These are balloons.
+XANDER	Stick 'em in water, maybe they'll grow.
+WILLOW	And, not to be outdone--
+BUFFY	Homework.
+WILLOW	Just my way of saying 'Get Well Soon.'
+BUFFY	You know, chocolate says that even better.
+WILLOW	I did all of your assignments. All you have to do is sign your name.
+BUFFY	Chocolate means nothing to me.
+CORDELIA	Nobody told me we were supposed to bring gifts. I was out of the loop on gifts.
+GILES	Well, it's traditional among... people. (to Buffy) Did you pass the night well enough?
+BUFFY	Well, not really. Some stuff happened, I'm wondering...
+BUFFY	Now this part I could get used to.
+WILLOW	You want me to go real fast? Not that I would...
+GILES	You were discussing 'stuff'?
+BUFFY	Stuff, yeah. You know a girl died here last night.
+WILLOW	How?
+BUFFY	Well, that flu.
+XANDER	Flu? Doesn't exactly sound monsterrific.
+BUFFY	Well, there's this Dr. Backer, he's been giving them experimental treatments -- he's kinda creepy -- I'm not sure what he's up to. And then I met this kid, Ryan. He said he saw something.
+GILES	Saw what?
+BUFFY	Death.
+CORDELIA	Death?
+WILLOW	The Death? As in, 'it is your time?'
+GILES	Buffy, a frightened child --
+BUFFY	But I thought I saw something -- I was out of it, I'm not sure, but.
+CORDELIA	But you do know it was death?
+WILLOW	Did he have an hourglass?
+XANDER	If he asks you to play chess, don't even do it. Guy's like a whiz .
+BUFFY	Look, maybe it wasn't death. Maybe it was something else.
+CORDELIA	Okay, so this isn't about that you're afraid of hospitals cause your little friend died and you wanna conjure up a monster that you can fight and save everybody and not feel helpless?
+GILES	Cordelia, have you ever actually heard of tact?
+CORDELIA	Tact is just not saying true stuff. I'll pass.
+WILLOW	Your mom did tell us about your cousin...
+BUFFY	This has nothing to do with that. This kid Ryan was afraid of something. Something real. As long as I'm forced to stay here, I wanna find out what.
+XANDER	Is this the place where we say, 'What can we do to help?'
+XANDER	It'll be cake. We find out exactly how this little girl Tina died, we get out. Five minutes, tops.
+CORDELIA	This is what happens when you try to be compassionate toward sick people. They take advantage of you.
+XANDER	Mm-hmm. Buffy almost died just so she could put you out.
+CORDELIA	I didn't want to be the first one to say it.
+XANDER	Me here, you there.
+CORDELIA	Right.
+WILLOW	Okay, where do we start?
+GILES	Hmm? Oh, I don't know. Maybe look into the history of the hospital, bizarre incidents, that sort of thing.
+WILLOW	I'm sensing less than full committal here.
+GILES	Well, I suppose... Cordelia may be Homerically Insensitive, but she may also be right. Disease and death are things -- possibly the only things-- that Buffy cannot fight. It would be natural for her to try to create a defeatable opponent. Especially now, after... after Jenny.
+WILLOW	That's true. But, on the we-live-on- the-Hellmouth side, these kids might have seen a monster.
+GILES	That no grown-up can see. Doesn't ring a bell. Unless...
+WILLOW	Unless?
+GILES	Sometimes small children do see something we adults don't. Us. Our true selves. Our hidden faces.
+WILLOW	So the kids might be afraid of a regular person. Like the weird doctor.
+GILES	Stanley Backer was the name, no?
+WILLOW	Let's look him up.
+DON	You know, people always think security guards are just guys that failed the police exam. That's not me -- this is my career .
+CORDELIA	Stereotypes are so unfair.
+DON	I did take the fireman exam, though. I didn't do so good.
+CORDELIA	I think security guards are way sexier than firemen. They're all so sooty.
+DON	This is where the action is, anyhow. I'm all the time restraining people.
+CORDELIA	Ooh, how thrilling. Do you get scared?
+DON	'Fear is for the weak.' That's my motto. Well, either that or 'Live in the now.' I haven't decided yet.
+CORDELIA	I bet you see a lot of tragedy, too. Like that little girl...
+DON	One of Dr. Backer's patients. Dr. Backer's a great man. He understands the real truth about children.
+CORDELIA	What's that?
+DON	Sometimes they die.
+CORDELIA	I didn't hear anything.
+XANDER	Could you make just a little more with the touchy-gropey?
+CORDELIA	Jealous?
+XANDER	Of Rogain boy? I don't think so. (hands her the file) Take this to Giles, okay?
+CORDELIA	What about you?
+XANDER	I'm staying here.
+CORDELIA	Oh, right, your obsession with protecting Buffy. Have I ever told you how attractive that's not?
+XANDER	Cordelia, someone's gotta watch her back.
+CORDELIA	Yeah, I've seen you watch her 'back.'
+XANDER	What's that supposed to mean? COR
+DELIA	I was using the phrase 'watch her back' as a euphemism for looking at her butt. Sort of a pun.
+XANDER	Oh. Right. Hey !
+CORDELIA	Well, you do!
+XANDER	Jealous?
+CORDELIA	Fine. Watch my back.
+GILES	The good Doctor Backer has something of a rap sheet.
+WILLOW	Reprimands for controversial experiments, risky procedures -- a malpractice suit... looks like it was dropped suddenly.
+GILES	Factor in Buffy's observation that he, uh, gives her the wiggins...
+WILLOW	This could be our death guy?
+GILES	I just wish I knew what he was doing to these children.
+BUFFY	Hi. Remember me?
+RYAN	You're not supposed to be here.
+BUFFY	Why not?
+RYAN	Contagious.
+BUFFY	Oh, I already got what you got.
+RYAN	He'll come again tonight.
+BUFFY	Ryan, listen to me. I'm not gonna let this thing hurt you. Any of you.
+RYAN	Can't fight death.
+GILES	Well. It looks like you were on to something after all.
+BUFFY	I know.
+GILES	The girl Tina -- it looks as though she died from the fever, simple enough. But her records show her improving and then suddenly worsening without apparent cause.
+WILLOW	So we checked out Dr. Backer and this guy is not the solid citizen --
+BUFFY	It's not him. Backer was clean.
+CORDELIA	What do you mean, clean?
+XANDER	What do you mean, was ?
+BUFFY	He's dead. This thing killed him. And not with kindness.
+WILLOW	You saw it.
+BUFFY	No, it was invisible. I saw Backer nearly shredded and the thing knocked me down. It's real. Which means I get to fight it.
+GILES	It would help if you knew what it was. It's invisible to you but the children can see it.
+CORDELIA	But you said you did see something the other night.
+BUFFY	Yeah, but I was pretty delirious... I mean, why would I see it then and not last night?
+CORDELIA	You sure didn't, though.
+JOYCE	Honey, I just talked to the doctor. She says I can take you home.
+BUFFY	I have to stay here.
+JOYCE	Stay? But honey, I thought --
+BUFFY	I think my symptoms are flaring up again.
+WILLOW	She doesn't look well.
+BUFFY	'Cause I'm not well. I feel oogy.
+XANDER	Increased oogy-ness... That's a danger signal.
+JOYCE	Are you sure?
+BUFFY	Yeah. Just for another day...
+JOYCE	Well, I'll talk to the doctor.
+XANDER	What's the drill?
+BUFFY	Giles, let's get a mug shot on this guy. I kneed to know who I'm fighting.
+GILES	Right.
+BUFFY	I'll check Backer's office. See if there are any post-its marked 'Why a monster might want me dead.'
+XANDER	Sounds like a plan.
+BUFFY	If I do find something, I probably won't have the slightest idea what it means, so, Willow...
+WILLOW	Oh, I'm good with medical stuff. Xander and I used to play doctor all the time.
+XANDER	No, she's being literal. She had all these medical volumes, used to diagnose me with stuff. I didn't have the heart to tell her she was playing it wrong.
+WILLOW	Wrong? Why? How did you play doctor?
+BUFFY	I never have.
+GILES	Fascinating though this is...
+BUFFY	Yeah. Right. Go.
+GILES	We'll call when we know something.
+BUFFY	Know something soon.
+GILES	I'd best head for the library. Research beckons.
+XANDER	I'm on sentry duty. Angel won't show 'til sundown if at all, but maybe I'll get lucky with this death guy.
+CORDELIA	He's invisible.
+XANDER	Yeah, but if I see a floating pipe and smoking jacket, he's dropped.
+GILES	Well, keep alert, you two.
+XANDER	Finding out who this thing is is the priority. Cordy, you should go with Giles.
+GILES	But why do I have to have -- (stops himself) Good thinking. I could use a research assistant.
+CORDELIA	Let's go, tact-guy. Be careful.
+BUFFY	Yet another person I wasn't in time to save. I wish Angel had put me in the hospital sooner. There's a sentence I never expected to say.
+WILLOW	I think I got something here.
+BUFFY	Yeah?
+BUFFY	Would that work?
+WILLOW	According to this, it was starting to. So he really was helping the kids.
+CORDELIA	Ew. What's this one do?
+GILES	What? Oh. It, um, extracts vital internal organs so that it can regenerate its own mutating cells.
+CORDELIA	Wow. What's this one do?
+GILES	It elongates its mouth to engulf the head of its casualty between its teeth.
+CORDELIA	Ouch. What's this one do?
+GILES	It asks endless questions of those with whom it's supposed to be working but they're not getting anything done!
+CORDELIA	Boy, there's a demon for everything.
+BUFFY	Where's Giles?
+CORDELIA	Looking up stuff.
+BUFFY	Well, can you put him on?
+CORDELIA	Hey, I found this Kindestod guy. Just listen.
+BUFFY	Right.
+CORDELIA	The name means 'Child Death.' This book says he feeds off of children by sucking the life out of them. Blech. But afterwards, it just looks like they died because they were sick.
+BUFFY	So it did kill Tina?
+CORDELIA	That's my take. 'Cause it would be looking at that children's ward as basically an all-you-can-eat kind of thing.
+BUFFY	Backer was curing the kids -- and taking away the Kindestod's food.
+CORDELIA	Hence the slice-age.
+CORDELIA	EWW!
+BUFFY	What?
+CORDELIA	You should see how this thing does its things! I mean... ewww!
+GILES	Buffy, you still there?
+BUFFY	Hanging on every 'ew.'
+GILES	The Kindestod gorges by sitting atop his prey, pinning it down helplessly. Then he slowly draws out the life. It must be horrifying for the victim. (a beat) Buffy?
+CELIA	Get it off me! Get it off me!
+BUFFY	I've got to get this thing, Willow. Before it gets those kids.
+WILLOW	You will. We will.
+BUFFY	But how? I can't even see it!
+WILLOW	You saw it once.
+BUFFY	Did I? Maybe my mind was playing with me. I mean, I was crazed with that fever and--
+WILLOW	Buffy, think about this.
+BUFFY	I am. Lots of thoughts.
+WILLOW	It's crazy.
+BUFFY	The fever. That's how you see the Kindestod. That's why Celia could see it. That's why Ryan still can. It's the only way.
+WILLOW	But how can you fight this thing when you have a 107 degree temperature?
+BUFFY	I guess we'll find out.
+WILLOW	Buffy!
+BUFFY	Willow, I'm doing this--
+WILLOW	That's 100% pure. It'll kill you in an instant.
+BUFFY	They should put that on the label.
+WILLOW	Here. It needs to be diluted.
+BUFFY	I'm not sure this was such a great idea.
+WILLOW	Hang in there. You'll be okay.
+WILLOW	What could've happened?
+BUFFY	I don't know. Maybe I'm too late. Maybe they were moved. I don't want to think about the other maybe.
+WILLOW	What?
+BUFFY	I think it's in there.
+WILKINSON	You should be in bed.
+BUFFY	I'm fine. Really.
+WILKINSON	No. You're coming with me.
+XANDER	Buffy! Are you okay? Did Angel get in?
+BUFFY	We have to get to the basement.
+XANDER	You don't know how to kill this thing.
+BUFFY	I thought I might try violence.
+XANDER	Solid call.
+XANDER	Are you okay?
+BUFFY	Actually, I'm starting to feel better.
+BUFFY	And the juice?
+JOYCE	Two parts orange, one part grapefruit.
+BUFFY	That's my drink.
+JOYCE	I measured exactly.
+BUFFY	I wanted crunchy style.
+JOYCE	Oh. I'm sorry.
+BUFFY	And, um, I ordered extra jelly.
+JOYCE	Anything to help my daughter get well.
+JOYCE	Of course.
+XANDER	Ooh, and another bag of Chee-Zee Chips.
+JOYCE	You ate the last one.
+XANDER	No. I saw another bag hidden behind the raisins.
+JOYCE	I'm on it.
+XANDER	Your mom's trying to bogart the Chee- Zee Chips. What's that all about?
+JOYCE	Oh, Buffy. Here.

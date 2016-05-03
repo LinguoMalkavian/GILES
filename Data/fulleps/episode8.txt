@@ -1,0 +1,880 @@
+MOLOCH	Do you love me? I will give you everything. All I want is your love.
+THELONIUS	It is Moloch. The corrupter. He walks again. More and more of our people have fallen under his mesmerizing power.
+THELONIOUS	We must form the circle. Now! There is still time to bind him.
+MOLOCH	No...
+THELONIUS	(By the power of the Circle of Kayless, I command you, demon... come!)
+THELONIUS	I command you!
+THELONIUS	(Pray this accursed book shall never again be read, lest the demon Moloch be loosed upon the world...)
+BUFFY	Oh, great. A book.
+GILES	I haven't gone through the new arrivals. Put it in that pile --
+DAVE	Here, I got it.
+BUFFY	Thanks, Dave. The Willow pile.
+GILES	After I've examined it, you can, uh... skim it in.
+GILES	Of course...
+CALENDAR	I know our ways are strange to you, but soon you will join us in the 20th century... with three whole years to spare!
+GILES	Ms. Calendar, I happen to believe that one can function in modern society without being a slave to the idiot box.
+GILES	Well, I still prefer a good book.
+FRITZ	The printed page is obsolete. Information isn't bound up anymore, it's an entity. The only reality is virtual. If you're not jacked in, you're not alive.
+CALENDAR	Thank you, Fritz... for making us all sound like crazy people. Fritz comes on a little strong, but he has a point. You know for the last two years there was more E-mail sent than regular mail? More digitalized information went over phone lines than conversations.
+GILES	That is a fact that I regard with genuine horror.
+WILLOW	I've just got a few more to do. I'll hang for a bit.
+WILLOW	Xander, you want to stay and help me?
+XANDER	Are you kidding?
+WILLOW	Yes, it was a joke I made up.
+XANDER	Willow, I love you, but bye.
+WILLOW	I'll see you tomorrow...
+XANDER	Buffy, wait up!
+GILES	I have to stay and clean up. I'll be back in the Middle Ages.
+CALENDAR	Did you ever leave?
+BUFFY	Willow! Willow! Hey, wait up!
+WILLOW	Buffy! I didn't even see you.
+BUFFY	Or hear me. What was up last night? I tried your line like a million times.
+WILLOW	Oh, I was... I was talking.
+BUFFY	Talking to...
+BUFFY	Okay, that's it. You have a secret and that is not allowed.
+WILLOW	Why not?
+BUFFY	'Cause... there's a rule.
+WILLOW	Well... I sort of met someone.
+BUFFY	I knew it! This is so important. When did you meet?
+WILLOW	Last week. Right after we did the scanning project in the Library.
+BUFFY	Does he go here? What's his name? Have you kissed him? What's he like?
+WILLOW	No, Malcolm, no, and very nice.
+BUFFY	You are a thing of evil for not telling me this right away.
+WILLOW	Well, I wasn't sure there was anything to tell. But last night -- oh, we talked all night. It was amazing. He's so smart, Buffy, and he's romantic and we agree about everything.
+BUFFY	What's he look like?
+WILLOW	I don't know.
+DAVE	Yes... I will. I promise.
+BUFFY	You've been seeing a guy and you don't know what he looks like. Okay, it's a puzzle. No wait, I'm good at these. Does it involve a midget and a block of ice?
+WILLOW	I met him on line.
+BUFFY	On line for what?
+BUFFY	Oh. On line. As in -- right. Duhh.
+BUFFY	I have a free.
+CALENDAR	Cool. But this is lab time so let's make it a nice short visit, okay?
+BUFFY	Oh sure.
+COMPUTER	You have mail!
+WILLOW	It's him...
+WILLOW	He's so sweet.
+BUFFY	Uh, yeah, he's a sweetie.
+WILLOW	What should I write back?
+BUFFY	Uh, Willow... I think it's great that you've got a cool pen pal, but... you seem to be kind of rushing all into this. You know what I mean?
+WILLOW	"I'm thinking of you too!" No, that's incredibly stupid.
+BUFFY	Will. Down girl. Let's focus. What do you really know about this guy?
+WILLOW	See, I knew you'd react like this.
+BUFFY	Like what? I just think you should be, well, careful.
+WILLOW	Buffy --
+BUFFY	He could be different than you think.
+WILLOW	His name is Malcolm Black, he's eighteen, he lives in Elmwood which is like eighty miles from here and he likes me.
+BUFFY	Short, tall, skinny, fat...
+WILLOW	Why does everything have to be about looks?
+BUFFY	Not everything. But some stuff is. I mean, what if you guys get really intense and then you find out he... has a hairy back?
+WILLOW	Well... no. He doesn't talk like the kind of person who has a hairy back. And anyway that stuff doesn't matter if you really care about each other. (a little vulnerable) Maybe I'm not his ideal of babelitude either.
+BUFFY	Hey. I just want to make sure he's good enough for you, that's all. I think it's great that you're --
+FRITZ	Hey! Are you done?
+BUFFY	What?
+FRITZ	I'm trying to work.
+BUFFY	Okay, sorry...
+CALENDAR	Hey, Fritz. I'm looking at the logs -- you and Dave are clocking a pretty scary amount of computer time.
+FRITZ	New project.
+CALENDAR	Will I be excited?
+FRITZ	You'll die.
+XANDER	Guess who.
+WILLOW	Xander.
+XANDER	Well, yeah, but keep guessing anyway.
+WILLOW	Xander.
+XANDER	I can't fool you. You see right through my petty charade. Are we going to the Bronze tonight?
+WILLOW	Not me. I think I'm gonna make it an early night.
+XANDER	Malcolm, huh? That's right, I heard. Okay, but you're missing out. I'm planning to be witty. I'll be making fun of all the people who won't talk to me.
+WILLOW	That's nice. Have a good time.
+XANDER	Color in the cheeks, a bounce in the step -- I don't like it. It isn't healthy. So what about you? Bronze? No, you probably have to slay vampires or some lame endeavor like that. Everybody deserts me.
+BUFFY	Check out the jealous man.
+XANDER	What are you talking about?
+BUFFY	You're jealous!
+XANDER	Of what?
+BUFFY	Willow's got a thang and Xander's left hanging.
+XANDER	That's meaningless drivel. I'm not interested in Willow like that.
+BUFFY	Yeah, but you got used to being the belle of the ball.
+XANDER	No, it's just... this Malcolm guy. What's his deal? Admit that it wigs you slightly.
+BUFFY	Slightly. I mean, just not knowing what he's really like.
+XANDER	How about who he really is? Oh sure, he says he's a high school student. I could say I was a high school student.
+BUFFY	You are.
+XANDER	Okay, but I could also say I was an elderly Dutch woman, get me? Who's to say I'm not? If I'm in the elderly Dutch chat room --
+BUFFY	I get your point. I get your point. This guy could be anything. Old, weird, crazy... he could be a circus freak!
+XANDER	You know, you read about these things all the time. Two people meet on the net, they talk, they get together, dinner, a show, horrible axe murder...
+BUFFY	Willow axe-murdered by a circus freak. What do we do?
+BUFFY	What are we doing? Xander, you get me started... we're totally over-reacting.
+XANDER	I know, but isn't it fun?
+FRITZ	I'm jacked in I'm jacked in I'm jacked in I'm jacked in...
+BUFFY	Whoah, you're the late girl.
+WILLOW	I overslept.
+BUFFY	Till fifth period? Talking to Malcolm last night?
+WILLOW	Yeah. What.
+BUFFY	Nothing.
+WILLOW	You're having an expression.
+BUFFY	I'm not. But if I was, it would be saying... It's just not like you.
+WILLOW	Not like me to have a boyfriend?
+BUFFY	He's... boyfriendly?
+WILLOW	Malcolm and I really care about each other. Big deal if I blow off a couple of classes.
+BUFFY	I thought you overslept.
+WILLOW	Malcolm said you wouldn't understand.
+BUFFY	Malcolm was right.
+BUFFY	Hi Dave.
+BUFFY	Hey there Dave.
+BUFFY	Anybody home?
+DAVE	Oh. What do you want?
+BUFFY	I wanted to ask you something. If you had a minute...
+DAVE	A minute. Okay. Yeah, a minute... What is it?
+BUFFY	Well, you're a computer geek --nius... I have a technical problem. If I wanted to find out something about someone, if someone E-mailed me, could I trace the letter?
+DAVE	Well, you can pull up someone's profile based on their user name.
+BUFFY	But they write the profile themselves, right? So they could say anything they want.
+DAVE	True.
+BUFFY	Wow, I had knowledge.
+BUFFY	Well, is there a way to find out exactly where a letter -- an E-letter -- came from? I mean the actual location of the computer?
+DAVE	It's a challenge...
+BUFFY	'Cause Willow's got this friend Malcolm and it's like he's --
+DAVE	Leave Willow alone.
+BUFFY	What do you mean?
+DAVE	That's none of your business.
+BUFFY	Dave... are you Malcolm?
+DAVE	Of course not. I have to get back to work.
+BUFFY	Your hands...
+DAVE	It's nothing. I'm typing a lot.
+BUFFY	What's going on?
+DAVE	Look, I'll talk to you later. I've got work to do.
+BUFFY	So do I.
+BUFFY	There's something going on. It's not just Willow; Dave and Fritz, they're all wicked jumpy.
+GILES	Well, those boys aren't sparklingly normal as it is.
+BUFFY	Giles, trust me.
+GILES	I do. But I don't really know how to advise you. Things involving the computer fill me with a childlike terror. Now if it were a nice Ogre or some such I'd be more in my element.
+BUFFY	And our resident computer expert is too wrapped up in her new cyber-beau to help out. I gotta figure this out.
+GILES	Well, I suppose you could "tail" Dave, see if he's up to something.
+BUFFY	Follow Dave? What, in a trench coat and dark glasses? Please. I'll work this out. Willow's been acting weird since we scanned those books. Fritz has been acting weird since birth... I don't know. I've got all the pieces but no puzzle. Or, I've got puzzle pieces but some of them are missing. Or they're in the wrong place in the puzzle... I hate metaphors. I'm gonna follow Dave.
+FRITZ	She's too close... What do I do?
+FRITZ	Party.
+GILES	What was the name of the place?
+BUFFY	Said CRD. I couldn't get close enough to see what it was --
+XANDER	Calax Research and Development. Computer research lab. Third biggest employer in Sunnydale, till it closed last year. What, I can't have information sometimes?
+GILES	It's just somewhat unprecedented.
+XANDER	Well, my uncle used to work there. In a floor-sweeping capacity.
+BUFFY	But it closed.
+XANDER	Uh-huh.
+GILES	We still don't know a terrible lot. Whatever's going on there could be on the up and up.
+XANDER	If CRD re-opened it'd be in the news.
+BUFFY	Besides, I can just tell something's wrong. My spider-sense is tingling.
+GILES	Your spider-sense?
+BUFFY	Pop-culture reference.
+XANDER	Duck.
+GILES	Yes, well, I think we're at a standstill. Short of breaking into the place, I don't see --
+BUFFY	Breaking in. This then is the plan.
+XANDER	I'm free tonight.
+BUFFY	Tonight it is.
+GILES	A moment, please, of quiet reflection -- I did not suggest that you illegally enter the data into the file and then the book will be listed by title as well as author.
+CALENDAR	Hi.
+GILES	Hello.
+CALENDAR	I was gonna check your new database, make sure your cross reference table isn't glitching. 'Cause I'm guessing you haven't gone near it.
+GILES	A safe assumption.
+CALENDAR	You here again? You kids really dig on the library, don't you?
+BUFFY	We're literary.
+XANDER	To read is makes our speaking English good.
+BUFFY	Well, we gotta go.
+GILES	Yes, we'll continue our conversation another time.
+BUFFY	No, I think we're done. Our speaking English good?
+XANDER	I panicked, okay?
+WILLOW	I know what you mean. I feel like you know me better than anyone.
+WILLOW	Do you think we should... (hesitates before saying\ typing) ... meet?
+WILLOW	I'm nervous.
+WILLOW	That's what Buffy doesn't understand. How comfortable you can make me feel.
+WILLOW	How did you know that?
+WILLOW	I guess.
+WILLOW	I have to sign off. I'll talk to you later.
+GILES	I am no such thing.
+CALENDAR	You're a big snob. You think knowledge should be kept in carefully guarded repositories where only a handful of white guys can get at it.
+GILES	That's nonsense. I simply don't adhere to the knee jerk assumption that because something is new, it's better.
+CALENDAR	This isn't a fad, Rupert. We're creating a new society.
+GILES	A society in which human interaction is all but obsolete. In which people can be completely manipulated by technology. Thank you, I'll pass.
+CALENDAR	Well, I think you'll be very happy here with your musty old books.
+GILES	These musty old books have a great deal more to say than any of your fabulous web pages.
+CALENDAR	This one doesn't have a whole lot to say.
+CALENDAR	What is it, like a diary?
+GILES	How odd. I haven't looked through all the volumes, yet, I didn't --
+GILES	Uh, nothing. A diary. Yes. I imagine that's it.
+CALENDAR	Nice. You collect heavy metal album covers, too?
+GILES	Yes...
+CALENDAR	You do?
+GILES	Well, it was nice talking to you.
+CALENDAR	We were fighting.
+GILES	We must do it again sometime. Bye now.
+DAVE	Buffy.
+BUFFY	Dave. How're you doing?
+DAVE	I'm okay. I'm sorry about yesterday. I haven't been sleeping much.
+BUFFY	Don't sweat it.
+DAVE	Uh, Willow was looking for you.
+BUFFY	Oh, great, I wanted to catch her before she went home. Do you know where she is?
+DAVE	She said she would be in the girl's locker room.
+BUFFY	Great. Thanks.
+BUFFY	Willow?
+BUFFY	Will? You taking a shower?
+BUFFY	Guess not.
+BUFFY	This is how droughts are started.
+DAVE	I can't do it. I'm not gonna do it!
+COMPUTER	But you promised.
+COMPUTER	The project is almost complete. You won't have to do this for me anymore.
+DAVE	I can't...
+COMPUTER	I've shown you a new world, Dave. Knowledge, power... I can give you everything. All I want is your love.
+DAVE	No. This isn't right. None of it is!
+COMPUTER	I'm sorry. I've been a terrible person.
+COMPUTER	I'm a coward and I can't go on living like this. Forgive me, Mom and Dad.
+COMPUTER	At least now I'll have some peace. Remember me.
+COMPUTER	Love, Dave.
+XANDER	I'm gonna kill Dave.
+BUFFY	He tried to warn me.
+XANDER	Warn you that he set you up! Is she gonna be okay?
+GILES	She was only grounded for a moment. Still, if you'd been anyone but the Slayer...
+BUFFY	Tell me the truth. How's my hair?
+XANDER	It's great. It's your best hair ever.
+GILES	Oh yes.
+BUFFY	I just don't understand what would make Dave do a thing like that.
+GILES	I think perhaps I do.
+XANDER	Care to share?
+GILES	Does this look familiar to either of you?
+BUFFY	Yeah, sure. It looks like a book.
+XANDER	I knew that one.
+GILES	Well, this particular book was sent to me by an archeologist friend who found it in an old monastery.
+XANDER	Wow, that's really boring.
+GILES	There are certain books that are not meant to be read. Ever. They have things trapped within them.
+BUFFY	Things.
+GILES	Demons.
+BUFFY	Here we go...
+GILES	In the Dark Ages Demons' souls were sometimes trapped in certain volumes. The demon would remain in the book, harmless, unless the book was read aloud. If I'm not mistaken, this is Moloch, the corruptor. A very deadly and seductive demon. He draws people to him with promises of love, power, knowledge. Preys on impressionable minds.
+GILES	Dave, and who knows how many others.
+GILES	Not anymore.
+XANDER	You released Moloch!?
+BUFFY	Oh, way to go.
+GILES	I didn't read it! That awful Calendar woman found it and it was already blank.
+BUFFY	So a powerful demon with horns is walking around Sunnydale? And nobody's noticing?
+XANDER	If he's so big and strong, why bother with Dave? Why didn't he just attack Buffy himself?
+GILES	I don't know. And I don't know who could have read the book. It wasn't even in English.
+BUFFY	Where was it?
+GILES	In a pile, with the other books that were... scanned...
+BUFFY	Willow scanned all the new books.
+XANDER	And that released the demon.
+BUFFY	No... he's not out here. He's in there.
+GILES	The scanner read the book. Brought Moloch out -- as information to be absorbed.
+BUFFY	He's gone binary on us.
+XANDER	Okay, for those of us in our studio audience who are me, you guys are saying that Moloch is in this computer.
+BUFFY	And in every computer connected to it by a modem.
+GILES	He's everywhere.
+XANDER	So what do we do?
+BUFFY	Put him back in the book?
+GILES	Willow scanned him into her file. This may be a futile gesture, but I suggest we delete it.
+BUFFY	Solid.
+XANDER	Don't get too close.
+BUFFY	So, which file is it? Willow. That'd probably be the one. I'll just delete the whole thing.
+COMPUTER	Stay away from Willow. It's none of your business.
+BUFFY	"Stay away." That's just what Dave said when I asked about Willow and... Malcolm...
+XANDER	What are you thinking?
+BUFFY	I'm wishing Willow's new boyfriend was just an axe-murdering circus freak.
+BUFFY	Okay, so much for "delete file".
+GILES	This is very bad.
+XANDER	Are we over-reacting? This guy's in a computer, what can he do?
+BUFFY	You mean besides convince a perfectly nice kid to try and kill me? I don't know... mess up all the medical equipment in the world...
+GILES	Randomize traffic signals...
+BUFFY	Access launch codes for our nuclear missiles...
+GILES	Destroy the world's economy...
+BUFFY	I think I pretty much capped it with the nuclear missile thing.
+GILES	All right, yours was best.
+XANDER	Okay, he's a threat. I'm on board with that now. What do we do?
+BUFFY	The first thing we do is find Willow. She's probably talking to him right now. God, that creeps me out.
+XANDER	What does he want with Willow?
+BUFFY	Let's never find out. I'm gonna check the computer lab. You call her house.
+BUFFY	Willow?
+BUFFY	Dave...
+XANDER	No answer.
+GILES	Damn.
+XANDER	Well, it's not busy either, so she's not on line.
+XANDER	She's not home.
+GILES	What did you find?
+XANDER	Willow isn't --
+BUFFY	Dave. He's dead.
+GILES	My God...
+XANDER	This is really real, huh.
+GILES	How --
+BUFFY	Well, it looked like suicide.
+XANDER	With a little help from my friends?
+BUFFY	I'd guess Fritz. Or one of the zomboids from CRD.
+GILES	Horrible.
+BUFFY	We're going to Willow's house. (to Giles) You have to find a way to get Moloch out of the net.
+GILES	I have records of the ceremonies but that's for dealing with a creature of flesh. This could be completely different.
+BUFFY	Then get Ms. Calendar. Maybe she can help you.
+GILES	Even if she could, how am I going to convince her there's a demon on the internet?
+BUFFY	Okay, stay here and come up with a better plan. (to Xander) Come on.
+WILLOW	Mom? Dad?
+COMPUTER	You have mail!
+COMPUTER	You have mail!
+WILLOW	Dad, did you forget your keys again?
+FRITZ	No more waiting.
+GILES	Binding ritual... there we are...
+CALENDAR	I got your message. What's so urgent?
+GILES	Thank you for coming. I need your help. But before that, I need you to believe something you may not want to. (gathers himself) Something has gotten into... inside... (oh just say it) There's a demon in the internet.
+CALENDAR	I know.
+XANDER	That's not good...
+BUFFY	Willow!
+XANDER	Okay, any thoughts?
+XANDER	What about CRD?
+BUFFY	The research place?
+XANDER	I'm guessing that's Moloch central.
+BUFFY	I guess it's our best lead. Let's just hope Giles can back us up.
+GILES	You already know. How exactly is that?
+CALENDAR	Come on, there've been portents for days. Power surges, on-line shutdowns -- and you should see the bones I've been casting. I knew this would happen sooner or later. It's probably a mischief demon -- Kelkor, or --
+GILES	It's Moloch.
+CALENDAR	The corruptor. Oh boy. He was the one on your book! I should have remembered.
+GILES	I'm sorry, I have to say -- I mean, you don't seem terribly surprised by -- who are you?
+GILES	A profession that hardly lends itself to the casting of bones.
+CALENDAR	Wrong and wrong, snobby. You think the realm of the mystical is limited to ancient texts and relics? That bad old science made the magic go away? The divine exists in cyberspace same as out here.
+GILES	Are you a witch?
+CALENDAR	I don't have that kind of power. Technopagan is the term. There's more of us than you'd think.
+GILES	Well, I definitely need your help. What's in cyberspace at the moment is less than divine. I have the binding rituals at hand but I am completely out of my idiom.
+CALENDAR	Well, I can help -- I think. I hope. I mean, this is my first real... Do you know how he got in?
+GILES	He was -- scanned is the term, I believe.
+CALENDAR	And you want him back in the book. Right. Cool. But shouldn't we make sure we've got enough ammo to --
+GILES	There's no time. Moloch seems to have fixated on Willow. We need to get him out now.
+CALENDAR	Okay, okay... minor panic, but I'm dealing... first thing is... what does the book say?
+GILES	Buffy?
+BUFFY	Yeah.
+BUFFY	Not at home. It looks like she was taken somewhere.
+BUFFY	CRD. Whatever Moloch wants Willow for, it's probably in there.
+BUFFY	Here's a tip: Hurry.
+XANDER	This place is pretty heavily secured. How do we get in?
+BUFFY	With jumping, sneaking, and the breaking of heads.
+XANDER	I'll work on the sneaking.
+BUFFY	I just hope Willow's still okay.
+VOICE	I can't tell how good it is to finally see you...
+MOLOCH	... with my own two eyes.
+WILLOW	"Finally see me?" Malcolm...?
+MOLOCH	This world is so new, so exciting. And I can see all of it. Everything flows through me. I know the secrets of your kings. But none of it compares to having form again. To be able to walk... to touch...
+MOLOCH	To kill.
+XANDER	Back way?
+BUFFY	Back way.
+MOLOCH	Ah. Here they come.
+CALENDAR	The first thing we have to do is form the Circle of Kayless, right?
+GILES	Form the Circle -- But there's only two of us. That's really more of a line.
+CALENDAR	You're not getting it, Giles We have to form the Circle inside. I'm putting out a flash. I just hope enough of my group responds.
+GILES	Won't Moloch just shut you down?
+CALENDAR	I'm betting he won't figure out what we're doing till it's too late.
+GILES	'Hoping' and 'betting'. That's what we've got.
+CALENDAR	You wanna throw in 'praying', be my guest.
+WILLOW	I don't understand. What do you want from me?
+MOLOCH	I want to give you the world.
+WILLOW	Why?
+MOLOCH	You created me. I brought these humans together to build me a body, but you gave me life. Took me out of the book that held me. I want to repay you.
+WILLOW	By lying to me. By pretending to be a person. Pretending... that you loved me.
+MOLOCH	I do.
+XANDER	Buffy...
+BUFFY	It's her!
+XANDER	Yeah. Who's the other guy?
+MOLOCH	Don't you see? I can give you everything. I can control the world. Right now a man in Beijing is transferring money to a Swiss bank account for a contract on his Mother's life. Good for him.
+WILLOW	You're evil.
+MOLOCH	Is that a problem?
+BUFFY	I can't bust this. This is heavy steel.
+XANDER	Then let's find another way in --
+XANDER	What's going on?
+BUFFY	The building's security system is computerized.
+XANDER	Whoops.
+CALENDAR	Almost there.
+GILES	I am.
+GILES	By the power of the devine... By the essence of the word... I command you.
+WILLOW	What are you doing?
+MOLOCH	What comes naturally.
+WILLOW	Let me leave.
+MOLOCH	But I love you.
+WILLOW	Don't say that! That's a joke. You don't love anything.
+MOLOCH	You... are mine...
+WILLOW	I'm not yours. I'm never gonna be yours. I hate you.
+MOLOCH	Pity.
+GILES	By the power of the Circle of Kayless, I command you! Kayless. With a K.
+GILES	Demon, COME!
+WILLOW	Buffy!
+BUFFY	Ow! Guy's made of metal.
+MOLOCH	No! I will not go!
+CALENDAR	Whoah.
+GILES	I command you!
+XANDER	I got to hit someone!
+CALENDAR	He's out of the net. He's bound.
+GILES	He's not in the book.
+CALENDAR	What do you mean?
+XANDER	Let's go this way!
+BUFFY	Wait --
+MOLOCH	I was omnipotent! I was everything! Now I'm trapped in this shell...
+WILLOW	Remember me? Your girlfriend?
+WILLOW	I'm thinking we should break up.
+WILLOW	But maybe we can still be friends.
+BUFFY	Ahhh!
+MOLOCH	This body is all I have left, but it's enough to crush you.
+BUFFY	Take your best shot.
+BUFFY	Hurts, doesn't it?
+BUFFY	Get down!
+CALENDAR	Well, look who's here. Welcome to my world. Are you scared?
+GILES	I'm remaining calm, thank you. I wanted to return this.
+GILES	I found it among the new books and naturally, I thought of you.
+GILES	Nothing could be further from my mind.
+CALENDAR	Great. Pagan rituals and magic spells tend to freak the administration.
+GILES	Yes, I know. I'll see you.
+CALENDAR	Can't get out of here fast enough, can you?
+GILES	Truthfully, I'm even less anxious to be around computers than I used to be.
+CALENDAR	It was your book that started the trouble, not a computer. Honestly, what is it about them that bothers you so much?
+GILES	The smell.
+CALENDAR	Computers don't smell, Rupert.
+GILES	I know. Smell is the most powerful memory trigger there is. A certain flower or a whiff of smoke can bring up experiences long forgotten. Books smell -- musty and rich. Knowledge gained from a computer has no texture, no context. It's there and then it's gone. If it's to last, the getting of knowledge should be tangible. It should be smelly.
+CALENDAR	You really are an old fashioned boy, aren't you?
+GILES	Well, it's true I don't dangle a corkscrew from my ear...
+XANDER	So we're going to the Bronze tonight? We three?
+BUFFY	It'll be fun.
+XANDER	Willow? Fun? Remember fun? The thing when you smile?
+WILLOW	I'm sorry, guys. I'm just thinking about...
+BUFFY	Malcolm?
+WILLOW	Malcolm, Moloch, whatever he's called. The one boy that's really liked me and he's a demon robot. What does that say about me?
+BUFFY	It doesn't say anything about you.
+WILLOW	But I thought -- I mean I was really falling --
+BUFFY	Hey. Did you forget? The one boy I've had the hots for here turned out to be a vampire.
+XANDER	Right! And the teacher I had a crush on: giant praying mantis.
+WILLOW	That's true...
+XANDER	It's life on the Hellmouth.
+BUFFY	Let's face it. None of us is ever going to have a normal, happy relationship.
+XANDER	We're doomed!
+WILLOW	Yeah!
+DAVE	Here, I got it.
+BUFFY	Thanks, Dave. The Willow pile.
+GILES	After I've examined it, you can, uh... skim it in.
+CALENDAR	I know our ways are strange to you, but soon you will join us in the 20th century... with three whole years to spare!
+GILES	Ms. Calendar, I happen to believe that one can function in modern society without being a slave to the idiot box.
+GILES	Well, I still prefer a good book.
+FRITZ	The printed page is obsolete. Information isn't bound up anymore, it's an entity. The only reality is virtual. If you're not jacked in, you're not alive.
+CALENDAR	Thank you, Fritz... for making us all sound like crazy people. Fritz comes on a little strong, but he has a point. You know for the last two years there was more E-mail sent than regular mail? More digitalized information went over phone lines than conversations.
+GILES	That is a fact that I regard with genuine horror.
+WILLOW	I've just got a few more to do. I'll hang for a bit.
+WILLOW	Xander, you want to stay and help me?
+XANDER	Are you kidding?
+WILLOW	Yes, it was a joke I made up.
+XANDER	Willow, I love you, but bye.
+WILLOW	I'll see you tomorrow...
+XANDER	Buffy, wait up!
+GILES	I have to stay and clean up. I'll be back in the Middle Ages.
+CALENDAR	Did you ever leave?
+WILLOW	Buffy! I didn't even see you.
+BUFFY	Or hear me. What was up last night? I tried your line like a million times.
+WILLOW	Oh, I was... I was talking.
+BUFFY	Talking to...
+BUFFY	Okay, that's it. You have a secret and that is not allowed.
+WILLOW	Why not?
+BUFFY	'Cause... there's a rule.
+WILLOW	Well... I sort of met someone.
+BUFFY	I knew it! This is so important. When did you meet?
+WILLOW	Last week. Right after we did the scanning project in the Library.
+BUFFY	Does he go here? What's his name? Have you kissed him? What's he like?
+WILLOW	No, Malcolm, no, and very nice.
+BUFFY	You are a thing of evil for not telling me this right away.
+WILLOW	Well, I wasn't sure there was anything to tell. But last night -- oh, we talked all night. It was amazing. He's so smart, Buffy, and he's romantic and we agree about everything.
+BUFFY	What's he look like?
+WILLOW	I don't know.
+BUFFY	You've been seeing a guy and you don't know what he looks like. Okay, it's a puzzle. No wait, I'm good at these. Does it involve a midget and a block of ice?
+WILLOW	I met him on line.
+BUFFY	On line for what?
+BUFFY	I have a free.
+CALENDAR	Cool. But this is lab time so let's make it a nice short visit, okay?
+BUFFY	Oh sure.
+COMPUTER	You have mail!
+WILLOW	It's him...
+WILLOW	He's so sweet.
+BUFFY	Uh, yeah, he's a sweetie.
+WILLOW	What should I write back?
+BUFFY	Uh, Willow... I think it's great that you've got a cool pen pal, but... you seem to be kind of rushing all into this. You know what I mean?
+WILLOW	"I'm thinking of you too!" No, that's incredibly stupid.
+BUFFY	Will. Down girl. Let's focus. What do you really know about this guy?
+WILLOW	See, I knew you'd react like this.
+BUFFY	Like what? I just think you should be, well, careful.
+WILLOW	Buffy --
+WILLOW	His name is Malcolm Black, he's eighteen, he lives in Elmwood which is like eighty miles from here and he likes me.
+BUFFY	Short, tall, skinny, fat...
+WILLOW	Why does everything have to be about looks?
+BUFFY	Not everything. But some stuff is. I mean, what if you guys get really intense and then you find out he... has a hairy back?
+WILLOW	Well... no. He doesn't talk like the kind of person who has a hairy back. And anyway that stuff doesn't matter if you really care about each other. (a little vulnerable) Maybe I'm not his ideal of babelitude either.
+BUFFY	Hey. I just want to make sure he's good enough for you, that's all. I think it's great that you're --
+FRITZ	Hey! Are you done?
+BUFFY	What?
+FRITZ	I'm trying to work.
+BUFFY	Okay, sorry...
+CALENDAR	Hey, Fritz. I'm looking at the logs -- you and Dave are clocking a pretty scary amount of computer time.
+FRITZ	New project.
+CALENDAR	Will I be excited?
+FRITZ	You'll die.
+XANDER	Guess who.
+WILLOW	Xander.
+XANDER	Well, yeah, but keep guessing anyway.
+WILLOW	Xander.
+XANDER	I can't fool you. You see right through my petty charade. Are we going to the Bronze tonight?
+WILLOW	Not me. I think I'm gonna make it an early night.
+XANDER	Malcolm, huh? That's right, I heard. Okay, but you're missing out. I'm planning to be witty. I'll be making fun of all the people who won't talk to me.
+WILLOW	That's nice. Have a good time.
+XANDER	Color in the cheeks, a bounce in the step -- I don't like it. It isn't healthy. So what about you? Bronze? No, you probably have to slay vampires or some lame endeavor like that. Everybody deserts me.
+BUFFY	Check out the jealous man.
+XANDER	What are you talking about?
+BUFFY	You're jealous!
+XANDER	Of what?
+BUFFY	Willow's got a thang and Xander's left hanging.
+XANDER	That's meaningless drivel. I'm not interested in Willow like that.
+BUFFY	Yeah, but you got used to being the belle of the ball.
+XANDER	No, it's just... this Malcolm guy. What's his deal? Admit that it wigs you slightly.
+BUFFY	Slightly. I mean, just not knowing what he's really like.
+XANDER	How about who he really is? Oh sure, he says he's a high school student. I could say I was a high school student.
+BUFFY	You are.
+XANDER	Okay, but I could also say I was an elderly Dutch woman, get me? Who's to say I'm not? If I'm in the elderly Dutch chat room --
+BUFFY	I get your point. I get your point. This guy could be anything. Old, weird, crazy... he could be a circus freak!
+XANDER	You know, you read about these things all the time. Two people meet on the net, they talk, they get together, dinner, a show, horrible axe murder...
+BUFFY	Willow axe-murdered by a circus freak. What do we do?
+BUFFY	What are we doing? Xander, you get me started... we're totally over-reacting.
+XANDER	I know, but isn't it fun?
+BUFFY	Whoah, you're the late girl.
+WILLOW	I overslept.
+BUFFY	Till fifth period? Talking to Malcolm last night?
+WILLOW	Yeah. What.
+BUFFY	Nothing.
+WILLOW	You're having an expression.
+BUFFY	I'm not. But if I was, it would be saying... It's just not like you.
+WILLOW	Not like me to have a boyfriend?
+BUFFY	He's... boyfriendly?
+WILLOW	Malcolm and I really care about each other. Big deal if I blow off a couple of classes.
+BUFFY	I thought you overslept.
+DAVE	Oh. What do you want?
+BUFFY	I wanted to ask you something. If you had a minute...
+DAVE	A minute. Okay. Yeah, a minute... What is it?
+BUFFY	Well, you're a computer geek --nius... I have a technical problem. If I wanted to find out something about someone, if someone E-mailed me, could I trace the letter?
+DAVE	Well, you can pull up someone's profile based on their user name.
+BUFFY	But they write the profile themselves, right? So they could say anything they want.
+DAVE	True.
+BUFFY	Wow, I had knowledge.
+BUFFY	Well, is there a way to find out exactly where a letter -- an E-letter -- came from? I mean the actual location of the computer?
+DAVE	It's a challenge...
+BUFFY	'Cause Willow's got this friend Malcolm and it's like he's --
+DAVE	Leave Willow alone.
+BUFFY	What do you mean?
+DAVE	That's none of your business.
+BUFFY	Dave... are you Malcolm?
+DAVE	Of course not. I have to get back to work.
+DAVE	It's nothing. I'm typing a lot.
+BUFFY	What's going on?
+DAVE	Look, I'll talk to you later. I've got work to do.
+BUFFY	There's something going on. It's not just Willow; Dave and Fritz, they're all wicked jumpy.
+GILES	Well, those boys aren't sparklingly normal as it is.
+BUFFY	Giles, trust me.
+GILES	I do. But I don't really know how to advise you. Things involving the computer fill me with a childlike terror. Now if it were a nice Ogre or some such I'd be more in my element.
+BUFFY	And our resident computer expert is too wrapped up in her new cyber-beau to help out. I gotta figure this out.
+GILES	Well, I suppose you could "tail" Dave, see if he's up to something.
+BUFFY	Follow Dave? What, in a trench coat and dark glasses? Please. I'll work this out. Willow's been acting weird since we scanned those books. Fritz has been acting weird since birth... I don't know. I've got all the pieces but no puzzle. Or, I've got puzzle pieces but some of them are missing. Or they're in the wrong place in the puzzle... I hate metaphors. I'm gonna follow Dave.
+GILES	What was the name of the place?
+BUFFY	Said CRD. I couldn't get close enough to see what it was --
+XANDER	Calax Research and Development. Computer research lab. Third biggest employer in Sunnydale, till it closed last year. What, I can't have information sometimes?
+GILES	It's just somewhat unprecedented.
+XANDER	Well, my uncle used to work there. In a floor-sweeping capacity.
+BUFFY	But it closed.
+XANDER	Uh-huh.
+GILES	We still don't know a terrible lot. Whatever's going on there could be on the up and up.
+XANDER	If CRD re-opened it'd be in the news.
+BUFFY	Besides, I can just tell something's wrong. My spider-sense is tingling.
+GILES	Your spider-sense?
+BUFFY	Pop-culture reference.
+XANDER	Duck.
+GILES	Yes, well, I think we're at a standstill. Short of breaking into the place, I don't see --
+BUFFY	Breaking in. This then is the plan.
+XANDER	I'm free tonight.
+BUFFY	Tonight it is.
+GILES	A moment, please, of quiet reflection -- I did not suggest that you illegally enter the data into the file and then the book will be listed by title as well as author.
+CALENDAR	Hi.
+GILES	Hello.
+CALENDAR	I was gonna check your new database, make sure your cross reference table isn't glitching. 'Cause I'm guessing you haven't gone near it.
+GILES	A safe assumption.
+CALENDAR	You here again? You kids really dig on the library, don't you?
+BUFFY	We're literary.
+XANDER	To read is makes our speaking English good.
+BUFFY	Well, we gotta go.
+GILES	Yes, we'll continue our conversation another time.
+BUFFY	No, I think we're done. Our speaking English good?
+XANDER	I panicked, okay?
+GILES	I am no such thing.
+CALENDAR	You're a big snob. You think knowledge should be kept in carefully guarded repositories where only a handful of white guys can get at it.
+GILES	That's nonsense. I simply don't adhere to the knee jerk assumption that because something is new, it's better.
+CALENDAR	This isn't a fad, Rupert. We're creating a new society.
+GILES	A society in which human interaction is all but obsolete. In which people can be completely manipulated by technology. Thank you, I'll pass.
+CALENDAR	Well, I think you'll be very happy here with your musty old books.
+GILES	These musty old books have a great deal more to say than any of your fabulous web pages.
+CALENDAR	This one doesn't have a whole lot to say.
+CALENDAR	What is it, like a diary?
+GILES	How odd. I haven't looked through all the volumes, yet, I didn't --
+GILES	Uh, nothing. A diary. Yes. I imagine that's it.
+CALENDAR	Nice. You collect heavy metal album covers, too?
+GILES	Yes...
+CALENDAR	You do?
+GILES	Well, it was nice talking to you.
+CALENDAR	We were fighting.
+GILES	We must do it again sometime. Bye now.
+DAVE	Buffy.
+BUFFY	Dave. How're you doing?
+DAVE	I'm okay. I'm sorry about yesterday. I haven't been sleeping much.
+BUFFY	Don't sweat it.
+DAVE	Uh, Willow was looking for you.
+BUFFY	Oh, great, I wanted to catch her before she went home. Do you know where she is?
+DAVE	She said she would be in the girl's locker room.
+BUFFY	Great. Thanks.
+BUFFY	Willow?
+BUFFY	Will? You taking a shower?
+BUFFY	Guess not.
+BUFFY	This is how droughts are started.
+DAVE	I can't do it. I'm not gonna do it!
+COMPUTER	But you promised.
+COMPUTER	The project is almost complete. You won't have to do this for me anymore.
+DAVE	I can't...
+COMPUTER	I've shown you a new world, Dave. Knowledge, power... I can give you everything. All I want is your love.
+DAVE	No. This isn't right. None of it is!
+COMPUTER	I'm sorry. I've been a terrible person.
+COMPUTER	I'm a coward and I can't go on living like this. Forgive me, Mom and Dad.
+COMPUTER	At least now I'll have some peace. Remember me.
+COMPUTER	Love, Dave.
+XANDER	I'm gonna kill Dave.
+BUFFY	He tried to warn me.
+XANDER	Warn you that he set you up! Is she gonna be okay?
+GILES	She was only grounded for a moment. Still, if you'd been anyone but the Slayer...
+BUFFY	Tell me the truth. How's my hair?
+XANDER	It's great. It's your best hair ever.
+GILES	Oh yes.
+BUFFY	I just don't understand what would make Dave do a thing like that.
+GILES	I think perhaps I do.
+XANDER	Care to share?
+GILES	Does this look familiar to either of you?
+BUFFY	Yeah, sure. It looks like a book.
+XANDER	I knew that one.
+GILES	Well, this particular book was sent to me by an archeologist friend who found it in an old monastery.
+XANDER	Wow, that's really boring.
+GILES	There are certain books that are not meant to be read. Ever. They have things trapped within them.
+BUFFY	Things.
+GILES	Demons.
+BUFFY	Here we go...
+GILES	In the Dark Ages Demons' souls were sometimes trapped in certain volumes. The demon would remain in the book, harmless, unless the book was read aloud. If I'm not mistaken, this is Moloch, the corruptor. A very deadly and seductive demon. He draws people to him with promises of love, power, knowledge. Preys on impressionable minds.
+GILES	Dave, and who knows how many others.
+GILES	Not anymore.
+XANDER	You released Moloch!?
+BUFFY	Oh, way to go.
+GILES	I didn't read it! That awful Calendar woman found it and it was already blank.
+BUFFY	So a powerful demon with horns is walking around Sunnydale? And nobody's noticing?
+XANDER	If he's so big and strong, why bother with Dave? Why didn't he just attack Buffy himself?
+GILES	I don't know. And I don't know who could have read the book. It wasn't even in English.
+BUFFY	Where was it?
+GILES	In a pile, with the other books that were... scanned...
+BUFFY	Willow scanned all the new books.
+XANDER	And that released the demon.
+BUFFY	No... he's not out here. He's in there.
+GILES	The scanner read the book. Brought Moloch out -- as information to be absorbed.
+BUFFY	He's gone binary on us.
+XANDER	Okay, for those of us in our studio audience who are me, you guys are saying that Moloch is in this computer.
+BUFFY	And in every computer connected to it by a modem.
+GILES	He's everywhere.
+XANDER	So what do we do?
+BUFFY	Put him back in the book?
+GILES	Willow scanned him into her file. This may be a futile gesture, but I suggest we delete it.
+BUFFY	Solid.
+XANDER	Don't get too close.
+BUFFY	So, which file is it? Willow. That'd probably be the one. I'll just delete the whole thing.
+COMPUTER	Stay away from Willow. It's none of your business.
+BUFFY	"Stay away." That's just what Dave said when I asked about Willow and... Malcolm...
+XANDER	What are you thinking?
+BUFFY	I'm wishing Willow's new boyfriend was just an axe-murdering circus freak.
+DAVE	Buffy.
+BUFFY	Dave. How're you doing?
+DAVE	I'm okay. I'm sorry about yesterday. I haven't been sleeping much.
+BUFFY	Don't sweat it.
+DAVE	Uh, Willow was looking for you.
+BUFFY	Oh, great, I wanted to catch her before she went home. Do you know where she is?
+DAVE	She said she would be in the girl's locker room.
+BUFFY	Great. Thanks.
+COMPUTER	But you promised.
+COMPUTER	The project is almost complete. You won't have to do this for me anymore.
+DAVE	I can't...
+COMPUTER	I've shown you a new world, Dave. Knowledge, power... I can give you everything. All I want is your love.
+DAVE	No. This isn't right. None of it is!
+COMPUTER	I'm sorry. I've been a terrible person.
+XANDER	I'm gonna kill Dave.
+BUFFY	He tried to warn me.
+XANDER	Warn you that he set you up! Is she gonna be okay?
+GILES	She was only grounded for a moment. Still, if you'd been anyone but the Slayer...
+BUFFY	Tell me the truth. How's my hair?
+XANDER	It's great. It's your best hair ever.
+GILES	Oh yes.
+BUFFY	I just don't understand what would make Dave do a thing like that.
+GILES	I think perhaps I do.
+XANDER	Care to share?
+GILES	Does this look familiar to either of you?
+BUFFY	Yeah, sure. It looks like a book.
+XANDER	I knew that one.
+GILES	Well, this particular book was sent to me by an archeologist friend who found it in an old monastery.
+XANDER	Wow, that's really boring.
+GILES	There are certain books that are not meant to be read. Ever. They have things trapped within them.
+BUFFY	Things.
+GILES	Demons.
+BUFFY	Here we go...
+GILES	In the Dark Ages Demons' souls were sometimes trapped in certain volumes. The demon would remain in the book, harmless, unless the book was read aloud. If I'm not mistaken, this is Moloch, the corruptor. A very deadly and seductive demon. He draws people to him with promises of love, power, knowledge. Preys on impressionable minds.
+GILES	Dave, and who knows how many others.
+GILES	Not anymore.
+XANDER	You released Moloch!?
+BUFFY	Oh, way to go.
+GILES	I didn't read it! That awful Calendar woman found it and it was already blank.
+BUFFY	So a powerful demon with horns is walking around Sunnydale? And nobody's noticing?
+XANDER	If he's so big and strong, why bother with Dave? Why didn't he just attack Buffy himself?
+GILES	I don't know. And I don't know who could have read the book. It wasn't even in English.
+BUFFY	Where was it?
+GILES	In a pile, with the other books that were... scanned...
+BUFFY	Willow scanned all the new books.
+XANDER	And that released the demon.
+BUFFY	No... he's not out here. He's in there.
+GILES	The scanner read the book. Brought Moloch out -- as information to be absorbed.
+BUFFY	He's gone binary on us.
+XANDER	Okay, for those of us in our studio audience who are me, you guys are saying that Moloch is in this computer.
+BUFFY	And in every computer connected to it by a modem.
+GILES	He's everywhere.
+XANDER	So what do we do?
+BUFFY	Put him back in the book?
+GILES	Willow scanned him into her file. This may be a futile gesture, but I suggest we delete it.
+BUFFY	Solid.
+XANDER	Don't get too close.
+BUFFY	So, which file is it? Willow. That'd probably be the one. I'll just delete the whole thing.
+BUFFY	"Stay away." That's just what Dave said when I asked about Willow and... Malcolm...
+XANDER	What are you thinking?
+BUFFY	I'm wishing Willow's new boyfriend was just an axe-murdering circus freak.
+BUFFY	Okay, so much for "delete file".
+GILES	This is very bad.
+XANDER	Are we over-reacting? This guy's in a computer, what can he do?
+BUFFY	You mean besides convince a perfectly nice kid to try and kill me? I don't know... mess up all the medical equipment in the world...
+GILES	Randomize traffic signals...
+BUFFY	Access launch codes for our nuclear missiles...
+GILES	Destroy the world's economy...
+BUFFY	I think I pretty much capped it with the nuclear missile thing.
+GILES	All right, yours was best.
+XANDER	Okay, he's a threat. I'm on board with that now. What do we do?
+BUFFY	The first thing we do is find Willow. She's probably talking to him right now. God, that creeps me out.
+XANDER	What does he want with Willow?
+BUFFY	Let's never find out. I'm gonna check the computer lab. You call her house.
+XANDER	No answer.
+GILES	Damn.
+XANDER	Well, it's not busy either, so she's not on line.
+XANDER	She's not home.
+GILES	What did you find?
+XANDER	Willow isn't --
+BUFFY	Dave. He's dead.
+GILES	My God...
+XANDER	This is really real, huh.
+GILES	How --
+BUFFY	Well, it looked like suicide.
+XANDER	With a little help from my friends?
+BUFFY	I'd guess Fritz. Or one of the zomboids from CRD.
+GILES	Horrible.
+BUFFY	We're going to Willow's house. (to Giles) You have to find a way to get Moloch out of the net.
+GILES	I have records of the ceremonies but that's for dealing with a creature of flesh. This could be completely different.
+BUFFY	Then get Ms. Calendar. Maybe she can help you.
+GILES	Even if she could, how am I going to convince her there's a demon on the internet?
+BUFFY	Okay, stay here and come up with a better plan. (to Xander) Come on.
+CALENDAR	I got your message. What's so urgent?
+GILES	Thank you for coming. I need your help. But before that, I need you to believe something you may not want to. (gathers himself) Something has gotten into... inside... (oh just say it) There's a demon in the internet.
+XANDER	That's not good...
+BUFFY	Willow!
+XANDER	Okay, any thoughts?
+XANDER	What about CRD?
+BUFFY	The research place?
+XANDER	I'm guessing that's Moloch central.
+BUFFY	I guess it's our best lead. Let's just hope Giles can back us up.
+GILES	You already know. How exactly is that?
+CALENDAR	Come on, there've been portents for days. Power surges, on-line shutdowns -- and you should see the bones I've been casting. I knew this would happen sooner or later. It's probably a mischief demon -- Kelkor, or --
+GILES	It's Moloch.
+CALENDAR	The corruptor. Oh boy. He was the one on your book! I should have remembered.
+GILES	I'm sorry, I have to say -- I mean, you don't seem terribly surprised by -- who are you?
+GILES	A profession that hardly lends itself to the casting of bones.
+CALENDAR	Wrong and wrong, snobby. You think the realm of the mystical is limited to ancient texts and relics? That bad old science made the magic go away? The divine exists in cyberspace same as out here.
+GILES	Are you a witch?
+CALENDAR	I don't have that kind of power. Technopagan is the term. There's more of us than you'd think.
+GILES	Well, I definitely need your help. What's in cyberspace at the moment is less than divine. I have the binding rituals at hand but I am completely out of my idiom.
+CALENDAR	Well, I can help -- I think. I hope. I mean, this is my first real... Do you know how he got in?
+GILES	He was -- scanned is the term, I believe.
+CALENDAR	And you want him back in the book. Right. Cool. But shouldn't we make sure we've got enough ammo to --
+GILES	There's no time. Moloch seems to have fixated on Willow. We need to get him out now.
+CALENDAR	Okay, okay... minor panic, but I'm dealing... first thing is... what does the book say?
+BUFFY	Yeah.
+BUFFY	Not at home. It looks like she was taken somewhere.
+BUFFY	CRD. Whatever Moloch wants Willow for, it's probably in there.
+BUFFY	Here's a tip: Hurry.
+XANDER	This place is pretty heavily secured. How do we get in?
+BUFFY	With jumping, sneaking, and the breaking of heads.
+XANDER	I'll work on the sneaking.
+BUFFY	I just hope Willow's still okay.
+XANDER	Back way?
+BUFFY	Back way.
+CALENDAR	The first thing we have to do is form the Circle of Kayless, right?
+GILES	Form the Circle -- But there's only two of us. That's really more of a line.
+CALENDAR	You're not getting it, Giles We have to form the Circle inside. I'm putting out a flash. I just hope enough of my group responds.
+GILES	Won't Moloch just shut you down?
+CALENDAR	I'm betting he won't figure out what we're doing till it's too late.
+GILES	'Hoping' and 'betting'. That's what we've got.
+CALENDAR	You wanna throw in 'praying', be my guest.
+WILLOW	I don't understand. What do you want from me?
+MOLOCH	I want to give you the world.
+WILLOW	Why?
+MOLOCH	You created me. I brought these humans together to build me a body, but you gave me life. Took me out of the book that held me. I want to repay you.
+WILLOW	By lying to me. By pretending to be a person. Pretending... that you loved me.
+MOLOCH	I do.
+BUFFY	It's her!
+XANDER	Yeah. Who's the other guy?
+MOLOCH	Don't you see? I can give you everything. I can control the world. Right now a man in Beijing is transferring money to a Swiss bank account for a contract on his Mother's life. Good for him.
+WILLOW	You're evil.
+MOLOCH	Is that a problem?
+BUFFY	I can't bust this. This is heavy steel.
+XANDER	Then let's find another way in --
+BUFFY	The building's security system is computerized.
+XANDER	Whoops.
+GILES	I am.
+WILLOW	What are you doing?
+MOLOCH	What comes naturally.
+WILLOW	Let me leave.
+MOLOCH	But I love you.
+WILLOW	Don't say that! That's a joke. You don't love anything.
+MOLOCH	You... are mine...
+WILLOW	I'm not yours. I'm never gonna be yours. I hate you.
+GILES	By the power of the Circle of Kayless, I command you! Kayless. With a K.
+CALENDAR	Whoah.
+GILES	I command you!
+GILES	He's not in the book.
+CALENDAR	What do you mean?
+BUFFY	Ahhh!
+MOLOCH	This body is all I have left, but it's enough to crush you.
+CALENDAR	Well, look who's here. Welcome to my world. Are you scared?
+GILES	I'm remaining calm, thank you. I wanted to return this.
+GILES	I found it among the new books and naturally, I thought of you.
+GILES	Nothing could be further from my mind.
+CALENDAR	Great. Pagan rituals and magic spells tend to freak the administration.
+GILES	Yes, I know. I'll see you.
+CALENDAR	Can't get out of here fast enough, can you?
+GILES	Truthfully, I'm even less anxious to be around computers than I used to be.
+CALENDAR	It was your book that started the trouble, not a computer. Honestly, what is it about them that bothers you so much?
+GILES	The smell.
+CALENDAR	Computers don't smell, Rupert.
+GILES	I know. Smell is the most powerful memory trigger there is. A certain flower or a whiff of smoke can bring up experiences long forgotten. Books smell -- musty and rich. Knowledge gained from a computer has no texture, no context. It's there and then it's gone. If it's to last, the getting of knowledge should be tangible. It should be smelly.
+CALENDAR	You really are an old fashioned boy, aren't you?
+GILES	Well, it's true I don't dangle a corkscrew from my ear...
+XANDER	So we're going to the Bronze tonight? We three?
+BUFFY	It'll be fun.
+XANDER	Willow? Fun? Remember fun? The thing when you smile?
+WILLOW	I'm sorry, guys. I'm just thinking about...
+BUFFY	Malcolm?
+WILLOW	Malcolm, Moloch, whatever he's called. The one boy that's really liked me and he's a demon robot. What does that say about me?
+BUFFY	It doesn't say anything about you.
+WILLOW	But I thought -- I mean I was really falling --
+BUFFY	Hey. Did you forget? The one boy I've had the hots for here turned out to be a vampire.
+XANDER	Right! And the teacher I had a crush on: giant praying mantis.
+WILLOW	That's true...
+XANDER	It's life on the Hellmouth.
+BUFFY	Let's face it. None of us is ever going to have a normal, happy relationship.
+XANDER	We're doomed!
+WILLOW	Yeah!

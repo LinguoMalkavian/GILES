@@ -1,0 +1,741 @@
+BUFFY	Chloe? It is Chloe, right?
+PRIMITIVE	It's not enough.
+ANYA	I'm a bright girl. Good education, quick on the uptake, so tell me: Why in the name of almighty Grothnar did I let myself become human again?
+SPIKE	You're really asking the wrong fella.
+ANYA	I mean, sure, the Vengeance Demon gig had some downsides.
+SPIKE	All jobs do.
+ANYA	But being human, bleah! You're always squishy on the inside, disgusting on the outside...
+SPIKE	Your outside's not so bad.
+ANYA	The only thing worse than being human is being trapped in a household full of humans.
+SPIKE	Preaching to the choir, love.
+ANYA	It's like we live in slayer central. I swear, if Buffy rooms or boards one more of these "Potential" girls, I'm calling a health inspector.
+SPIKE	I like my plan better: get up, get out, get drunk. Repeat as needed. It's just more elegant.
+ANYA	Thanks for having me along.
+SPIKE	Think nothing of.
+ANYA	At first, it was weird, I thought, "is he asking me out on a date?" 'Cause that would be...
+SPIKE	Right. I'm just out for the alcohol.
+ANYA	Right there with you, Scooter. Tonight, I'm prepared to drink you under a table.
+SPIKE	You're on, then.
+ANYA	Good. Of course, once you're down there I could join you. Kidding. I like my sex on top of the table.
+SPIKE	Aw, let it go, would you? You're like a dog with a bone.
+ANYA	So what.
+SPIKE	It's my bone! Just drop it.
+ANYA	Okay, okay, I wasn't proposing. Time goes by, a girl gets hungry. You should know.
+SPIKE	Know what?
+ANYA	You're a man. With a soul, and other working parts, and it's not like Buffy's been sending any your way lately so I just thought...
+SPIKE	Oh thank God.
+ANYA	What?
+SPIKE	Demon.
+KORR	D'Hoffryn says you die!
+SPIKE	'Course he does.
+ANYA	Hey!
+WOOD	That so? Because I think what we have here's a pair of chuckleheads who thought a cafeteria fistfight would impress.
+BUFFY	And if I find out you've been fighting again, I'll, um... bang your heads together.
+WOOD	I doubt it. Third fight this week. And they're getting worse. Plus an increase in vandalism. Three students missing. Tell me, Buffy. In your professional opinion.
+BUFFY	The Hellmouth below us is starting its semi-annual percolation. Usually blows around May.
+WOOD	Was it like this before? It seems as if things are getting bad faster than we thought.
+BUFFY	We're a little ahead of schedule.
+WOOD	I can't say I'm too surprised. I knew I signed on for something, but Buffy, I'm just a guy. Granted, a cool and sexy vampire fighting guy, but still...
+BUFFY	You forgot snappy dresser.
+WOOD	This is going to get bigger than me.
+BUFFY	Yeah. It is.
+WOOD	And that's why I've decided to give you this.
+BUFFY	What is it?
+WOOD	An emergency kit. Not sure exactly what's inside. This bag belonged to my mother.
+BUFFY	Wow. A Slayer keepsake. I couldn't.
+WOOD	You have to. Technically, it should have been handed down through the years, directly to you. But when my Mother died... I didn't want to part with it.
+BUFFY	Until now.
+WOOD	I don't know exactly what's inside, but I know it's got something to do with her power. Well, your power now.
+BUFFY	An emergency kit. I don't know what to say.
+WOOD	Try saying, "thank you, Principal Wood."
+BUFFY	Thank you, Principal Wood.
+WOOD	Please, call me Robin. And now I'd like to see where you work.
+BUFFY	Um, here we are.
+WOOD	No. Where you do your other work.
+BUFFY	... So all these Potential Slayers, who just seemed to sprout up from like every corner of the planet, were getting killed.
+WOOD	By The First.
+BUFFY	Agents of. We thought the Council could protect them, but no one was protecting the Council and all their Watchers were killed. Since then, word got out, and they've all been coming here since.
+WOOD	Nothing like the end of the world to bring people together.
+BUFFY	It's heartwarming. Anyway, this is it: command central.
+ANDREW	Where the hell have you been? This funnel cake is kicking my ass.
+WOOD	I hear they're tricky.
+BUFFY	Principal Wood, meet Andrew.
+WOOD	Pleasure.
+ANDREW	Mm-hmm. Welcome to our perfectly typical American household where nothing unusual happens.
+BUFFY	This is Andrew. He's our... actually, he's our hostage.
+ANDREW	I like to think of myself more as a (air quotes) "Guest-age."
+WOOD	You hold him against his will?
+BUFFY	He was evil, people died, now he bakes. It's a thing.
+ANDREW	I prefer the term "saga," and could we try to keep our secret headquarters just a little bit secret? Keep bringing people in, and they'll see everything. They'll see the big board.
+BUFFY	Andrew, we don't have a big board.
+ANDREW	Made it myself.
+WOOD	Wouldn't have guessed.
+ANDREW	This... ...is us. This represents sightings of The First in its various incarnations. No pattern to the naked eye yet, but the instant one emerges, yours truly is on it.
+BUFFY	You'll have to forgive Andrew. Or not. Your call. We've got a little more than the big board working for us, anyway.
+WOOD	So I see.
+KENNEDY	Left palm - right hook - huh ! Over, cross, under - huh !
+CHLOE	T-twenty what?
+KENNEDY	Push-ups, maggot!
+BUFFY	An ally.
+KENNEDY	Just asking. So what do you think? My girls ready to kick some ass or what?
+WOOD	Looking strong.
+KENNEDY	"But...?"
+WOOD	I'm just not sure The First has an ass you can actually kick.
+KENNEDY	Guess we'll see.
+AMANDA	Principal Wood! Hi! It's so weird, seeing you outside of school.
+KENNEDY	What are you waving at, Potential? Bagwa Chung drills - first position, double time - if it doesn't hurt you, you're doing it wrong!
+BUFFY	You're right. It's not enough.
+WOOD	That's not what I said. It's an impressive group of recruits.
+BUFFY	They're not recruits. Recruits are recruited. These girls were more like... Chosen.
+WOOD	You're doing the best you can with what you've got.
+BUFFY	They're not all gonna make it. Some will die. And nothing I can do will stop that.
+WILLOW	Oh. Hey. Hi. Well, Buffy, I see our preparations for the... school... pep-dance-cheer-drill-contest are really coming along. "Bring it On!"
+BUFFY	Will, it's okay, he knows.
+WILLOW	Oh, thank God.
+WOOD	You're Willow.
+WILLOW	You're Wood.
+BUFFY	I've been showing him around.
+WOOD	Buffy tells me you've been, how shall I put it? "Experimenting."
+WILLOW	Oh. Yes. Nothing too heavy, though. Just the lighter, safer stuff. And you know, I've found there's a lot of really great spells you can cast without...
+WOOD	Destroying the world.
+WILLOW	Which I almost did.
+WOOD	So I heard. I'm glad you decided to get back into it. Must be scary.
+WILLOW	Well, that's why I'm sticking just to Magicks with little training wheels on them. You know. One day at a time.
+WOOD	Good luck with that.
+WILLOW	Thanks. If Kennedy asks? Her pointy stuff's here. See you inside, and... So much cooler than Snyder.
+WOOD	That "end of the world" stuff. Was she being metaphorical, or...
+BUFFY	Literal. Remind me to be polite with her.
+BUFFY	I dunno, it's just, The First is coming, and look at us. "The Army." We've got fighters with nothing to hit, a Wicca who mostly won't-a and the brains of our operation wears oven mitts.
+WOOD	You're re-defining the job. That takes guts. This isn't your full arsenal, anyway.
+ANYA	...But you just let him go!
+SPIKE	After saving your life.
+ANYA	For now. That was one of D'Hoffryn's killers, Spike. He won't stop coming 'til he kills me.
+SPIKE	Yet here you are. Walking. Breathing. Annoying.
+ANYA	But you fought like such a wimp-ire, with the lifting and the running. Why not just kill him?
+SPIKE	Anya, think: I fight. Demon-boy gets lucky, knocks me out - you get killed. True? We both know the safest and sanest way of saving your life was to keep you near me, away from danger.
+BUFFY	Figured.
+WOOD	Hope we're not intruding.
+SPIKE	Not a bit. And just what brings our good principal to this neck of the gloom?
+BUFFY	I'm showing him, you know, the way we do things. Our operation. Us.
+SPIKE	Fine by me. Big fight against evil coming. The more good guys we got, the longer we all live.
+WOOD	Is that what you are? A "good guy?"
+SPIKE	Haven't heard any complaints. Well, I've heard a few over the years, but then I just killed whoever spoke up and that was pretty much that.
+BUFFY	He's joking.
+WOOD	No he's not.
+SPIKE	No, I'm not. But: That's the old me I'm talking about.
+WOOD	Tell me about it.
+SPIKE	Not much to tell. I've changed.
+WOOD	Now that you have a soul.
+SPIKE	Yeah. It was a big deal. Very private. Are you just telling everyone now? What are you spilling next, that I bleach my hair?
+WOOD	I never would have guessed.
+SPIKE	Right. The educator.
+WOOD	I love to learn.
+SPIKE	That case? Yeah. I went to great lengths, lot of trouble, and now I'm unique. Well, more or less. Got myself a soul. Whatever that means.
+WOOD	How's it working out for you?
+SPIKE	In progress.
+WOOD	Well you've had time. Been in Sunnydale...?
+SPIKE	Years.
+WOOD	How many?
+SPIKE	Few.
+WOOD	Before that?
+SPIKE	Around.
+WOOD	That covers some territory. Let me guess. You're...
+BUFFY	We'd better get back upstairs.
+SPIKE	Right. Getting the full tour.
+DAWN	So, I took a look inside that creepy old "emergency" bag of Principal Wood's?
+BUFFY	And?
+DAWN	Smelled weird. Like grandma's closet, but worse.
+BUFFY	I didn't know that was possible. Anything we can use?
+DAWN	Trinkets, couple of weapons, one extra large text book.
+BUFFY	They're worse than the French. Anything else?
+DAWN	Yeah. A box. Big, fat, unopenable box. I'm betting whatever the big deal about this emergency kit is, you'll find it inside the box.
+BUFFY	Good. Keep on it. And don't you have any real homework?
+DAWN	What, like school work? I've got a system: It's called flunking out! Kidding. I paid a guy to study for me. Kidding! God, I love when I talk about failing, just to see your eyeballs change color, it's like...
+KENNEDY	What happened, we heard...
+BUFFY	Dawn. Get a knife. I'm cutting her down.
+FIRST	Good thinking.
+BUFFY	You're not Chloe.
+FIRST	Yeah well, neither is she, anymore. Now she's just... "Chloe's body
+KENNEDY	What did you do to her?
+FIRST	Nothing! We just talked all night. Well, I did most of the talking, but Chloe is... I'm sorry, was a great listener. 'Til she hanged herself. Like when you called her a maggot? She really heard that.
+BUFFY	Don't listen to it. Any of you.
+FIRST	Oh, let 'em. Chloe only offed herself because she knew what you're not getting. I'm coming. You're going. All this? It's almost over.
+BUFFY	We'll be here.
+FIRST	All of you? But wait, I thought... (in Buffy's voice) "They're not all gonna make it. Some will die. And nothing I can do will stop that." Hey, I didn't say it. Be seeing you all. One by one. T.T.F.N.!
+BUFFY	W-what's T.T.F.N.?
+RONA	"Ta-Ta For Now." It's what Tigger says when he leaves.
+AMANDA	Chloe loved Winnie the Pooh. Bouncy bouncy, fun fun fun.
+BUFFY	Dawn. Where's that knife?
+BUFFY	Everyone here?
+KENNEDY	All accounted for.
+BUFFY	Anyone like to say a few words about Chloe?
+KENNEDY	You're out of line.
+WILLOW	No she's not.
+KENNEDY	You gonna let her talk to you like that? Willow - She's not even the most powerful one in this room - with you here? She's not close.
+BUFFY	You're new here. And you're wrong, because I use the power I've got. The rest of you are all just waiting for me.
+XANDER	Well, yeah, but only 'cause you kinda told us to. You're our leader, Buffy. As in "follow the."
+BUFFY	Well from now on, I'm your leader as in "do what I say."
+XANDER	Yah... voll , but let's try not to forget we're also you're friends.
+ANYA	I'm not.
+BUFFY	Then why are you here? Besides getting rescued, what do you do?
+ANYA	I provide... much needed... sarcasm.
+XANDER	Uh, that'd be my job, actually.
+BUFFY	You're here because you're scared.
+XANDER	Same goes for everyone in this room.
+BUFFY	Fine. Anya, all of you: be as scared as you like. Just be useful while you're at it.
+WILLOW	Come on, Buffy. You know everyone here's already doing everything they can.
+BUFFY	And The First isn't impressed. It already knows us. Knows everything we can do, and it's laughing. You want to surprise the enemy? Surprise yourselves. Force yourselves to do what can't be done or else we're not an army. Just a bunch of girls waiting to be picked off and buried.
+SPIKE	Out. Since I'm neither a girl nor waiting, all this speechifying doesn't really apply to me, does it?
+BUFFY	Take a cell phone. That way, if I need someone to get weepy or wailed on, I'll call you.
+SPIKE	If you've got something to say...
+BUFFY	Just said it.
+SPIKE	I don't need to be here.
+BUFFY	Keep holding back, Spike, and you might as well walk out that door.
+SPIKE	Holding back? You're blind. I've been here, right in it. Fighting. Scrapping.
+BUFFY	Since you got your soul back?
+SPIKE	Matter of fact. I'm just not relishing a kill the way I used to.
+BUFFY	You were a better fighter then.
+SPIKE	I did this for you! The soul, the changes - it's what you wanted.
+BUFFY	What I want is the Spike who's dangerous. The one who tried to kill me when we met.
+SPIKE	Oh, you don't know how close you are to bringing him out.
+BUFFY	I'm nowhere near him.
+DAWN	What are you gonna do?
+BUFFY	Declare an emergency.
+BUFFY	We thought you might want to be here.
+WOOD	You thought right.
+DAWN	This emergency bag's got some neat stuff in it - weapons, charms, advanced reading assignments.
+XANDER	Cool stuff, but we've seen it all before.
+ANYA	Not this, we haven't.
+WOOD	Don't know. This box hasn't been opened since...
+XANDER	Puppets. That's it! The First hates puppets. Now, if we can just airlift Kermit, Fozzi and Miss Piggy into town - the First'll be a-runnin'.
+WILLOW	Those are Muppets.
+XANDER	Damn.
+DAWN	And these things are Shadow Casters. According to this, you put them in motion, they tell you a story. It says you can't just "watch." You have to "see."
+ANYA	And what the hell does that mean?
+XANDER	That's cryptic. I don't like it. Every time instructions get cryptic, someone gets hurt. Usually me.
+BUFFY	"You can't watch, you have to see." See what?
+DAWN	That's where all my fancy translatin' skills break down, but I think it's an Origin Myth. The story of the very first Slayer.
+BUFFY	I saw her.
+WOOD	You saw the first Slayer?
+BUFFY	The other night, in a dream. It's got to mean something. Let's find out what. Time for a puppet show.
+XANDER	There's, uh, some assembly required.
+DAWN	Okay, um, according to this, I think, you add on these puppet guys one by one. They cast shadows, and the shadows tell the story.
+XANDER	So far, so creepy.
+DAWN	Then there came the Demons.
+BUFFY	What about darkness?
+DAWN	It says you cannot be shown, you cannot just watch but you must see - see for yourself but only if you're willing to make the exchange.
+XANDER	When'd you get so good at Sumerian?
+DAWN	It's not in Sumerian anymore.
+XANDER	But what's it mean?
+BUFFY	Means I have to go in there.
+WILLOW	No it doesn't! It doesn't say that! Where does it say that?
+WOOD	You don't even know what you're exchanging! You don't even know if you're ready!
+BUFFY	That's the point.
+WILLOW	Buffy, we have no idea where you're going or how to get you back!
+XANDER	You can't go!
+BUFFY	It's closing. I've gotta go.
+WILLOW	How will we get you back?
+BUFFY	Find a way!
+WILLOW	She's gone.
+XANDER	Huh.
+ANYA	What was all that about an exchange?
+XANDER	Ah. This must be the exchange student.
+KENNEDY	Willow - use your magic - Send it back!
+WILLOW	I'm trying! Uh, um... Redi ! WILLOW
+KENNEDY	Weapons!
+SPIKE	Get her out of here. All of you, 'less you want to be all dead and useless.
+KENNEDY	Yeah - what are you gonna do?
+SPIKE	What I do best.
+DAWN	Are you injured?
+KENNEDY	Just hurt. Don't make a case out of it. How about you?
+XANDER	Think we'll live.
+ANYA	Except maybe Spike.
+KENNEDY	Is getting thrown through the ceiling what he does best?
+DAWN	I'll go check on him.
+ANYA	And we've got bigger problems.
+WOOD	Demon loose, no Slayer.
+WILLOW	We need Buffy.
+XANDER	You gotta get her back. Looks like it's spell-o-clock.
+ANYA	Which spell? You see how powerful that thing was? You expect to get that portal re-opened without sending Willow off the deep end?
+WILLOW	Thanks for your support.
+ANYA	Well it's true. There's got to be some other way.
+WILLOW	There isn't. And Buffy knew it. I have to get her back.
+KENNEDY	We don't even know where she went.
+BUFFY	Well. Guess that worked.
+WILLOW	I have no idea how to re-open your run-of-the-mill time/space portal. Let alone the big kahuna. Dawnie, what's the book say.
+DAWN	Not much. Once Buffy left...
+WILLOW	Oh.
+KENNEDY	It's okay.
+XANDER	Great, so far we know jack about squat - let's go from there.
+KENNEDY	You got the magic. Use it.
+WILLOW	I, I don't even know what kind of magic to use.
+KENNEDY	Why not just try all thirty-two flavors. Worst thing that happens is, you go brunette.
+WILLOW	That's not the worst that can happen.
+ANYA	She's right. And you know, we have a choice. Risk Willow's life and all of our lives to get Buffy back, or... leave her out there.
+WOOD	If we play it safe back here, Buffy could stay lost.
+ANYA	You missed her "everyone sucks but me" speech. If she's so superior, let her find her own way back.
+XANDER	Anya. The First is already up and running. Every second the Slayer's not here is an opportunity for it to show up and rip us all to pieces.
+DAWN	Willow. How would you get Buffy back?
+WILLOW	That's what I'm saying, I don't even know...
+DAWN	If another witch was gonna do it - where would she start?
+WILLOW	Uh... physics. Principles, basic laws.
+DAWN	Such as...
+WILLOW	Conservation of energies. You can't really create or destroy anything. Just.. transfer.
+ANYA	Phht.
+DAWN	Are you helping?
+ANYA	No - but at least I'm not galloping off in the wrong direction.
+WILLOW	Magicks work off physics.
+ANYA	Not without a catalyst. If you're talking about transferring energies, you'll need some kind of conduit.
+WILLOW	What, like a Kraken's Tooth?
+ANYA	Skin of Draconus, ground-up Baltic Stones, something.
+DAWN	Good.
+KENNEDY	Plus we need an exchange, like you said: I'm thinking a Slayer for a Demon.
+WOOD	Right. If we want Buffy back, we have to find that Demon, send him through.
+KENNEDY	It matter if it's dead or alive?
+SPIKE	Slayer's counting on you, Willow. Get cracking on the portal, and don't be stingy with the mojo. Demon's mine.
+KENNEDY	Uh, hate to say it, "big bad," but you look like you can barely stand. We're trained. And the only thing we know for sure about this Demon is - it kicked your ass.
+WOOD	Where are you going?
+SPIKE	Just one thing I need.
+BUFFY	Hello?
+ONE	We know who you are .
+TWO	And we know why you're here .
+THREE	We've been waiting .
+BUFFY	Good. That's good then and I know we've got bigger issues to deal with but how'd I understand a word you just said?
+ONE	We have been here since the beginning.
+TWO	Now, we are almost at the end.
+BUFFY	Okay, and the "neat" of it just left me. End of what?
+THREE	You are the Hellmouth's last Guardian.
+BUFFY	Latest. You mean "latest" guardian.
+ONE	No.
+BUFFY	Look - I got a First to fight. You three have clearly had some time on your hands. Tell me what I need to know. I came to learn.
+ONE	We cannot give you knowledge. Only power.
+BUFFY	Okay, know what I think? I'm not really here at all. None of this is actually happening, this is like a play, like a shadow play, like a non- reality re-enactment hologrammy...
+DAWN	The sand forms the circle, the circle acts as a barrier, the barrier contains the portal.
+KENNEDY	Now what? We hold hands and chant "kumbaya" or something?
+WILLOW	Maybe. Until we get the Magicks up and running, I'm kind of working on my best guess here.
+XANDER	Maybe we should wait.
+KENNEDY	For what?
+XANDER	Spike. See if he can bring back that Demon.
+WILLOW	I don't think waiting's the best idea right now. Opening a portal this size, could take days.
+KENNEDY	Better get started.
+WILLOW	I think I might pee in my pants.
+KENNEDY	You can do it. The Magicks, not the pants thing.
+WILLOW	Via temporis, iam clamo ad te, via spatii, te jubeo aperire. WILLOW Avenue of time, I call now upon you, avenue of space, I say thee, open.
+WILLOW	Aperi ! WILLOW Open!
+WILLOW	Dawnie, you better put on some coffee, this could take a...
+BUFFY	What is this?
+TWO	We are at the beginning.
+THREE	The source of your strength. The well of the Slayer's power.
+ONE	This is why we have brought you here.
+BUFFY	I thought I brought me here.
+ONE	The first Slayer - did not talk so much.
+TWO	The energy of the Demon. Its spirit.
+THREE	Its heart.
+BUFFY	This is how you...
+ONE	...Created the Slayer? Yes.
+BUFFY	Bastards...
+MAN	This is how we did so then. How we will do so now.
+THREE	It must become one with you.
+BUFFY	I get a say in this and I'm saying no...
+TWO	Merge, live, and grow inside you.
+BUFFY	No!
+ONE	This is how it was then. How it must be now.
+TWO	This is all there is.
+BUFFY	Make this stop.
+ONE	This is what you came for.
+BUFFY	You got the wrong Slayer. I'm not the first one.
+ONE	We know.
+TWO	She begged for us to stop.
+THREE	We did not then. We will not now.
+BUFFY	How many times I have to tell you? I'm already the Slayer!
+ONE	You came to us for help.
+TWO	We only want to help you.
+WOOD	Where you going?
+SPIKE	Got a job.
+WOOD	Nice coat.
+SPIKE	New York.
+WILLOW	Via, concursus, tempus, spatium, audi me ut imperio... WILLOW Avenue, convergence, time, space, hear me as I command...
+WILLOW	Screw it. Mighty forces, I suck at Latin, okay? But that's not the issue! I am in charge here and I am telling you, open this portal NOW!
+XANDER	It's not happening, Will.
+KENNEDY	Give her time, she's getting it.
+XANDER	Or something's getting her. Will - thinking you better back up a little.
+WILLOW	No!
+SPIKE	Aw come on now, Nancy, you call yourself a Demon? Thought you were up for a proper fight.
+BUFFY	I know that now. But you guys? You're just... men.
+ONE	You don't understand. You need our power. To reject us is to disrupt the Slayer line.
+TWO	You are making things worse.
+BUFFY	Good.
+ONE	You are only destroying yourself.
+BUFFY	Please. I died more times than you can count.
+SPIKE	Don't know your feelings, big guy, but to me, a tumble like that...
+BUFFY	I think you forgot one thing about power.
+ONE	We offered you power. You came for knowledge.
+BUFFY	So tell me something I don't know.
+ONE	As you wish.
+WILLOW	You okay? You've been kinda quiet since...
+KENNEDY	You sucked the life out of me?
+WILLOW	Yeah. Since that. It's important you know. What I am. What I'm like when I'm... like that.
+KENNEDY	I thought it would be, I dunno. Cool, somehow. It just hurt.
+WILLOW	I'm sorry. You were the most powerful person nearby. That's how it works. It's how I work.
+KENNEDY	I get that. You told me. I'll um ...I'll see you in the morning.
+WILLOW	You okay?
+BUFFY	Thanks for bringing me back. Again.
+WILLOW	It's what I do.
+BUFFY	Will?
+WILLOW	I don't know. Usual way I guess?
+BUFFY	Not this time. Will: The men I met. The Shadow Men. They showed me.
+WILLOW	Showed you what?
+BUFFY	That the Primitive was right. It isn't enough.
+WILLOW	Why? Buffy. What did you see?
+SPIKE	You're really asking the wrong fella.
+ANYA	I mean, sure, the Vengeance Demon gig had some downsides.
+SPIKE	All jobs do.
+ANYA	But being human, bleah! You're always squishy on the inside, disgusting on the outside...
+SPIKE	Your outside's not so bad.
+ANYA	The only thing worse than being human is being trapped in a household full of humans.
+SPIKE	Preaching to the choir, love.
+ANYA	It's like we live in slayer central. I swear, if Buffy rooms or boards one more of these "Potential" girls, I'm calling a health inspector.
+SPIKE	I like my plan better: get up, get out, get drunk. Repeat as needed. It's just more elegant.
+ANYA	Thanks for having me along.
+SPIKE	Think nothing of.
+ANYA	At first, it was weird, I thought, "is he asking me out on a date?" 'Cause that would be...
+SPIKE	Right. I'm just out for the alcohol.
+ANYA	Right there with you, Scooter. Tonight, I'm prepared to drink you under a table.
+SPIKE	You're on, then.
+ANYA	Good. Of course, once you're down there I could join you. Kidding. I like my sex on top of the table.
+SPIKE	Aw, let it go, would you? You're like a dog with a bone.
+ANYA	So what.
+SPIKE	It's my bone! Just drop it.
+ANYA	Okay, okay, I wasn't proposing. Time goes by, a girl gets hungry. You should know.
+SPIKE	Know what?
+ANYA	You're a man. With a soul, and other working parts, and it's not like Buffy's been sending any your way lately so I just thought...
+SPIKE	Oh thank God.
+ANYA	What?
+SPIKE	Demon.
+KORR	D'Hoffryn says you die!
+SPIKE	'Course he does.
+WOOD	I doubt it. Third fight this week. And they're getting worse. Plus an increase in vandalism. Three students missing. Tell me, Buffy. In your professional opinion.
+BUFFY	The Hellmouth below us is starting its semi-annual percolation. Usually blows around May.
+WOOD	Was it like this before? It seems as if things are getting bad faster than we thought.
+BUFFY	We're a little ahead of schedule.
+WOOD	I can't say I'm too surprised. I knew I signed on for something, but Buffy, I'm just a guy. Granted, a cool and sexy vampire fighting guy, but still...
+BUFFY	You forgot snappy dresser.
+WOOD	This is going to get bigger than me.
+BUFFY	Yeah. It is.
+BUFFY	What is it?
+WOOD	An emergency kit. Not sure exactly what's inside. This bag belonged to my mother.
+BUFFY	Wow. A Slayer keepsake. I couldn't.
+WOOD	You have to. Technically, it should have been handed down through the years, directly to you. But when my Mother died... I didn't want to part with it.
+BUFFY	Until now.
+WOOD	I don't know exactly what's inside, but I know it's got something to do with her power. Well, your power now.
+BUFFY	An emergency kit. I don't know what to say.
+WOOD	Try saying, "thank you, Principal Wood."
+BUFFY	Thank you, Principal Wood.
+WOOD	Please, call me Robin. And now I'd like to see where you work.
+BUFFY	Um, here we are.
+WOOD	No. Where you do your other work.
+BUFFY	... So all these Potential Slayers, who just seemed to sprout up from like every corner of the planet, were getting killed.
+WOOD	By The First.
+BUFFY	Agents of. We thought the Council could protect them, but no one was protecting the Council and all their Watchers were killed. Since then, word got out, and they've all been coming here since.
+WOOD	Nothing like the end of the world to bring people together.
+BUFFY	It's heartwarming. Anyway, this is it: command central.
+WOOD	I hear they're tricky.
+BUFFY	Principal Wood, meet Andrew.
+WOOD	Pleasure.
+ANDREW	Mm-hmm. Welcome to our perfectly typical American household where nothing unusual happens.
+BUFFY	This is Andrew. He's our... actually, he's our hostage.
+ANDREW	I like to think of myself more as a (air quotes) "Guest-age."
+WOOD	You hold him against his will?
+BUFFY	He was evil, people died, now he bakes. It's a thing.
+ANDREW	I prefer the term "saga," and could we try to keep our secret headquarters just a little bit secret? Keep bringing people in, and they'll see everything. They'll see the big board.
+BUFFY	Andrew, we don't have a big board.
+ANDREW	Made it myself.
+WOOD	Wouldn't have guessed.
+ANDREW	This... ...is us. This represents sightings of The First in its various incarnations. No pattern to the naked eye yet, but the instant one emerges, yours truly is on it.
+BUFFY	You'll have to forgive Andrew. Or not. Your call. We've got a little more than the big board working for us, anyway.
+WOOD	So I see.
+CHLOE	T-twenty what?
+KENNEDY	Push-ups, maggot!
+BUFFY	An ally.
+KENNEDY	Just asking. So what do you think? My girls ready to kick some ass or what?
+WOOD	Looking strong.
+KENNEDY	"But...?"
+WOOD	I'm just not sure The First has an ass you can actually kick.
+KENNEDY	Guess we'll see.
+AMANDA	Principal Wood! Hi! It's so weird, seeing you outside of school.
+BUFFY	You're right. It's not enough.
+WOOD	That's not what I said. It's an impressive group of recruits.
+BUFFY	They're not recruits. Recruits are recruited. These girls were more like... Chosen.
+WOOD	You're doing the best you can with what you've got.
+BUFFY	They're not all gonna make it. Some will die. And nothing I can do will stop that.
+WILLOW	Oh. Hey. Hi. Well, Buffy, I see our preparations for the... school... pep-dance-cheer-drill-contest are really coming along. "Bring it On!"
+BUFFY	Will, it's okay, he knows.
+WILLOW	Oh, thank God.
+WOOD	You're Willow.
+WILLOW	You're Wood.
+BUFFY	I've been showing him around.
+WOOD	Buffy tells me you've been, how shall I put it? "Experimenting."
+WILLOW	Oh. Yes. Nothing too heavy, though. Just the lighter, safer stuff. And you know, I've found there's a lot of really great spells you can cast without...
+WOOD	Destroying the world.
+WILLOW	Which I almost did.
+WOOD	So I heard. I'm glad you decided to get back into it. Must be scary.
+WILLOW	Well, that's why I'm sticking just to Magicks with little training wheels on them. You know. One day at a time.
+WOOD	Good luck with that.
+WILLOW	Thanks. If Kennedy asks? Her pointy stuff's here. See you inside, and... So much cooler than Snyder.
+WOOD	That "end of the world" stuff. Was she being metaphorical, or...
+BUFFY	Literal. Remind me to be polite with her.
+BUFFY	I dunno, it's just, The First is coming, and look at us. "The Army." We've got fighters with nothing to hit, a Wicca who mostly won't-a and the brains of our operation wears oven mitts.
+WOOD	You're re-defining the job. That takes guts. This isn't your full arsenal, anyway.
+ANYA	...But you just let him go!
+SPIKE	After saving your life.
+ANYA	For now. That was one of D'Hoffryn's killers, Spike. He won't stop coming 'til he kills me.
+SPIKE	Yet here you are. Walking. Breathing. Annoying.
+ANYA	But you fought like such a wimp-ire, with the lifting and the running. Why not just kill him?
+BUFFY	Figured.
+WOOD	Hope we're not intruding.
+SPIKE	Not a bit. And just what brings our good principal to this neck of the gloom?
+BUFFY	I'm showing him, you know, the way we do things. Our operation. Us.
+SPIKE	Fine by me. Big fight against evil coming. The more good guys we got, the longer we all live.
+WOOD	Is that what you are? A "good guy?"
+SPIKE	Haven't heard any complaints. Well, I've heard a few over the years, but then I just killed whoever spoke up and that was pretty much that.
+BUFFY	He's joking.
+WOOD	No he's not.
+SPIKE	No, I'm not. But: That's the old me I'm talking about.
+WOOD	Tell me about it.
+SPIKE	Not much to tell. I've changed.
+WOOD	Now that you have a soul.
+SPIKE	Yeah. It was a big deal. Very private. Are you just telling everyone now? What are you spilling next, that I bleach my hair?
+WOOD	I never would have guessed.
+SPIKE	Right. The educator.
+WOOD	I love to learn.
+SPIKE	That case? Yeah. I went to great lengths, lot of trouble, and now I'm unique. Well, more or less. Got myself a soul. Whatever that means.
+WOOD	How's it working out for you?
+SPIKE	In progress.
+WOOD	Well you've had time. Been in Sunnydale...?
+SPIKE	Years.
+WOOD	How many?
+SPIKE	Few.
+WOOD	Before that?
+SPIKE	Around.
+WOOD	That covers some territory. Let me guess. You're...
+BUFFY	We'd better get back upstairs.
+SPIKE	Right. Getting the full tour.
+DAWN	So, I took a look inside that creepy old "emergency" bag of Principal Wood's?
+BUFFY	And?
+DAWN	Smelled weird. Like grandma's closet, but worse.
+BUFFY	I didn't know that was possible. Anything we can use?
+DAWN	Trinkets, couple of weapons, one extra large text book.
+BUFFY	They're worse than the French. Anything else?
+DAWN	Yeah. A box. Big, fat, unopenable box. I'm betting whatever the big deal about this emergency kit is, you'll find it inside the box.
+BUFFY	Good. Keep on it. And don't you have any real homework?
+DAWN	What, like school work? I've got a system: It's called flunking out! Kidding. I paid a guy to study for me. Kidding! God, I love when I talk about failing, just to see your eyeballs change color, it's like...
+KENNEDY	What happened, we heard...
+BUFFY	Dawn. Get a knife. I'm cutting her down.
+BUFFY	You're not Chloe.
+FIRST	Yeah well, neither is she, anymore. Now she's just... "Chloe's body
+KENNEDY	What did you do to her?
+FIRST	Nothing! We just talked all night. Well, I did most of the talking, but Chloe is... I'm sorry, was a great listener. 'Til she hanged herself. Like when you called her a maggot? She really heard that.
+BUFFY	Don't listen to it. Any of you.
+FIRST	Oh, let 'em. Chloe only offed herself because she knew what you're not getting. I'm coming. You're going. All this? It's almost over.
+BUFFY	We'll be here.
+FIRST	All of you? But wait, I thought... (in Buffy's voice) "They're not all gonna make it. Some will die. And nothing I can do will stop that." Hey, I didn't say it. Be seeing you all. One by one. T.T.F.N.!
+BUFFY	W-what's T.T.F.N.?
+RONA	"Ta-Ta For Now." It's what Tigger says when he leaves.
+AMANDA	Chloe loved Winnie the Pooh. Bouncy bouncy, fun fun fun.
+BUFFY	Everyone here?
+KENNEDY	All accounted for.
+BUFFY	Anyone like to say a few words about Chloe?
+KENNEDY	You're out of line.
+WILLOW	No she's not.
+KENNEDY	You gonna let her talk to you like that? Willow - She's not even the most powerful one in this room - with you here? She's not close.
+BUFFY	You're new here. And you're wrong, because I use the power I've got. The rest of you are all just waiting for me.
+XANDER	Well, yeah, but only 'cause you kinda told us to. You're our leader, Buffy. As in "follow the."
+BUFFY	Well from now on, I'm your leader as in "do what I say."
+XANDER	Yah... voll , but let's try not to forget we're also you're friends.
+ANYA	I'm not.
+BUFFY	Then why are you here? Besides getting rescued, what do you do?
+ANYA	I provide... much needed... sarcasm.
+XANDER	Uh, that'd be my job, actually.
+BUFFY	You're here because you're scared.
+XANDER	Same goes for everyone in this room.
+BUFFY	Fine. Anya, all of you: be as scared as you like. Just be useful while you're at it.
+WILLOW	Come on, Buffy. You know everyone here's already doing everything they can.
+BUFFY	And The First isn't impressed. It already knows us. Knows everything we can do, and it's laughing. You want to surprise the enemy? Surprise yourselves. Force yourselves to do what can't be done or else we're not an army. Just a bunch of girls waiting to be picked off and buried.
+SPIKE	Out. Since I'm neither a girl nor waiting, all this speechifying doesn't really apply to me, does it?
+BUFFY	Take a cell phone. That way, if I need someone to get weepy or wailed on, I'll call you.
+SPIKE	If you've got something to say...
+BUFFY	Just said it.
+SPIKE	I don't need to be here.
+BUFFY	Keep holding back, Spike, and you might as well walk out that door.
+SPIKE	Holding back? You're blind. I've been here, right in it. Fighting. Scrapping.
+BUFFY	Since you got your soul back?
+SPIKE	Matter of fact. I'm just not relishing a kill the way I used to.
+BUFFY	You were a better fighter then.
+SPIKE	I did this for you! The soul, the changes - it's what you wanted.
+BUFFY	What I want is the Spike who's dangerous. The one who tried to kill me when we met.
+SPIKE	Oh, you don't know how close you are to bringing him out.
+BUFFY	I'm nowhere near him.
+DAWN	What are you gonna do?
+BUFFY	Declare an emergency.
+BUFFY	We thought you might want to be here.
+WOOD	You thought right.
+XANDER	Cool stuff, but we've seen it all before.
+ANYA	Not this, we haven't.
+WOOD	Don't know. This box hasn't been opened since...
+XANDER	Puppets. That's it! The First hates puppets. Now, if we can just airlift Kermit, Fozzi and Miss Piggy into town - the First'll be a-runnin'.
+WILLOW	Those are Muppets.
+XANDER	Damn.
+DAWN	And these things are Shadow Casters. According to this, you put them in motion, they tell you a story. It says you can't just "watch." You have to "see."
+ANYA	And what the hell does that mean?
+XANDER	That's cryptic. I don't like it. Every time instructions get cryptic, someone gets hurt. Usually me.
+BUFFY	"You can't watch, you have to see." See what?
+DAWN	That's where all my fancy translatin' skills break down, but I think it's an Origin Myth. The story of the very first Slayer.
+BUFFY	I saw her.
+WOOD	You saw the first Slayer?
+BUFFY	The other night, in a dream. It's got to mean something. Let's find out what. Time for a puppet show.
+XANDER	So far, so creepy.
+DAWN	Then there came the Demons.
+BUFFY	What about darkness?
+DAWN	It says you cannot be shown, you cannot just watch but you must see - see for yourself but only if you're willing to make the exchange.
+XANDER	When'd you get so good at Sumerian?
+DAWN	It's not in Sumerian anymore.
+XANDER	But what's it mean?
+BUFFY	Means I have to go in there.
+WILLOW	No it doesn't! It doesn't say that! Where does it say that?
+WOOD	You don't even know what you're exchanging! You don't even know if you're ready!
+BUFFY	That's the point.
+WILLOW	Buffy, we have no idea where you're going or how to get you back!
+XANDER	You can't go!
+BUFFY	It's closing. I've gotta go.
+WILLOW	How will we get you back?
+BUFFY	Find a way!
+XANDER	Huh.
+ANYA	What was all that about an exchange?
+WILLOW	I'm trying! Uh, um... Redi ! WILLOW
+SPIKE	Get her out of here. All of you, 'less you want to be all dead and useless.
+KENNEDY	Yeah - what are you gonna do?
+SPIKE	What I do best.
+DAWN	Are you injured?
+KENNEDY	Just hurt. Don't make a case out of it. How about you?
+XANDER	Think we'll live.
+ANYA	Except maybe Spike.
+KENNEDY	Is getting thrown through the ceiling what he does best?
+DAWN	I'll go check on him.
+ANYA	And we've got bigger problems.
+WOOD	Demon loose, no Slayer.
+WILLOW	We need Buffy.
+XANDER	You gotta get her back. Looks like it's spell-o-clock.
+ANYA	Which spell? You see how powerful that thing was? You expect to get that portal re-opened without sending Willow off the deep end?
+WILLOW	Thanks for your support.
+ANYA	Well it's true. There's got to be some other way.
+WILLOW	There isn't. And Buffy knew it. I have to get her back.
+KENNEDY	We don't even know where she went.
+WILLOW	I have no idea how to re-open your run-of-the-mill time/space portal. Let alone the big kahuna. Dawnie, what's the book say.
+DAWN	Not much. Once Buffy left...
+WILLOW	Oh.
+KENNEDY	It's okay.
+XANDER	Great, so far we know jack about squat - let's go from there.
+KENNEDY	You got the magic. Use it.
+WILLOW	I, I don't even know what kind of magic to use.
+KENNEDY	Why not just try all thirty-two flavors. Worst thing that happens is, you go brunette.
+WILLOW	That's not the worst that can happen.
+ANYA	She's right. And you know, we have a choice. Risk Willow's life and all of our lives to get Buffy back, or... leave her out there.
+WOOD	If we play it safe back here, Buffy could stay lost.
+ANYA	You missed her "everyone sucks but me" speech. If she's so superior, let her find her own way back.
+XANDER	Anya. The First is already up and running. Every second the Slayer's not here is an opportunity for it to show up and rip us all to pieces.
+DAWN	Willow. How would you get Buffy back?
+WILLOW	That's what I'm saying, I don't even know...
+DAWN	If another witch was gonna do it - where would she start?
+WILLOW	Uh... physics. Principles, basic laws.
+DAWN	Such as...
+WILLOW	Conservation of energies. You can't really create or destroy anything. Just.. transfer.
+ANYA	Phht.
+DAWN	Are you helping?
+ANYA	No - but at least I'm not galloping off in the wrong direction.
+WILLOW	Magicks work off physics.
+ANYA	Not without a catalyst. If you're talking about transferring energies, you'll need some kind of conduit.
+WILLOW	What, like a Kraken's Tooth?
+ANYA	Skin of Draconus, ground-up Baltic Stones, something.
+DAWN	Good.
+KENNEDY	Plus we need an exchange, like you said: I'm thinking a Slayer for a Demon.
+WOOD	Right. If we want Buffy back, we have to find that Demon, send him through.
+KENNEDY	It matter if it's dead or alive?
+SPIKE	Slayer's counting on you, Willow. Get cracking on the portal, and don't be stingy with the mojo. Demon's mine.
+KENNEDY	Uh, hate to say it, "big bad," but you look like you can barely stand. We're trained. And the only thing we know for sure about this Demon is - it kicked your ass.
+ONE	We know who you are .
+TWO	And we know why you're here .
+THREE	We've been waiting .
+ONE	We have been here since the beginning.
+TWO	Now, we are almost at the end.
+BUFFY	Okay, and the "neat" of it just left me. End of what?
+THREE	You are the Hellmouth's last Guardian.
+BUFFY	Latest. You mean "latest" guardian.
+ONE	No.
+BUFFY	Look - I got a First to fight. You three have clearly had some time on your hands. Tell me what I need to know. I came to learn.
+ONE	We cannot give you knowledge. Only power.
+BUFFY	Okay, know what I think? I'm not really here at all. None of this is actually happening, this is like a play, like a shadow play, like a non- reality re-enactment hologrammy...
+KENNEDY	Now what? We hold hands and chant "kumbaya" or something?
+WILLOW	Maybe. Until we get the Magicks up and running, I'm kind of working on my best guess here.
+XANDER	Maybe we should wait.
+KENNEDY	For what?
+XANDER	Spike. See if he can bring back that Demon.
+WILLOW	I don't think waiting's the best idea right now. Opening a portal this size, could take days.
+KENNEDY	Better get started.
+WILLOW	I think I might pee in my pants.
+KENNEDY	You can do it. The Magicks, not the pants thing.
+BUFFY	What is this?
+TWO	We are at the beginning.
+THREE	The source of your strength. The well of the Slayer's power.
+ONE	This is why we have brought you here.
+BUFFY	I thought I brought me here.
+ONE	The first Slayer - did not talk so much.
+TWO	The energy of the Demon. Its spirit.
+THREE	Its heart.
+BUFFY	This is how you...
+ONE	...Created the Slayer? Yes.
+BUFFY	Bastards...
+MAN	This is how we did so then. How we will do so now.
+THREE	It must become one with you.
+BUFFY	I get a say in this and I'm saying no...
+TWO	Merge, live, and grow inside you.
+BUFFY	No!
+ONE	This is how it was then. How it must be now.
+TWO	This is all there is.
+BUFFY	Make this stop.
+ONE	This is what you came for.
+BUFFY	You got the wrong Slayer. I'm not the first one.
+ONE	We know.
+TWO	She begged for us to stop.
+THREE	We did not then. We will not now.
+TWO	We only want to help you.
+WOOD	Where you going?
+SPIKE	Got a job.
+WOOD	Nice coat.
+SPIKE	New York.
+WILLOW	Screw it. Mighty forces, I suck at Latin, okay? But that's not the issue! I am in charge here and I am telling you, open this portal NOW!
+XANDER	It's not happening, Will.
+KENNEDY	Give her time, she's getting it.
+XANDER	Or something's getting her. Will - thinking you better back up a little.
+WILLOW	No!
+ONE	You don't understand. You need our power. To reject us is to disrupt the Slayer line.
+TWO	You are making things worse.
+BUFFY	Good.
+ONE	You are only destroying yourself.
+BUFFY	Please. I died more times than you can count.
+ONE	We offered you power. You came for knowledge.
+BUFFY	So tell me something I don't know.
+ONE	As you wish.
+WILLOW	You okay? You've been kinda quiet since...
+KENNEDY	You sucked the life out of me?
+WILLOW	Yeah. Since that. It's important you know. What I am. What I'm like when I'm... like that.
+KENNEDY	I thought it would be, I dunno. Cool, somehow. It just hurt.
+WILLOW	I'm sorry. You were the most powerful person nearby. That's how it works. It's how I work.
+KENNEDY	I get that. You told me. I'll um ...I'll see you in the morning.
+WILLOW	You okay?
+BUFFY	Thanks for bringing me back. Again.
+WILLOW	It's what I do.
+WILLOW	I don't know. Usual way I guess?
+BUFFY	Not this time. Will: The men I met. The Shadow Men. They showed me.
+WILLOW	Showed you what?
+BUFFY	That the Primitive was right. It isn't enough.
+WILLOW	Why? Buffy. What did you see?

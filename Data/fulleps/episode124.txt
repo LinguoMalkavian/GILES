@@ -1,0 +1,649 @@
+DRUNK	Hey! Was die Holle Sie denken Sie sind ... DRUNK Hey! what the hell you think you're ...
+GIRL	From beneath you, it devours ...
+DAWN	Buffy - Buffy - BUFFY!
+BUFFY	I heard screaming.
+DAWN	That was you.
+BUFFY	And ... there was a girl.
+DAWN	That would be me.
+BUFFY	No, it was ...
+DAWN	... Just a dream. It was just a dream, right?
+BUFFY	Vision, maybe.
+DAWN	That explains the screaming. And I'm guessing we can rule out any visions involving winning the lottery ...
+BUFFY	"From beneath you, it devours." That's all she could say. And then they ... There's more like her, Dawn. Somewhere. Out there.
+DAWN	Okay! Vision break. It's all too cryptic to figure out in one night anyway. Let's go downstairs and I'll make you a nice cup of tea.
+BUFFY	I hate tea.
+DAWN	Me, too. It's the gesture. Come on.
+BUFFY	"From beneath you ..."
+SPIKE	Now is not the time, you know it, I know it, making them understand - a totally different matter.
+DAWN	'Cause, seriously, just speaking for all the people who are me in the car? We're very excited.
+BUFFY	Well, I'm glad for all of you then.
+DAWN	It's just so cool. You're coming to school with me! You'll be like, right there, the whole time. You understand you can never talk to me, look at me, or hang out anywhere near my friends, right?
+BUFFY	You've been very specific.
+XANDER	I forgot high school's unwritten rules of hallway etiquette. Of course, no one ever explained them to me, they'd just stuff me in a locker 'til I drew my own conclusions.
+DAWN	I don't mean to sound all "Cordelia Chase Part Two" about it...
+XANDER	Appreciated...
+DAWN	It's just, I don't want my big sister humiliating me five days a week.
+BUFFY	Three. Three days a week. I'm only doing this community counseling gig part time, so if you want to be embarrassed Tuesdays and Thursdays? You're on your own, Missy.
+XANDER	But if you're looking for a tutor? (raising his hand) Years in the field. Just saying.
+BUFFY	I doubt you'll see me at all, assuming I even half-understand my fuzzy job description ...
+DAWN	It's not fuzzy. You're what, dealing with "troubled" kids?
+XANDER	At a spanking new Hellmouth High. Please. Outside of drugs, violence, unwanted pregnancy and the unleashed hordes of Armageddon that come pouring out the school's foundation every now and then ... what kind of "trouble" could these kids have?
+XANDER	You're sounding a little less than Gung-ho about the job, there, Buff.
+BUFFY	Huh? Oh, it's not the job of it, it's ... anyone else find it a little weird that Principal Wood just - hired me? Just like that?
+DAWN	Just like what?
+XANDER	Guy gives you a job... not exactly a thrilling tale of horror.
+BUFFY	Just seems, I don't know ... convenient.
+XANDER	Maybe. Doesn't make it bad. Those kids got damn lucky, having a Slayer and a friend on campus there for 'em. Hope they appreciate it. I know I did.
+XANDER	Yes and no. With a heavy emphasis on the yes, but at least I was dating then.
+BUFFY	You could be dating now.
+DAWN	Yeah, you're a guy with a car and a job and a tie.
+BUFFY	All hard to resist.
+XANDER	The leaving her at the altar thing?
+BUFFY	Yeah, that one. That's not something you just bounce right back from.
+XANDER	Sure it is. She bounced back to being a Vengeance Demon and I bounced back to being a dateless nerd.
+DAWN	Do you guys talk at all?
+XANDER	I've seen her at The Bronze a couple times... guess there's a lot of scorned women there making Vengeance wishes on their exes.
+BUFFY	That's where I go to get my scorn on...
+DAWN	You guys should really ease up with the whole "dating demons" thing.
+BUFFY	Hello, you were the one having the Smooch-athon with teen-vampire last Halloween.
+DAWN	See, this is why I don't want you talking to my friends.
+WOOD	We'll sort of feel our way along. Some students will be sent to you and I'm hoping others will start to come on their own.
+BUFFY	What if they don't? Should I panic?
+WOOD	You might be surprised, Buffy. You're the youngest and, uh ... ... least stuffy member of this faculty. I think the students'll want to talk to you, and when they do, don't evaluate them, just listen. They need to know they have someone here who's on their side.
+BUFFY	Can I give detention?
+WOOD	Okay by me. A little authority can be a wonderful thing. Just remember that while you're here to help, you're not their friend. Trust me , open that door, these students will eat you alive.
+BUFFY	You heard about Principal Flutie, right?
+BUFFY	Forget it.
+WOOD	Okay, then. I think that's pretty much it; you got your phone, your desk, and I've imparted all the wisdom I can for one morning.
+BUFFY	And for that, I thank you.
+WOOD	Oh, there'll be more. Everything happens on a case by case basis around here anyway, and I've got bags more wisdom stashed away in my office.
+BUFFY	Right. I'll just ... come to you with questions when they come to me with questions.
+WOOD	Great. Relax, there's only three things these kids understand: the boot, the bat, and the bastinada. Bad joke. It's the "bastinada." No one ever knows what that thing is.
+BUFFY	Wooden rod they use to smack the soles of your feet in Turkish prisons, but if you use the right wood, it makes an awesome billy club.
+WOOD	Think you're qonna fit in just fine. Is there something else?
+BUFFY	Just one thing. I was curious, and don't think I'm not grateful or anything, but ... why is it exactly I ...
+WOOD	... Have this job?
+BUFFY	I still haven't finished college.
+WOOD	I know.
+BUFFY	So was it my sparkling personality, or maybe you've just enjoyed my work at the Double Meat Palace ...
+WOOD	I'm a vegetarian. The students need someone who understands them; I need someone who understands students. Why? Something about you I don't know - and maybe should?
+BUFFY	Nothing I can think of.
+WOOD	If you'll excuse me. First catch of the day. Be in my office if you need me.
+BUFFY	Thanks. I'm gonna look around, get to know the place... Make sure it's all...
+BUFFY	Spike?
+NANCY	Rocky! Come on, baby, do your business, I want to get home.
+XANDER	Uh ... Hello.
+NANCY	... And whatever it was, it was big. And strong. Stronger than... I mean I don't know how it's possible. You hear things, in this town, living in Sunnydale, but no one actually believes them - you'd have to be crazy, and ... ...And you all think I'm crazy, don't you?
+XANDER	I don't.
+BUFFY	We've seen things too, Nancy.
+DAWN	We're probably the only ones in Sunnydale who would believe you.
+XANDER	And we're gonna do something about this. It's your lucky night. Considering, you know, your dog just got all ate up and stuff. Can I freshen up that tea for ya?
+NANCY	No, I'm good.
+DAWN	So you say this thing just came up out of the ground? No signs, or warning of any kind?
+NANCY	Just this kind of rumbling sound. You know, like before an earthquake?
+BUFFY	"... From beneath you it devours."
+NANCY	What?
+BUFFY	Nothing.
+DAWN	Nothing good ...
+XANDER	It's sounding monster-ific, all right.
+DAWN	Round up the gang?
+XANDER	Good thinking. Except ... This is the gang
+BUFFY	Just us. Right.
+XANDER	About as assembled as the Avengers can be these days.
+BUFFY	We're going to get into this. And if your dog's alive, we'll find him. I promise. The only thing we need ...
+SPIKE	Fortunately ... you've got me.
+SPIKE	Buffy.
+BUFFY	Spike.
+NANCY	Who is that?
+DAWN	He's... it's Buffy's...
+XANDER	Ex.
+NANCY	And somehow I'm getting it's more complicated than that.
+XANDER	Always is.
+BUFFY	You've changed.
+SPIKE	I have.
+BUFFY	Nice clothes. Better hair. And not so much with the crazy, I like it.
+SPIKE	Easy. If you think I like putting myself here, surrounded by people who don't particularly like me.
+XANDER	If you're uncomfortable, we could make you leave.
+SPIKE	I'll be quick. We need to talk. Want to do that here, or privately?
+XANDER	I'm thinking here - in the company of good friends and pointy weapons.
+BUFFY	You said something about "quick?"
+SPIKE	I did. For a start and for the record - last you saw me, I was a mess - out of my head - admitted. Last week, living in the school basement ... well you saw me.
+DAWN	You did?
+XANDER	Damn it, Buffy
+BUFFY	Wait. Guys. Yes, I saw Spike ... I just ...
+DAWN	What - forgot to mention it?
+BUFFY	Things in that basement were insane. I saved your life. We'll discuss this later.
+DAWN	Sure.
+XANDER	Whatever you want.
+DAWN	Right, 'cause that seems to be the only time you let us in, Buffy. Whenever you want.
+SPIKE	Now, in fairness to Buffy...
+XANDER	Shut up, Spike.
+BUFFY	Guys. Give us a minute.
+SPIKE	I didn't come to atone.
+BUFFY	Then what the hell do you want?
+SPIKE	Only to help you.
+BUPFY	Help me what?
+SPIKE	I was kinda hoping you'd tell me. You're the Slayer. Connected to visions, the long line of worthies. Riqht? I'm just a guy with his ear to the ground, but even I can feel it: something's coming.
+BUFFY	Everything about you is wrong, Spike.
+SPIKE	You're gonna need help.
+BUFFY	Since when did you become the champion of the people?
+SPIKE	I didn't. I'm just a guy who can lend a hand, if you let me. Ball's in your court, Slayer.
+GILES	Your cab is here.
+WILLOW	I know.
+GILES	And in keeping with quaint old British tradition, you'll now be expected to get in it.
+WILLOW	I don't think I can, Giles. I'm not done here.
+GILES	That's your fear talking.
+WILLOW	Yes! My fear's a big obnoxious blabbermouth - and you're the one who keeps telling me to trust my instincts.
+GILES	True.
+WILLOW	So? Shouldn't we be listening? I don't want to go back home just so I can screw up again. Why don't I stay? Not forever, just long enough to, I dunno, make my fear shut up a little, maybe.
+GILES	It's possible, but ...
+WILLOW	Ho. Well. For starters? How about the Hellmouth's getting all rumbly again and now I know it's got teeth and are those literal teeth 'cause I don't know if I can handle it, and what if I can handle it? Does that mean I have to be a bigger, badder badass than the source of all badness? What if I have to give up all this control stuff and go all veiny and homicidal and what if ...
+GILES	... They don't take you back?
+WILLOW	A-huh?
+GILES	Willow. We could remain another two years here, training and practicing, learning to hone your powers. And still, you'd be no way of knowing for sure if the friends you left behind are still your friends at all.
+WILLOW	Well ... sure. I mean you put it that way - duh .
+GILES	I would offer some guarantee you'll be welcomed back in Sunnydale with open arms. But I can't. You may not be wanted. But you will be needed.
+WILLOW	That all you got?
+GILES	For the moment, yes.
+WILLOW	Okay. Guess I'd better ...
+GILES	Trust yourself. And the others might follow.
+BUFFY	We're gonna split. Two pairs. Whatever this creature is, it's burrowing through solid ground. That means a kind of strength and power we don't usually deal with. But we may have to yet used to, now that the Hellmouth's getting all perky.
+NANCY	Shouldn't we call the police?
+XANDER	And tell them what?
+NANCY	I'll stop interrupting.
+SPIKE	This thing came from underground, yes?
+NANCY	Rocky.
+SPIKE	Comes when called?
+NANCY	Always does. Or, did ...
+BUFFY	Xander. Take Nancy home. Drive, don't walk and try not to stop 'til you get there.
+XANDER	Understood.
+NANCY	Is your girlfriend always this ... commanding?
+XANDER	Who - Buffy? Oh, she's not ... I mean, she's a girl, and a friend, but she's not my ...
+BUFFY	Spike and I'll check out the site of the attack.
+XANDER	O-kay ...
+BUFFY	And failed. I know I can take him.
+DAWN	I'm command central. Everybody checks in with me. Okay, I'll be here doing homework, but still the other thing sounds cooler.
+BUFFY	Let's head out.
+SPIKE	Righty-o, then.
+DAWN	Spike?
+SPIKE	Yeah. What's your point, nibblet?
+DAWN	Well, I couldn't take you in a fight or anything, even with that chip in your head. But you do sleep. And if you hurt my sister, at all , if you touch her -- you're gonna wake up on fire.
+SPIKE	You're awfully quiet.
+BUFFY	I wouldn't know what to say.
+SPIKE	Fine with me. I was more than half expecting to get an earful anyway and when exactly'd your sister get unbelievably scary?
+BUFFY	What are you doing?
+SPIKE	What? Told you once. Straight up. I'm here to help. And that's all. Think this here's our spot?
+BUFFY	How'd you guess.
+SPIKE	Don't fancy sticking my head in that.
+BUFFY	But if something bites it off, that will be a clue.
+SPIKE	You saw yourself. Those ghostly types down in the school basement got in my head. Made me flat-out, bug- shagging crazy. And I'm not exactly bragging about it, but they were ... stronger than I was. Made me see things. Do things.
+BUFFY	Dunno. I guess ... I was partly hoping you were some kind of mirage.
+SPIKE	Sorry to disappoint.
+BUFFY	Not your fault.
+SPIKE	Hold the lantern closer, would you?
+BUFFY	Spike, I can't. I can't do this. I can't ... I don't know what this is. I don't know what you want.
+SPIKE	At the moment, I want a little more visibility. Fair?
+BUFFY	This isn't ... our working together's not going to get us back together. If that's what you want.
+SPIKE	It's not. Look. I can't blame you for being all skittish.
+BUFFY	"Skittish?" That's not a word I'd use for it. You tried to rape me. I don't have the words.
+SPIKE	Neither do I. I can't say "sorry" and I can't use "forgive me." All I can tell you, Buffy, is I've changed.
+BUFFY	I believe you.
+SPIKE	Well, that's something.
+BUFFY	I just don't know what you've changed into. You come back to town, you make with the big surprises - twice - and I don't know what your game is, Spike, but I know - there's something you're not telling me.
+SPIKE	You're right.
+NANCY	... still kinda hard to believe this is happening, even with this town's reputation for, you know, unexplained weirdness.
+XANDER	Right, "Sunnydale: come for the food, stay for the dismemberment."
+NANCY	There's good food?
+NANCY	Got it. So, you think I might, instead, give you a call sometime?
+XANDER	Just to check in.
+NANCY	No, I'm actually hitting on you.
+XANDER	Even better. I'm very listed.
+NANCY	And I'm very pushy, so that works out, then.
+XANDER	Uh, Nancy ...?
+NANCY	I ... no, I don't think so. It's just, I don't think I can take any more of this ...
+XANDER	Two attacks in one night - I'm thinking it's more than just coincidence.
+NANCY	Sure. Why not? Monster, trying to kill me ... that was really the only thing missing to make my life perfect. (beat, sighing) Ronnie'd love this, boy ...
+XANDER	Right. Who's Ronnie?
+NANCY	Oh, only a psycho ex-boyfriend I spent the last few weeks getting rid of. Phtt, I almost prefer the monster. He was ... trouble.
+XANDER	Uh-huh. And, just curious here, was this Ronnie guy a "borrow money" kind of trouble, or more of a "raising demon" trouble kind of guy?
+NANCY	Ronnie? He couldn't - I mean, he was just... He was an abusive bastard, is the catchy headline. And he'd just show up, even after... You know the feeling when your ex is constantly ruining every part of your life and it just doesn't stop?
+XANDER	Yes.
+NANCY	And you yet so tired of being helpless, all you can do is just ... wish it could all stop?
+XANDER	"Wish?"
+NANCY	But then I realized, it's my life, not his, why'd I ever let him ...
+XANDER	Nancy - I'm sorry - can we go back a second? When you wished, was that like wishing on a star, or did you actually wish to a friend that something bad would happen?
+WOMAN	... and it's not the fact he cheated on me, it's the way he cheated, you know? I mean, we could have talked, I could have handled it ...
+ANYA	Uh-huh. Uh-huh. I get it. Go on ...
+WOMAN	You know what he is? He's spineless. That's it. He's like this spineless little pig. You know what I wish?
+ANYA	God, do I want to.
+ANYA	... You were saying.
+WOMAN	I want more quesadillas?
+ANYA	Before that.
+WOMAN	A margarita?
+ANYA	After that.
+WOMAN	Oh. Yeah! God, my boyfriend's spineless. He should just, you know, just be spineless. For real.
+ANYA	No spine. Got it. I can do that.
+WOMAN	What do you mean?
+ANYA	Well, honey, what I'm driving us towards here is, sometimes, don't you just wish that ...
+XANDER	This the one you talked to?
+ANYA	Tell you what: let's put a pin in it, go get yourself a beverage and we'll pick it up in a few. 'Kay?
+BUFFY	We noticed.
+SPIKE	It's why we're here.
+XANDER	Yeah, did you turn this nice lady's ex into a giant worm monster?
+ANYA	Yes.
+NANCY	No way - are you saying that ... that thing was Ronnie?
+ANYA	Hey, you wish it, I dish it. I thought we were clear on this. Didn't think you were gonna turn all narc on me.
+BUFFY	You wished your ex was a worm.
+NANCY	We were just talking.
+XANDER	Anya has a way of making things happen.
+ANYA	I had a quota, the guy had it coming, what's the big?
+NANCY	I think I'm gonna be sick.
+BUFFY	Anya, that thing you created burst through solid pavement and ate her dog.
+ANYA	Aww. Puppy ...
+XANDER	Wait. That gets your sad noise? People's lives are in danger and you give it up for the shih-tzu?
+ANYA	You never understood me, Xander.
+NANCY	Xander, who is this woman?
+XANDER	Anya? She's ... Anya. My ex.
+NANCY	Oh.
+ANYA	Hey, nobody's bragging here.
+SPIKE	Please - I've already forgotten our little together time.
+NANCY	I thought you were Xander's ex- girl friend.
+ANYA	I am.
+NANCY	But you and Spike ...?
+ANYA	We had a thing.
+SPIKE	Didn't last.
+NANCY	But weren't you Buffy's ...
+SPIKE	Briefly.
+BUFFY	Never serious.
+NANCY	Are there any of you who haven't slept with each other?
+ANYA	Well at least we're all bipeds, which is more than you can say for Ronnie the worm boy.
+BUFFY	Can we all just focus a minute? Anya. This Ronnie? He's not a worm. Worms are like, this big. They're fish bait. That thing ...
+SPIKE	Was a Sluggoth Demon. Am I right?
+ANYA	Maybe.
+NANCY	But - I never wished for that. I don't even know what a ... whatchamacallit demon is.
+SPIKE	Sluggoth Demon. Very large, very nasty, natural predators who died out around the Crusades.
+ANYA	Same phylum, it's not cheating. I just embellished.
+XANDER	Well you can unembellished now.
+ANYA	Bite me, Harris. I have rules to work with. Vengeance Demon codes of conduct you'll never understand 'cause you're still all so ... human.
+SPIKE	I'm not. Demon like yourself, Anya . Now you turn this spell around like a good little Vengeance Demon, or I ... what?
+ANYA	Oh my God ...
+SPIKE	What are you staring at?
+ANYA	Oh my God ...
+SPIKE	Right - let's go.
+ANYA	How did you do it ... ?
+BUFFY	Spike. What's she talking about?
+ANYA	I can see you ...
+SPIKE	Nothing. Let's go. Got some worm hunting to do ...
+ANYA	How did you do it?
+SPIKE	Shut up.
+ANYA	It shouldn't be possible ...
+SPIKE	Shut your mouth, you.
+ANYA	How did you get ...
+SPIKE	I said you shut UP!
+BUFFY	You haven't changed, Spike.
+SPIKE	Ooh, working out some issues, are we? Guess this'd be first contact since you-know-when ... up for another round in the balcony, then?
+XANDER	Buffy ...
+BUFFY	Not now, Xander.
+XANDER	Nancy.
+BUFFY	I'll go find her. You work on Anya - get her to reverse that spell.
+SPIKE	Is that it?!? A little touchy-feely and then you're off to the batpoles?
+XANDER	Anya, we ...
+ANYA	... Have nothing to talk about.
+NANCY	Freaks. Why do I always surround myself with ...
+ANYA	Don't think you can tell me what to do, Xander. You're not a part of my life anymore, remember?
+ANYA	So why are you here? Let me cast my Vengeance. Do I come to where you work and slap the ... wrench thing out of your hands?
+XANDER	I'm trying to save your life.
+ANYA	How's that work?
+XANDER	Think about the career choice you're making here, Anya. You're getting people killed.
+ANYA	Not my problem.
+XANDER	Well it's gonna be. Forget right and wrong - what you're doing is demonic.
+ANYA	Uh, yeah. We're not called Vengeance People ...
+XANDER	And Buffy's the Slayer. You're a Demon. You kill people - how long you think it's gonna be before she has to do her job?
+ANYA	Buffy wouldn't slay ... me.
+XANDER	Not if you stop now.
+ANYA	What do you want me to do?
+XANDER	Reverse the spell.
+ANYA	It's not that easy, Xander!
+XANDER	You can do it.
+ANYA	Sure, the spell part. But what about afterwards? What about me? I'm in enough trouble as it is. Halfrek's all over my case, D'Hoffryn is not pleased with my work and you don't want to see him unhappy, trust me ...
+XANDER	Nice friends you got.
+ANYA	Nice friends I had. Chums, co- workers, bridesmaids ... oh I had the whole package until something fell apart, now what could that be, Xander?
+XANDER	You saying this is my fault?
+ANYA	All I'm saying is, none of this happened until you dumped me at the altar.
+XANDER	And sooner or later, Anya, that excuse just stops working.
+SPIKE	You've had you're turn, luv.
+SPIKE	I'm sorry.
+RONNIE	AaaAAH!
+SPIKE	Right. Wrong. Wrong maneuver, not hardly helpful. Christ, please help me.
+BUFFY	You're not the one who needs it. He's going into shock ...
+SPIKE	Too much pain and damage, up close, right inside me. All the way, deep, deep inside me ...
+BUFFY	Spike! Whatever you're doing ...
+SPIKE	Get AWAY!
+BUFFY	Do it somewhere else. I'm through with this.
+SPIKE	Oh, Lucky Girl. Call it quits, now there's an option. If only it were so easy, if only, if only and ... ... What the hell are you screaming about? I can hear you, no need to SHOUT!!!
+XANDER	Buffy.
+NANCY	You. You did this. What are you?
+XANDER	She's not calling me.
+BUFFY	Stay with him. Make sure he gets help.
+XANDER	Where are you going?
+ANYA	Tell him that.
+XANDER	You reversed the spell. Took some guts. And I know this is bad - but it could be worse.
+SPIKE	I figured it out. Took awhile, yeah, but ... I think the real problem is ...
+BUFFY	So that's the problem.
+SPIKE	I think.
+BUFFY	Got news, Spike. You're not that nice.
+SPIKE	Yeah. I've been ... well come on, Let's face it, been a one-man slaughterhouse, last hundred years. Raping. Murdering. And for what? Kicks.
+BUFFY	Spike ...
+SPIKE	Buffy. I can't sleep. Can't think. There's voices and darkness and blindness and pain and help me, I I...
+BUFFY	You have a soul.
+SPIKE	I do indeed.
+BUFFY	But why'd you do it ...?
+SPIKE	You know why. I got my soul back ...
+BUFFY	I heard screaming.
+DAWN	That was you.
+BUFFY	And ... there was a girl.
+DAWN	That would be me.
+BUFFY	No, it was ...
+DAWN	... Just a dream. It was just a dream, right?
+BUFFY	Vision, maybe.
+DAWN	That explains the screaming. And I'm guessing we can rule out any visions involving winning the lottery ...
+BUFFY	"From beneath you, it devours." That's all she could say. And then they ... There's more like her, Dawn. Somewhere. Out there.
+DAWN	Okay! Vision break. It's all too cryptic to figure out in one night anyway. Let's go downstairs and I'll make you a nice cup of tea.
+BUFFY	I hate tea.
+DAWN	Me, too. It's the gesture. Come on.
+DAWN	'Cause, seriously, just speaking for all the people who are me in the car? We're very excited.
+BUFFY	Well, I'm glad for all of you then.
+DAWN	It's just so cool. You're coming to school with me! You'll be like, right there, the whole time. You understand you can never talk to me, look at me, or hang out anywhere near my friends, right?
+BUFFY	You've been very specific.
+XANDER	I forgot high school's unwritten rules of hallway etiquette. Of course, no one ever explained them to me, they'd just stuff me in a locker 'til I drew my own conclusions.
+DAWN	I don't mean to sound all "Cordelia Chase Part Two" about it...
+XANDER	Appreciated...
+DAWN	It's just, I don't want my big sister humiliating me five days a week.
+BUFFY	Three. Three days a week. I'm only doing this community counseling gig part time, so if you want to be embarrassed Tuesdays and Thursdays? You're on your own, Missy.
+XANDER	But if you're looking for a tutor? (raising his hand) Years in the field. Just saying.
+BUFFY	I doubt you'll see me at all, assuming I even half-understand my fuzzy job description ...
+DAWN	It's not fuzzy. You're what, dealing with "troubled" kids?
+XANDER	At a spanking new Hellmouth High. Please. Outside of drugs, violence, unwanted pregnancy and the unleashed hordes of Armageddon that come pouring out the school's foundation every now and then ... what kind of "trouble" could these kids have?
+XANDER	You're sounding a little less than Gung-ho about the job, there, Buff.
+BUFFY	Huh? Oh, it's not the job of it, it's ... anyone else find it a little weird that Principal Wood just - hired me? Just like that?
+DAWN	Just like what?
+XANDER	Guy gives you a job... not exactly a thrilling tale of horror.
+BUFFY	Just seems, I don't know ... convenient.
+XANDER	Maybe. Doesn't make it bad. Those kids got damn lucky, having a Slayer and a friend on campus there for 'em. Hope they appreciate it. I know I did.
+XANDER	Yes and no. With a heavy emphasis on the yes, but at least I was dating then.
+BUFFY	You could be dating now.
+DAWN	Yeah, you're a guy with a car and a job and a tie.
+BUFFY	All hard to resist.
+XANDER	The leaving her at the altar thing?
+BUFFY	Yeah, that one. That's not something you just bounce right back from.
+XANDER	Sure it is. She bounced back to being a Vengeance Demon and I bounced back to being a dateless nerd.
+DAWN	Do you guys talk at all?
+XANDER	I've seen her at The Bronze a couple times... guess there's a lot of scorned women there making Vengeance wishes on their exes.
+BUFFY	That's where I go to get my scorn on...
+DAWN	You guys should really ease up with the whole "dating demons" thing.
+BUFFY	Hello, you were the one having the Smooch-athon with teen-vampire last Halloween.
+DAWN	See, this is why I don't want you talking to my friends.
+WOOD	We'll sort of feel our way along. Some students will be sent to you and I'm hoping others will start to come on their own.
+BUFFY	What if they don't? Should I panic?
+WOOD	You might be surprised, Buffy. You're the youngest and, uh ... ... least stuffy member of this faculty. I think the students'll want to talk to you, and when they do, don't evaluate them, just listen. They need to know they have someone here who's on their side.
+BUFFY	Can I give detention?
+WOOD	Okay by me. A little authority can be a wonderful thing. Just remember that while you're here to help, you're not their friend. Trust me , open that door, these students will eat you alive.
+BUFFY	You heard about Principal Flutie, right?
+BUFFY	Forget it.
+WOOD	Okay, then. I think that's pretty much it; you got your phone, your desk, and I've imparted all the wisdom I can for one morning.
+BUFFY	And for that, I thank you.
+WOOD	Oh, there'll be more. Everything happens on a case by case basis around here anyway, and I've got bags more wisdom stashed away in my office.
+BUFFY	Right. I'll just ... come to you with questions when they come to me with questions.
+WOOD	Great. Relax, there's only three things these kids understand: the boot, the bat, and the bastinada. Bad joke. It's the "bastinada." No one ever knows what that thing is.
+BUFFY	Wooden rod they use to smack the soles of your feet in Turkish prisons, but if you use the right wood, it makes an awesome billy club.
+WOOD	Think you're qonna fit in just fine. Is there something else?
+BUFFY	Just one thing. I was curious, and don't think I'm not grateful or anything, but ... why is it exactly I ...
+WOOD	... Have this job?
+BUFFY	I still haven't finished college.
+WOOD	I know.
+BUFFY	So was it my sparkling personality, or maybe you've just enjoyed my work at the Double Meat Palace ...
+WOOD	I'm a vegetarian. The students need someone who understands them; I need someone who understands students. Why? Something about you I don't know - and maybe should?
+WOOD	If you'll excuse me. First catch of the day. Be in my office if you need me.
+BUFFY	Thanks. I'm gonna look around, get to know the place... Make sure it's all...
+XANDER	I don't.
+BUFFY	We've seen things too, Nancy.
+DAWN	We're probably the only ones in Sunnydale who would believe you.
+XANDER	And we're gonna do something about this. It's your lucky night. Considering, you know, your dog just got all ate up and stuff. Can I freshen up that tea for ya?
+NANCY	No, I'm good.
+DAWN	So you say this thing just came up out of the ground? No signs, or warning of any kind?
+NANCY	Just this kind of rumbling sound. You know, like before an earthquake?
+BUFFY	"... From beneath you it devours."
+NANCY	What?
+BUFFY	Nothing.
+DAWN	Nothing good ...
+XANDER	It's sounding monster-ific, all right.
+DAWN	Round up the gang?
+XANDER	Good thinking. Except ... This is the gang
+BUFFY	Just us. Right.
+XANDER	About as assembled as the Avengers can be these days.
+SPIKE	Buffy.
+BUFFY	Spike.
+NANCY	Who is that?
+DAWN	He's... it's Buffy's...
+XANDER	Ex.
+NANCY	And somehow I'm getting it's more complicated than that.
+XANDER	Always is.
+BUFFY	You've changed.
+SPIKE	I have.
+BUFFY	Nice clothes. Better hair. And not so much with the crazy, I like it.
+SPIKE	Easy. If you think I like putting myself here, surrounded by people who don't particularly like me.
+XANDER	If you're uncomfortable, we could make you leave.
+SPIKE	I'll be quick. We need to talk. Want to do that here, or privately?
+XANDER	I'm thinking here - in the company of good friends and pointy weapons.
+BUFFY	You said something about "quick?"
+SPIKE	I did. For a start and for the record - last you saw me, I was a mess - out of my head - admitted. Last week, living in the school basement ... well you saw me.
+DAWN	You did?
+XANDER	Damn it, Buffy
+BUFFY	Wait. Guys. Yes, I saw Spike ... I just ...
+DAWN	What - forgot to mention it?
+BUFFY	Things in that basement were insane. I saved your life. We'll discuss this later.
+DAWN	Sure.
+XANDER	Whatever you want.
+DAWN	Right, 'cause that seems to be the only time you let us in, Buffy. Whenever you want.
+SPIKE	Now, in fairness to Buffy...
+XANDER	Shut up, Spike.
+BUFFY	Guys. Give us a minute.
+SPIKE	I didn't come to atone.
+BUFFY	Then what the hell do you want?
+SPIKE	Only to help you.
+BUPFY	Help me what?
+SPIKE	I was kinda hoping you'd tell me. You're the Slayer. Connected to visions, the long line of worthies. Riqht? I'm just a guy with his ear to the ground, but even I can feel it: something's coming.
+SPIKE	You're gonna need help.
+BUFFY	Since when did you become the champion of the people?
+SPIKE	I didn't. I'm just a guy who can lend a hand, if you let me. Ball's in your court, Slayer.
+GILES	Your cab is here.
+WILLOW	I know.
+GILES	And in keeping with quaint old British tradition, you'll now be expected to get in it.
+WILLOW	I don't think I can, Giles. I'm not done here.
+GILES	That's your fear talking.
+WILLOW	Yes! My fear's a big obnoxious blabbermouth - and you're the one who keeps telling me to trust my instincts.
+GILES	True.
+WILLOW	So? Shouldn't we be listening? I don't want to go back home just so I can screw up again. Why don't I stay? Not forever, just long enough to, I dunno, make my fear shut up a little, maybe.
+GILES	It's possible, but ...
+WILLOW	Ho. Well. For starters? How about the Hellmouth's getting all rumbly again and now I know it's got teeth and are those literal teeth 'cause I don't know if I can handle it, and what if I can handle it? Does that mean I have to be a bigger, badder badass than the source of all badness? What if I have to give up all this control stuff and go all veiny and homicidal and what if ...
+GILES	... They don't take you back?
+WILLOW	A-huh?
+GILES	Willow. We could remain another two years here, training and practicing, learning to hone your powers. And still, you'd be no way of knowing for sure if the friends you left behind are still your friends at all.
+WILLOW	Well ... sure. I mean you put it that way - duh .
+GILES	I would offer some guarantee you'll be welcomed back in Sunnydale with open arms. But I can't. You may not be wanted. But you will be needed.
+WILLOW	That all you got?
+GILES	For the moment, yes.
+WILLOW	Okay. Guess I'd better ...
+GILES	Trust yourself. And the others might follow.
+NANCY	Shouldn't we call the police?
+XANDER	And tell them what?
+NANCY	I'll stop interrupting.
+SPIKE	This thing came from underground, yes?
+NANCY	Rocky.
+SPIKE	Comes when called?
+NANCY	Always does. Or, did ...
+BUFFY	Xander. Take Nancy home. Drive, don't walk and try not to stop 'til you get there.
+XANDER	Understood.
+NANCY	Is your girlfriend always this ... commanding?
+XANDER	Who - Buffy? Oh, she's not ... I mean, she's a girl, and a friend, but she's not my ...
+BUFFY	Spike and I'll check out the site of the attack.
+XANDER	O-kay ...
+BUFFY	And failed. I know I can take him.
+DAWN	I'm command central. Everybody checks in with me. Okay, I'll be here doing homework, but still the other thing sounds cooler.
+BUFFY	Let's head out.
+SPIKE	Righty-o, then.
+SPIKE	Yeah. What's your point, nibblet?
+DAWN	Well, I couldn't take you in a fight or anything, even with that chip in your head. But you do sleep. And if you hurt my sister, at all , if you touch her -- you're gonna wake up on fire.
+SPIKE	You're awfully quiet.
+BUFFY	I wouldn't know what to say.
+SPIKE	Fine with me. I was more than half expecting to get an earful anyway and when exactly'd your sister get unbelievably scary?
+BUFFY	What are you doing?
+SPIKE	What? Told you once. Straight up. I'm here to help. And that's all. Think this here's our spot?
+SPIKE	Don't fancy sticking my head in that.
+BUFFY	But if something bites it off, that will be a clue.
+BUFFY	Dunno. I guess ... I was partly hoping you were some kind of mirage.
+SPIKE	Sorry to disappoint.
+BUFFY	Not your fault.
+SPIKE	Hold the lantern closer, would you?
+BUFFY	Spike, I can't. I can't do this. I can't ... I don't know what this is. I don't know what you want.
+SPIKE	At the moment, I want a little more visibility. Fair?
+BUFFY	This isn't ... our working together's not going to get us back together. If that's what you want.
+SPIKE	It's not. Look. I can't blame you for being all skittish.
+BUFFY	"Skittish?" That's not a word I'd use for it. You tried to rape me. I don't have the words.
+SPIKE	Neither do I. I can't say "sorry" and I can't use "forgive me." All I can tell you, Buffy, is I've changed.
+BUFFY	I believe you.
+SPIKE	Well, that's something.
+BUFFY	I just don't know what you've changed into. You come back to town, you make with the big surprises - twice - and I don't know what your game is, Spike, but I know - there's something you're not telling me.
+SPIKE	You're right.
+NANCY	... still kinda hard to believe this is happening, even with this town's reputation for, you know, unexplained weirdness.
+XANDER	Right, "Sunnydale: come for the food, stay for the dismemberment."
+NANCY	There's good food?
+NANCY	Got it. So, you think I might, instead, give you a call sometime?
+XANDER	Just to check in.
+NANCY	No, I'm actually hitting on you.
+XANDER	Even better. I'm very listed.
+NANCY	And I'm very pushy, so that works out, then.
+NANCY	I ... no, I don't think so. It's just, I don't think I can take any more of this ...
+XANDER	Two attacks in one night - I'm thinking it's more than just coincidence.
+NANCY	Sure. Why not? Monster, trying to kill me ... that was really the only thing missing to make my life perfect. (beat, sighing) Ronnie'd love this, boy ...
+XANDER	Right. Who's Ronnie?
+NANCY	Oh, only a psycho ex-boyfriend I spent the last few weeks getting rid of. Phtt, I almost prefer the monster. He was ... trouble.
+XANDER	Uh-huh. And, just curious here, was this Ronnie guy a "borrow money" kind of trouble, or more of a "raising demon" trouble kind of guy?
+NANCY	Ronnie? He couldn't - I mean, he was just... He was an abusive bastard, is the catchy headline. And he'd just show up, even after... You know the feeling when your ex is constantly ruining every part of your life and it just doesn't stop?
+XANDER	Yes.
+NANCY	And you yet so tired of being helpless, all you can do is just ... wish it could all stop?
+XANDER	"Wish?"
+NANCY	But then I realized, it's my life, not his, why'd I ever let him ...
+XANDER	Nancy - I'm sorry - can we go back a second? When you wished, was that like wishing on a star, or did you actually wish to a friend that something bad would happen?
+WOMAN	... and it's not the fact he cheated on me, it's the way he cheated, you know? I mean, we could have talked, I could have handled it ...
+ANYA	Uh-huh. Uh-huh. I get it. Go on ...
+WOMAN	You know what he is? He's spineless. That's it. He's like this spineless little pig. You know what I wish?
+ANYA	God, do I want to.
+ANYA	... You were saying.
+WOMAN	I want more quesadillas?
+ANYA	Before that.
+WOMAN	A margarita?
+ANYA	After that.
+WOMAN	Oh. Yeah! God, my boyfriend's spineless. He should just, you know, just be spineless. For real.
+ANYA	No spine. Got it. I can do that.
+WOMAN	What do you mean?
+ANYA	Well, honey, what I'm driving us towards here is, sometimes, don't you just wish that ...
+XANDER	This the one you talked to?
+ANYA	Tell you what: let's put a pin in it, go get yourself a beverage and we'll pick it up in a few. 'Kay?
+BUFFY	We noticed.
+SPIKE	It's why we're here.
+XANDER	Yeah, did you turn this nice lady's ex into a giant worm monster?
+ANYA	Yes.
+NANCY	No way - are you saying that ... that thing was Ronnie?
+ANYA	Hey, you wish it, I dish it. I thought we were clear on this. Didn't think you were gonna turn all narc on me.
+BUFFY	You wished your ex was a worm.
+NANCY	We were just talking.
+XANDER	Anya has a way of making things happen.
+ANYA	I had a quota, the guy had it coming, what's the big?
+NANCY	I think I'm gonna be sick.
+BUFFY	Anya, that thing you created burst through solid pavement and ate her dog.
+ANYA	Aww. Puppy ...
+XANDER	Wait. That gets your sad noise? People's lives are in danger and you give it up for the shih-tzu?
+ANYA	You never understood me, Xander.
+NANCY	Xander, who is this woman?
+XANDER	Anya? She's ... Anya. My ex.
+NANCY	Oh.
+ANYA	Hey, nobody's bragging here.
+SPIKE	Please - I've already forgotten our little together time.
+NANCY	I thought you were Xander's ex- girl friend.
+ANYA	I am.
+NANCY	But you and Spike ...?
+ANYA	We had a thing.
+SPIKE	Didn't last.
+NANCY	But weren't you Buffy's ...
+SPIKE	Briefly.
+BUFFY	Never serious.
+NANCY	Are there any of you who haven't slept with each other?
+ANYA	Well at least we're all bipeds, which is more than you can say for Ronnie the worm boy.
+BUFFY	Can we all just focus a minute? Anya. This Ronnie? He's not a worm. Worms are like, this big. They're fish bait. That thing ...
+SPIKE	Was a Sluggoth Demon. Am I right?
+ANYA	Maybe.
+NANCY	But - I never wished for that. I don't even know what a ... whatchamacallit demon is.
+SPIKE	Sluggoth Demon. Very large, very nasty, natural predators who died out around the Crusades.
+ANYA	Same phylum, it's not cheating. I just embellished.
+XANDER	Well you can unembellished now.
+ANYA	Bite me, Harris. I have rules to work with. Vengeance Demon codes of conduct you'll never understand 'cause you're still all so ... human.
+ANYA	Oh my God ...
+SPIKE	What are you staring at?
+ANYA	Oh my God ...
+SPIKE	Right - let's go.
+ANYA	How did you do it ... ?
+BUFFY	Spike. What's she talking about?
+ANYA	I can see you ...
+SPIKE	Nothing. Let's go. Got some worm hunting to do ...
+ANYA	How did you do it?
+SPIKE	Shut up.
+ANYA	It shouldn't be possible ...
+SPIKE	Shut your mouth, you.
+ANYA	How did you get ...
+SPIKE	I said you shut UP!
+XANDER	Buffy ...
+BUFFY	Not now, Xander.
+XANDER	Nancy.
+BUFFY	I'll go find her. You work on Anya - get her to reverse that spell.
+XANDER	Anya, we ...
+ANYA	... Have nothing to talk about.
+ANYA	Don't think you can tell me what to do, Xander. You're not a part of my life anymore, remember?
+ANYA	So why are you here? Let me cast my Vengeance. Do I come to where you work and slap the ... wrench thing out of your hands?
+XANDER	I'm trying to save your life.
+ANYA	How's that work?
+XANDER	Think about the career choice you're making here, Anya. You're getting people killed.
+ANYA	Not my problem.
+XANDER	Well it's gonna be. Forget right and wrong - what you're doing is demonic.
+ANYA	Uh, yeah. We're not called Vengeance People ...
+XANDER	And Buffy's the Slayer. You're a Demon. You kill people - how long you think it's gonna be before she has to do her job?
+ANYA	Buffy wouldn't slay ... me.
+XANDER	Not if you stop now.
+ANYA	What do you want me to do?
+XANDER	Reverse the spell.
+ANYA	It's not that easy, Xander!
+XANDER	You can do it.
+ANYA	Sure, the spell part. But what about afterwards? What about me? I'm in enough trouble as it is. Halfrek's all over my case, D'Hoffryn is not pleased with my work and you don't want to see him unhappy, trust me ...
+XANDER	Nice friends you got.
+ANYA	Nice friends I had. Chums, co- workers, bridesmaids ... oh I had the whole package until something fell apart, now what could that be, Xander?
+XANDER	You saying this is my fault?
+ANYA	All I'm saying is, none of this happened until you dumped me at the altar.
+XANDER	And sooner or later, Anya, that excuse just stops working.
+SPIKE	Too much pain and damage, up close, right inside me. All the way, deep, deep inside me ...
+BUFFY	Spike! Whatever you're doing ...
+SPIKE	Get AWAY!
+BUFFY	Do it somewhere else. I'm through with this.
+SPIKE	Oh, Lucky Girl. Call it quits, now there's an option. If only it were so easy, if only, if only and ... ... What the hell are you screaming about? I can hear you, no need to SHOUT!!!
+XANDER	Buffy.
+NANCY	You. You did this. What are you?
+BUFFY	Stay with him. Make sure he gets help.
+XANDER	Where are you going?
+ANYA	Tell him that.
+XANDER	You reversed the spell. Took some guts. And I know this is bad - but it could be worse.
+BUFFY	So that's the problem.
+SPIKE	I think.
+BUFFY	Got news, Spike. You're not that nice.
+BUFFY	Spike ...
+SPIKE	Buffy. I can't sleep. Can't think. There's voices and darkness and blindness and pain and help me, I I...
+BUFFY	But why'd you do it ...?
+SPIKE	You know why. I got my soul back ...
