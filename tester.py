@@ -19,7 +19,12 @@ for pair in masterlist:
         trainitems.append(script)
         trainlabels.append(label)
 
-dictionary=[]
-trainfeatures,testfeatures=bulkBagOfWords(trainitems, testitems)
+ngramfeatures=[]
+trainfeatures,testfeatures,lexicon=bulkBagOfWords(trainitems, testitems)
+ngramfeatures.append(trainfeatures,testfeatures,lexicon)
+for n in range(1,4):
+	train,test,lexicon=bulkNgrams(trainitems,testitems,n)
+	ngramfeatures.append((train,test, lexicon))
+
 clf = svm.SVC()
 clf.fit(trainfeatures,trainlabels)
