@@ -9,3 +9,4 @@ observe which features are most informative to distinguish between characters in
 The character lines were scrapped from the scripts in buffyworld.com using the buffyscr.py script (requires beautiful soup),
 the script can be used to add new characters to the data base.
 
+I showed this to the students in Kyle's class
